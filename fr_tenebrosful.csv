@@ -5,55 +5,55 @@ _Author,Tenebrosful,,
 Open and close this menu to proceed.
 Optionally you can press <Esc> then click 'Help Menu'.","<?> Ou </> pour faire apparaître un menu avec toutes les commandes.
 Ouvrir et fermer ce menu pour continuer.
-En option, vous pouvez appuyer sur <Echap> puis cliquez sur « Menu Aide »."
+Vous pouvez aussi appuyer sur <Echap> puis cliquez sur « Menu Aide »."
 (A) on an object to bring it up.,,<A> on an object to bring it up.,<A> sur un objet pour le mettre en place.
 (Back) will bring up a menu with all the controls. Open and close the menu by hitting (Back) Twice.,,"<Back> will bring up a menu with all the controls.
 Open and close the menu by hitting <Back> Twice.","<Retour> va afficher un menu avec toutes les commandes.
-Ouvrir et fermer le menu en appuyant sur <Retour> Deux fois."
+Ouvrez et fermez le menu en appuyant sur <Retour> Deux fois."
 (Click) Reset,,(Click) Reset,(Clique) Réinitialiser
 (Click) Zoom,,(Click) Zoom,(Clique) Zoom
 (Left Click) and hold your mouse on the deck.,,<Left Click> and hold your mouse on the deck.,Maintenez <Clique Gauche> sur le paquet.
-(Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,Maintenez <Clique Gauche> sur le paquet.
+(Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,Maintenez <Clique Gauche>  et glissez rapidement hors du paquet.
 (Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,(Facultatif) Un AssetBundle supplémentaire qui peut être utilisé pour des effets partagés entre plusieurs objets afin d'éviter la duplication en mémoire. Idéal pour les effets sonores et de particules.
-(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,(Facultatif) image Retour peut être laissée en blanc.
+(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,(Facultatif) L'image de derrière peut être laissée en blanc.
 (Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulated.,,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,(En option) modèle personnalisé sera par défaut générer un collisionneur de boîte pour votre modèle. Utilisez uniquement si un collisionneur plus précise est nécessaire en raison des coûts de performance. Supports de composés collisionneurs Si plusieurs mailles (convexe seulement). <255 triangles et triangulées.
-(Optional) Game Types:,,(Optional) Game Types:,(En Option) Types De Jeu:
-(Optional) Number of Players:,,(Optional) Number of Players:,(Facultatif) Nombre de joueurs:
+(Optional) Game Types:,,(Optional) Game Types:,(En Option) Types de jeu :
+(Optional) Number of Players:,,(Optional) Number of Players:,(Facultatif) Nombre de joueurs :
 "(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.","(Facultatif) Utilisé uniquement en cas collisionneur de maille est fourni. collision non convexe ne fonctionne que sur les objets verrouillés, mais permet collisionneurs avec des trous (ex, vérificateur chinois Board). Si vous avez besoin d'un collisionneur non convexe sur un objet en mouvement avec plusieurs mailles sur votre collisionneur fourni avec ce déclenchement."
 "(Optional) Upload the diffuse-image texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the diffuse/image texture for your model to a web host, then copy paste the direct link here.","(Facultatif) Téléchargez le diffuse / texture de l'image pour votre modèle à un hébergeur, puis copiez collez le lien direct ici."
 "(Optional) Upload the normal-bump texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the normal/bump texture for your model to a web host, then copy paste the direct link here.","(Facultatif) Ajouter la texture normale / bosse pour votre modèle à un hébergeur, puis copiez collez le lien direct ici."
 "(Optional) Upload your image to a web host, then copy paste the direct link here.",,"(Optional) Upload your image to a web host, then copy paste the direct link here.","(Facultatif) Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici."
-(Optional) Workshop Thumbnail URL:,,(Optional) Workshop Thumbnail Url:,(Facultatif) URL Miniature De L'atelier:
-(Right Bumper) and hold your pointer on the deck.,,<Right Bumper> and hold your pointer on the deck.,<Droit Bumper> et maintenez votre pointeur sur le pont.
-(Right Bumper) and quickly drag away from the deck.,,<Right Bumper> and quickly drag away from the deck.,<Droite Pare-choc> et faites-le glisser rapidement de la plate-forme.
-(Right Click) on an object to bring it up.,,<Right Click> on an object to bring it up.,<Clic Droit> sur un objet pour l'ouvrir.
+(Optional) Workshop Thumbnail URL:,,(Optional) Workshop Thumbnail Url:,(Facultatif) URL de la miniature Workshop :
+(Right Bumper) and hold your pointer on the deck.,,<Right Bumper> and hold your pointer on the deck.,<Bumper Droit> et maintenez votre pointeur sur le paquet.
+(Right Bumper) and quickly drag away from the deck.,,<Right Bumper> and quickly drag away from the deck.,<Bumper Droit> et faites-le glisser rapidement hors du paquet.
+(Right Click) on an object to bring it up.,,<Right Click> on an object to bring it up.,<Clic Droit> sur un objet pour le prendre.
 (Root Folder),,<Root Folder>,<Dossier racine>
-({0}) and hold your hand on the deck.,,<{0}> and hold your hand on the deck.,<{0}> et maintenez votre main sur le pont.
-({0}) and quickly drag away from the deck.,,<{0}> and quickly drag away from the deck.,<{0}> et rapidement glisser loin de la plate-forme.
+({0}) and hold your hand on the deck.,,<{0}> and hold your hand on the deck.,<{0}> et maintenez votre main sur le paquet.
+({0}) and quickly drag away from the deck.,,<{0}> and quickly drag away from the deck.,<{0}> et rapidement glisser loin du paquet.
 10 digit number found in the URL of your mod on the Workshop,,10 digit number found in the URL of your mod on the Workshop,10 chiffres qui se trouvent dans l'URL de votre mod sur le Workshop
-1ST PERSON CAMERA,,1St Person Camera,Caméra 1ère Personne
-1st Person,,1st Person,1ère personne
+1ST PERSON CAMERA,,1St Person Camera,Caméra FPS
+1st Person,,1st Person,FPS
 2D,,2D,2D
-"2D Art, UI, DLCs & PR",,"2D art, UI, DLCs","art 2D, Interface, DLC"
+"2D Art, UI, DLCs & PR",,"2D art, UI, DLCs","Art 2D, Interface, DLC"
 2D Pointer,,2D Pointer,Pointeur 2D
 2D or 3D,,2D or 3D,2D ou 3D
 2d3dlong,,"When in 2D measurements will be flattened onto the horizontal plane.  
 
-When in 3D height will be incorporated into the measurement.","Lorsque des mesures 2D sera aplatie sur le plan horizontal.
+When in 3D height will be incorporated into the measurement.","Les mesures 2D seront aplatie sur le plan horizontal.
 
-Lorsque la hauteur 3D seront intégrés dans la mesure."
+Les mesures 3D intégrent la hauteur dans la mesure."
 3D,,3D,3D
 3D Pointer,,3D Pointer,Pointeur 3D
 3D Prop Art,,3D Prop Art,Objets 3D Art
-3RD-TOP DOWN CAMERA,,3RD/Top Down Camera,3ème P / Vers le bas
-3rd Person,,3rd Person,3ème personne
-ADD AUDIO,,ADD AUDIO,AUDIO ADD
+3RD-TOP DOWN CAMERA,,3RD/Top Down Camera,TPS / Caméra vers le bas
+3rd Person,,3rd Person,TPS
+ADD AUDIO,,ADD AUDIO,Ajouter audio
 ADVANCED,,Advanced,Avancée
-ALL SERVERS,,All Servers,Tous Les Serveurs
-ALL TAGS,,All Tags,tous les tags
-ALT Zoom and Hidden Areas do not work on it.,,ALT Zoom and Hidden Areas do not work on it.,ALT Zoom et zones cachées ne fonctionnent pas sur elle.
+ALL SERVERS,,All Servers,Tous les serveurs
+ALL TAGS,,All Tags,Tous les tags
+ALT Zoom and Hidden Areas do not work on it.,,ALT Zoom and Hidden Areas do not work on it.,ALT Zoom et zones cachées ne fonctionnent pas dessus.
 APPLY,,Apply,Appliquer
-Abstract Games,,Abstract Games,Résumé Jeux
+Abstract Games,,Abstract Games,Jeux abstraits
 Action,,Action,Action
 Active Tags Displayed Here!,,Active Tags Displayed Here!,Les mots clés actifs sont affichés ici !
 Add Custom Tag:,,Add Custom Tag:,Ajouter une marque personnalisée:
@@ -96,7 +96,7 @@ Alpha,,Alpha,Alpha
 Alt,,Alt,Alt
 Alt-Zoom Always On,,Alt-Zoom Always On,Alt-Zoom Toujours activé
 Alt-Zoom Follows Pointer,,Alt-Zoom Follows Pointer,Alt-Zoom Suit le curseur
-Alternate Direction,,Alternate Direction,Direction Alterne
+Alternate Direction,,Alternate Direction,Alterner les directions
 "Alternatively, you can also hold an object & press your middle mouse button.",,"Alternatively, you can also hold an object & press your middle mouse button.",Vous pouvez également tenir un objet et appuyez sur le bouton milieu de la souris.
 "Alternatively, you can also hold an object & use the scroll wheel on your mouse.",,"Alternatively, you can also hold an object & use the scroll wheel on your mouse.",Vous pouvez également tenir un objet et utiliser la molette de défilement de votre souris.
 "Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.",,"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.","Vous pouvez également tenir un objet, appuyez sur + et utilisez la molette de défilement de votre souris pour des objets à grande échelle."
@@ -167,8 +167,8 @@ BACKGROUNDS,,Backgrounds,Arrière-plans
 BLOCK,,Block,Bloquer
 BLOCKED,,Blocked,Bloqué
 Back,,Back,Arrière
-Back Image,,Back Image,image Retour
-Back is Hidden,,Back is Hidden,Retour est cachée
+Back Image,,Back Image,Image arrière
+Back is Hidden,,Back is Hidden,Cacher l'arrière
 Backgammon,,Backgammon,Backgammon
 Background,,Background,Fond
 Backspace,,Backspace,Backspace
@@ -188,7 +188,7 @@ Bishop Light,,Bishop Light,Bishop Lumière
 Bishop Supporters,,Bishop Supporters,Les partisans Bishop
 Black,,Black,Noir
 Black (Game Master - see all hidden information),,Black (Game Master - see all hidden information),Noir (Game Master - voir toutes les informations cachées)
-Black (Game Master),,Black (Game Master),Noir (Game Master)
+Black (Game Master),,Black (Game Master),Noir (Maitre du Jeu)
 Black Bowl,,Black Bowl,Bol noir
 Black Dragon,,Black Dragon,Dragon noir
 Black Piece,,Black Piece,Piece noir
@@ -213,11 +213,11 @@ Bounciness,,Bounciness,Rebondissement
 Bowl,,Bowl,bol
 Box,,Box,Boîte
 Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,,Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,Sélectionnez plusieurs objets et appuyez sur la touche pour les regrouper. Cela ne fonctionne que pour les objets empilables et des cartes. Cela peut aussi se faire dans le menu contextuel.
-Break Force,,Break Force,force de rupture
-Break Torque,,Break Torque,couple de rupture
+Break Force,,Break Force,Force de rupture
+Break Torque,,Break Torque,Couple de rupture
 Brightness,,Brightness,Luminosité
 Broken Confirmation Dialog!,,Broken Confirmation Dialog!,Cassé de dialogue de confirmation!
-Brown,,Brown,marron
+Brown,,Brown,Marron
 Brown Backgammon,,Brown Backgammon,Brown Backgammon
 Browse,,Browse,Chercher
 Browse Local Files,,Browse Local Files,Parcourir les fichiers locaux
@@ -261,11 +261,11 @@ Camera Load Spin Rate,,Camera Load Spin Rate,Vitesse des caméras pré-sauvegard
 Camera Mode,,Camera Mode,Mode caméra
 Camera Right,,Camera Right,Caméra Droite
 Camera Up,,Camera Up,Caméra Haut
-Camera mode that functions like a FPS.,,Camera mode that functions like a FPS.,mode caméra qui fonctionne comme un FPS.
-Camera mode that functions like a top down 2d game.,,Camera mode that functions like a top down 2d game.,mode caméra qui fonctionne comme un haut vers le bas jeu 2d.
-Camera mode that is like a spectator camera in a FPS.,,Camera mode that is like a spectator camera in a FPS.,mode caméra qui est comme une caméra spectateur dans un FPS.
-Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,mode caméra qui tourne autour d'une remarque similaire à un MMO.
-Camera mode that orbits a point.,,Camera mode that orbits a point.,mode caméra qui tourne autour d'un point.
+Camera mode that functions like a FPS.,,Camera mode that functions like a FPS.,Caméra qui fonctionne comme un FPS.
+Camera mode that functions like a top down 2d game.,,Camera mode that functions like a top down 2d game.,Caméra qui fonctionne de haut vers le bas comme un jeu 2D.
+Camera mode that is like a spectator camera in a FPS.,,Camera mode that is like a spectator camera in a FPS.,Caméra qui est comme une caméra spectateur dans un FPS.
+Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,Caméra qui tourne autour d'un point similaire à un MMO.
+Camera mode that orbits a point.,,Camera mode that orbits a point.,Caméra qui tourne autour d'un point.
 Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,,Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,état de la caméra 0 remplace la position de la barre d'espace pour tout le monde à la table au lieu d'utiliser l'emplacement de la main. Déplacez votre appareil photo où vous voulez que votre position de la caméra par défaut pour être et appuyez sur Ctrl + 0. Ceci est la nouvelle position de la barre d'espace pour tous les utilisateurs
 Cancel,,Cancel,Annuler
 Cannot overwrite default themes.,,Cannot overwrite default themes.,Impossible de remplacer des thèmes par défaut.
