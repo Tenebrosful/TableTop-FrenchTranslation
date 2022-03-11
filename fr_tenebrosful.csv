@@ -1,0 +1,1979 @@
+Key,Desc,Default,French
+_Title,Tenebrosful's French Translation,,
+_Author,Tenebrosful,,
+(?) or (-) will bring up a menu with all the controls. Open and close this menu to proceed. Optionally you can press (Esc) then click 'Help Menu'.,,"<?> or </> will bring up a menu with all the controls.
+Open and close this menu to proceed.
+Optionally you can press <Esc> then click 'Help Menu'.","<?> Ou </> pour faire apparaître un menu avec toutes les commandes.
+Ouvrir et fermer ce menu pour continuer.
+En option, vous pouvez appuyer sur <Echap> puis cliquez sur « Menu Aide »."
+(A) on an object to bring it up.,,<A> on an object to bring it up.,<A> sur un objet pour le mettre en place.
+(Back) will bring up a menu with all the controls. Open and close the menu by hitting (Back) Twice.,,"<Back> will bring up a menu with all the controls.
+Open and close the menu by hitting <Back> Twice.","<Retour> va afficher un menu avec toutes les commandes.
+Ouvrir et fermer le menu en appuyant sur <Retour> Deux fois."
+(Click) Reset,,(Click) Reset,(Clique) Réinitialiser
+(Click) Zoom,,(Click) Zoom,(Clique) Zoom
+(Left Click) and hold your mouse on the deck.,,<Left Click> and hold your mouse on the deck.,Maintenez <Clique Gauche> sur le paquet.
+(Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,Maintenez <Clique Gauche> sur le paquet.
+(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,(Facultatif) Un AssetBundle supplémentaire qui peut être utilisé pour des effets partagés entre plusieurs objets afin d'éviter la duplication en mémoire. Idéal pour les effets sonores et de particules.
+(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,(Facultatif) image Retour peut être laissée en blanc.
+(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulated.,,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,(En option) modèle personnalisé sera par défaut générer un collisionneur de boîte pour votre modèle. Utilisez uniquement si un collisionneur plus précise est nécessaire en raison des coûts de performance. Supports de composés collisionneurs Si plusieurs mailles (convexe seulement). <255 triangles et triangulées.
+(Optional) Game Types:,,(Optional) Game Types:,(En Option) Types De Jeu:
+(Optional) Number of Players:,,(Optional) Number of Players:,(Facultatif) Nombre de joueurs:
+"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.","(Facultatif) Utilisé uniquement en cas collisionneur de maille est fourni. collision non convexe ne fonctionne que sur les objets verrouillés, mais permet collisionneurs avec des trous (ex, vérificateur chinois Board). Si vous avez besoin d'un collisionneur non convexe sur un objet en mouvement avec plusieurs mailles sur votre collisionneur fourni avec ce déclenchement."
+"(Optional) Upload the diffuse-image texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the diffuse/image texture for your model to a web host, then copy paste the direct link here.","(Facultatif) Téléchargez le diffuse / texture de l'image pour votre modèle à un hébergeur, puis copiez collez le lien direct ici."
+"(Optional) Upload the normal-bump texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the normal/bump texture for your model to a web host, then copy paste the direct link here.","(Facultatif) Ajouter la texture normale / bosse pour votre modèle à un hébergeur, puis copiez collez le lien direct ici."
+"(Optional) Upload your image to a web host, then copy paste the direct link here.",,"(Optional) Upload your image to a web host, then copy paste the direct link here.","(Facultatif) Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici."
+(Optional) Workshop Thumbnail URL:,,(Optional) Workshop Thumbnail Url:,(Facultatif) URL Miniature De L'atelier:
+(Right Bumper) and hold your pointer on the deck.,,<Right Bumper> and hold your pointer on the deck.,<Droit Bumper> et maintenez votre pointeur sur le pont.
+(Right Bumper) and quickly drag away from the deck.,,<Right Bumper> and quickly drag away from the deck.,<Droite Pare-choc> et faites-le glisser rapidement de la plate-forme.
+(Right Click) on an object to bring it up.,,<Right Click> on an object to bring it up.,<Clic Droit> sur un objet pour l'ouvrir.
+(Root Folder),,<Root Folder>,<Dossier racine>
+({0}) and hold your hand on the deck.,,<{0}> and hold your hand on the deck.,<{0}> et maintenez votre main sur le pont.
+({0}) and quickly drag away from the deck.,,<{0}> and quickly drag away from the deck.,<{0}> et rapidement glisser loin de la plate-forme.
+10 digit number found in the URL of your mod on the Workshop,,10 digit number found in the URL of your mod on the Workshop,10 chiffres qui se trouvent dans l'URL de votre mod sur le Workshop
+1ST PERSON CAMERA,,1St Person Camera,Caméra 1ère Personne
+1st Person,,1st Person,1ère personne
+2D,,2D,2D
+"2D Art, UI, DLCs & PR",,"2D art, UI, DLCs","art 2D, Interface, DLC"
+2D Pointer,,2D Pointer,Pointeur 2D
+2D or 3D,,2D or 3D,2D ou 3D
+2d3dlong,,"When in 2D measurements will be flattened onto the horizontal plane.  
+
+When in 3D height will be incorporated into the measurement.","Lorsque des mesures 2D sera aplatie sur le plan horizontal.
+
+Lorsque la hauteur 3D seront intégrés dans la mesure."
+3D,,3D,3D
+3D Pointer,,3D Pointer,Pointeur 3D
+3D Prop Art,,3D Prop Art,Objets 3D Art
+3RD-TOP DOWN CAMERA,,3RD/Top Down Camera,3ème P / Vers le bas
+3rd Person,,3rd Person,3ème personne
+ADD AUDIO,,ADD AUDIO,AUDIO ADD
+ADVANCED,,Advanced,Avancée
+ALL SERVERS,,All Servers,Tous Les Serveurs
+ALL TAGS,,All Tags,tous les tags
+ALT Zoom and Hidden Areas do not work on it.,,ALT Zoom and Hidden Areas do not work on it.,ALT Zoom et zones cachées ne fonctionnent pas sur elle.
+APPLY,,Apply,Appliquer
+Abstract Games,,Abstract Games,Résumé Jeux
+Action,,Action,Action
+Active Tags Displayed Here!,,Active Tags Displayed Here!,Les mots clés actifs sont affichés ici !
+Add Custom Tag:,,Add Custom Tag:,Ajouter une marque personnalisée:
+Add New,,Add New,Nouveau
+Add Tag:,,Add Tag:,Ajouter une étiquette:
+Add a tag to the selected components.,,Add a tag to the selected components.,Ajouter un tag aux composants sélectionnés.
+Additive Load,,Additive Load,charge additif
+Adds soft shadows to the scene for a greater sense of depth. Costly performance.,,Adds soft shadows to the scene for a greater sense of depth. Costly performance.,Ajoute des ombres douces sur la scène pour un plus grand sens de la profondeur. performances coûteuses.
+Admin,,Admin,Admin
+Advanced Mode,,Advanced Mode,Mode avancé
+Advanced Options,,Advanced Options,Options avancées
+Align Zoomed Object,,Align Zoomed Object,Aligner l'objet zoomé
+All,,All,Tout
+All Commands,,All Commands,Commandes
+All actions will be executed on all highlighted objects.,,All actions will be executed on all highlighted objects.,Toutes les actions seront exécutées sur tous les objets mis en évidence.
+Allow Swapping,,Allow Swapping,Autoriser Permutation
+Allows player to be able to change their color-seat.,,Allows player to be able to change their color/seat.,Permet au joueur de pouvoir changer leur couleur / siège.
+Allows players to be able to create or destroy hidden areas or randomize zones.,,Allows players to be able to create or destroy hidden areas or randomize zones.,Permet aux joueurs de pouvoir créer ou détruire des zones cachées ou aléatoires.
+Allows players to be able to draw with the paint tool on the table.,,Allows players to be able to draw with the paint tool on the table.,Permet aux joueurs de pouvoir dessiner avec l'outil de peinture sur la table.
+Allows players to be able to draw.,,Allows players to be able to draw.,Permet aux joueurs de pouvoir dessiner.
+"Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc).",,"Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc).","Permet aux joueurs de pouvoir interagir avec les objets numériques (lecteur MP3, compteur, horloge, etc.)."
+"Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc).",,"Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc).","Permet aux joueurs de pouvoir interagir avec les objets numériques (tablette, lecteur Mp3, compteur, etc.)."
+Allows players to be able to interact with the music player.,,Allows players to be able to interact with the music player.,Permet aux joueurs de pouvoir interagir avec le lecteur de musique.
+Allows players to be able to interact with the tablets.,,Allows players to be able to interact with the tablets.,Permet aux joueurs de pouvoir interagir avec la tablette.
+Allows players to be able to nudge objects.,,Allows players to be able to nudge objects.,Permet aux joueurs de pouvoir pousser des objets.
+Allows players to be able to peek under objects.,,Allows players to be able to peek under objects.,Permet aux joueurs de pouvoir regarder sous les objets.
+Allows players to be able to save objects.,,Allows players to be able to save objects.,Permet aux joueurs de pouvoir enregistrer des objets.
+Allows players to be able to use the decal tool.,,Allows players to be able to use the decal tool.,Permet aux joueurs de pouvoir utiliser l'outil autocollant.
+Allows players to be able to use the line tool. This includes the to ping location.,,Allows players to be able to use the line tool. This includes the to ping location.,Permet aux joueurs de pouvoir utiliser l'outil de ligne. Cela inclut le ping à l'emplacement.
+Allows players to combine objects together with the combine tool.,,Allows players to combine objects together with the combine tool.,Permet aux joueurs de combiner des objets avec l'outil combinaisson.
+Allows players to create or destroy joints.,,Allows players to create or destroy joints.,Permet aux joueurs de créer ou de détruire les articulations.
+Allows players to edit the notebook or text on screen.,,Allows players to edit the notebook or text on screen.,Permet aux joueurs de modifier les notes ou d'un texte à l'écran.
+Allows players to flick objects.,,Allows players to flick objects.,Allows players to flick objects.
+Allows players to flip the table.,,Allows players to flip the table.,Permet aux joueurs de retourner la table.
+Allows players to increase or decrease the size of objects.,,Allows players to increase or decrease the size of objects.,Permet aux joueurs d'augmenter ou diminuer la taille des objets.
+Allows players to join or leave teams.,,Allows players to join or leave teams.,Permet aux joueurs de rejoindre ou quitter des équipes.
+Allows players to lock and unlock objects in place.,,Allows players to lock and unlock objects in place.,Permet aux joueurs de verrouiller et de déverrouiller des objets.
+"Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)",,"Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)","Permet aux joueurs d'effectuer des actions dans le menu contextuel (Nom, Distribution, Recherche, etc.)"
+Alpha,,Alpha,Alpha
+Alt,,Alt,Alt
+Alt-Zoom Always On,,Alt-Zoom Always On,Alt-Zoom Toujours activé
+Alt-Zoom Follows Pointer,,Alt-Zoom Follows Pointer,Alt-Zoom Suit le curseur
+Alternate Direction,,Alternate Direction,Direction Alterne
+"Alternatively, you can also hold an object & press your middle mouse button.",,"Alternatively, you can also hold an object & press your middle mouse button.",Vous pouvez également tenir un objet et appuyez sur le bouton milieu de la souris.
+"Alternatively, you can also hold an object & use the scroll wheel on your mouse.",,"Alternatively, you can also hold an object & use the scroll wheel on your mouse.",Vous pouvez également tenir un objet et utiliser la molette de défilement de votre souris.
+"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.",,"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.","Vous pouvez également tenir un objet, appuyez sur + et utilisez la molette de défilement de votre souris pour des objets à grande échelle."
+"Alternatively, you can press the chat icon on the bottom left to text chat.",,"Alternatively, you can press the chat icon on the bottom left to text chat.",Vous pouvez également appuyer sur l'icône de chat en bas à gauche au texte dans le chat.
+Always On,,Always On,Toujours Activé
+"Always display the on-screen keyboard,",,"Always display the on-screen keyboard,","Toujours afficher le clavier à l'écran,"
+Amaranth,,Amaranth,Amarante
+Ambient,,Ambient,Ambiance
+Ambient Intensity,,Ambient Intensity,Intensité Ambiante
+An advanced feature for scripting. Can be used to return all objects in this zone.,,An advanced feature for scripting. Can be used to return all objects in this zone.,Une fonctionnalité avancée pour les scripts. Peut être utilisé pour renvoyer tous les objets dans cette zone.
+Anchor,,Anchor,Ancre
+Anchored,,Anchored,ancré
+And all our Kickstarter Supporters! Thank you very much!,,And all our Kickstarter Supporters! Thank you very much!,Et tous nos partisans Kickstarter! Merci beaucoup!
+Angular Drag,,Angular Drag,Frottements avec l'air (Rotation)
+Animals,,Animals,Animaux
+Animations,,Animations,animations
+Anisotropic Filtering,,Anisotropic Filtering,Filtrage Anisotrope
+Anyone can join with an optional password.,,Anyone can join with an optional password.,Tout le monde peut se joindre à un mot de passe en option.
+Are you looking for players to join you?,,Are you looking for players to join you?,Vous cherchez joueurs à vous rejoindre?
+Are you sure you want to additively load {0}?,,Are you sure you want to additively load {0}?,Êtes-vous sûr de vouloir additivement charge {0}?
+Are you sure you want to clear the table?,,Are you sure you want to clear the table?,Etes-vous sûr de vouloir nettoyer la table ?
+Are you sure you want to delete script {0}?,,Are you sure you want to delete script {0}?,Etes-vous sûr de vouloir supprimer le script {0}?
+Are you sure you want to delete {0}?,,Are you sure you want to delete {0}?,Etes-vous sûr de vouloir supprimer {0} ?
+Are you sure you want to exit to the Main Menu?,,Are you sure you want to exit to the Main Menu?,Etes-vous sûr de vouloir retourner au menu principal ?
+Are you sure you want to load {0}?,,Are you sure you want to load {0}?,Êtes-vous sûr que vous voulez charger {0} ?
+Arms,Weapons,Arms,Armes
+Arms Coin 2,Weapons Coin 2,Arms Coin 2,Armes Coin 2
+Arms Coin 3,Weapons Coin 3,Arms Coin 3,Armes Coin 3
+Arms Coin 4,Weapons Coin 4,Arms Coin 4,Armes Coin 4
+Arms Coin 5,Weapons Coin 5,Arms Coin 5,Armes Coin 5
+Arms Coin Ace,Weapons Coin Ace,Arms Coin Ace,Armes Coin Ace
+Arms Coin Blank,Weapons Coin Blank,Arms Coin Blank,Armes Coin Blank
+Arms Dice,Weapons Dice,Arms Dice,armes dés
+Arms Square 2,Weapons Square 2,Arms Square 2,Armes Square 2
+Arms Square 3,Weapons Square 3,Arms Square 3,Armes Square 3
+Arms Square 4,Weapons Square 4,Arms Square 4,Armes Square 4
+Arms Square 5,Weapons Square 5,Arms Square 5,Armes Square 5
+Arms Square Ace,Weapons Square Ace,Arms Square Ace,Armes Place Ace
+Arms Square Blank,Weapons Square Blank,Arms Square Blank,Armes Place Blank
+Arrow-Line Tool,,Arrow/Line Tool,Flèche / Règle
+Arrows next to the top menu rewind-forward time (host only).,,Arrows next to the top menu rewind/forward time (host only).,Les flèches en haut à gauche permettent de remonter le temps.
+Asset name,,Asset name,nom de l'actif
+AssetBundle,,AssetBundle,AssetBundle
+Assets,,Assets,Les atouts
+Attach,,Attach,Attacher
+Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,,Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,Attachez l'objet à l'autre dans une relation parent-enfant. L'objet étant attaché n'est plus propre entité de et existe seulement visuellement.
+Attached UI Screen,,Attached UI Screen,Ancrage de l'interface
+Attack,,Attack,Attaque
+Audio,,Audio,Audio
+Audio name,,Audio name,Nom audio
+Auto,,Auto,Auto
+Auto Hide Chat,,Auto Hide Chat,Auto Cacher Le Chat
+Auto Run,,Auto Run,Exécution Automatique
+Auto Scale,,Auto Scale,Automatique
+Auto connect to IRC on startup.,,Auto connect to IRC on startup.,Auto se connecter à l'IRC au démarrage.
+Auto raise,,Auto raise,Auto raise
+Auto scale will automatically size the UI to match the resolution ignoring the slider.,,Auto scale will automatically size the UI to match the resolution ignoring the slider.,Redimensionne automatiquement l'interface utilisateur pour correspondre à la résolution en ignorant le curseur.
+"Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position.",,"Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position.","Auto: Mesure des objets, le cas échéant. Lorsque vous survolez, maintenez la touche CTRL pour utiliser la position du pointeur à la place. Gratuit: Mesurer en utilisant seulement votre position de pointeur."
+Autofocus Search Input,,Autofocus Search Input,Écrire dans la recherche automatiquement
+Automatic,,Automatic,Automatique
+Automatically arranges objects (predominantly cards),,Automatically arranges objects (predominantly cards),Automatiquement arrange les objets (principalement des cartes)
+Autoraise,,Autoraise,Autoraise
+Autosave Interval,,Autosave Interval,Interval des sauvegardes Auto.
+Autosave Log,,Autosave Log,Avertir des sauvergardes dans la console
+Available space on Steam Cloud. ~100 GB available total.,,Available space on Steam Cloud. ~100 GB available total.,L'espace disponible sur Steam Cloud. ~ 100 Go total disponible.
+Axis,,Axis,Axe
+BACKGROUNDS,,Backgrounds,Arrière-plans
+BLOCK,,Block,Bloquer
+BLOCKED,,Blocked,Bloqué
+Back,,Back,Arrière
+Back Image,,Back Image,image Retour
+Back is Hidden,,Back is Hidden,Retour est cachée
+Backgammon,,Backgammon,Backgammon
+Background,,Background,Fond
+Backspace,,Backspace,Backspace
+Bad Connection,,Bad Connection,Mauvaise connexion
+Bag,,Bag,Sac
+Barghest,,Barghest,Barghest
+Barrel,,Barrel,Baril
+Basilisk,,Basilisk,Basilic
+Battle For Souls,,Battle For Souls,Bataille pour les âmes
+Bear,,Bear,Ours
+Bind,,Bind,Lier
+Bishop,,Bishop,Fou
+Bishop Cast Iron,,Bishop Cast Iron,Bishop Cast Iron
+Bishop Chrome,,Bishop Chrome,Bishop Chrome
+Bishop Dark,,Bishop Dark,évêque noir
+Bishop Light,,Bishop Light,Bishop Lumière
+Bishop Supporters,,Bishop Supporters,Les partisans Bishop
+Black,,Black,Noir
+Black (Game Master - see all hidden information),,Black (Game Master - see all hidden information),Noir (Game Master - voir toutes les informations cachées)
+Black (Game Master),,Black (Game Master),Noir (Game Master)
+Black Bowl,,Black Bowl,Bol noir
+Black Dragon,,Black Dragon,Dragon noir
+Black Piece,,Black Piece,Piece noir
+Blindfold,,Blindfold,Se rendre aveugle
+Blindfolded (Can't see),,Blindfolded (Can't see),Les yeux bandés (ne peut pas voir)
+Block ?,,Block <Player>?,Bloquer <Player>?
+Block {0}?,,Block {0}?,Bloquer {0}?
+Blocks,,Blocks,Blocs
+Blue,,Blue,Bleu
+Blue 10,,Blue 10,bleu 10
+Blue Rectangle,,Blue Rectangle,bleu Rectangle
+Board,,Board,Planche
+Board Games,,Board Games,Jeux de société
+Boardgame,,Boardgame,Jeu de plateau
+Boards,,Boards,Planches
+Book Buttons On Hover,,Book Buttons On Hover,Boutons des livres au survol
+Book Page Opacity,,Book Page Opacity,Opacité des pages
+Book UI Opacity,,Book UI Opacity,Opacité de l'interface des livres
+Both,,Both,Tous les deux
+Bottom Image,,Bottom Image,image du bas
+Bounciness,,Bounciness,Rebondissement
+Bowl,,Bowl,bol
+Box,,Box,Boîte
+Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,,Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,Sélectionnez plusieurs objets et appuyez sur la touche pour les regrouper. Cela ne fonctionne que pour les objets empilables et des cartes. Cela peut aussi se faire dans le menu contextuel.
+Break Force,,Break Force,force de rupture
+Break Torque,,Break Torque,couple de rupture
+Brightness,,Brightness,Luminosité
+Broken Confirmation Dialog!,,Broken Confirmation Dialog!,Cassé de dialogue de confirmation!
+Brown,,Brown,marron
+Brown Backgammon,,Brown Backgammon,Brown Backgammon
+Browse,,Browse,Chercher
+Browse Local Files,,Browse Local Files,Parcourir les fichiers locaux
+Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.,,Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.,Parcourez votre atelier Mods. Si l'interrogation atelier pourrait ne pas être énuméré quelques-unes de vos mods. Vous devez également être abonné à votre mod pour afficher ici.
+Browse mods on the Workshop.,,Browse mods on the Workshop.,Parcourir les mods sur l'atelier.
+Business Coordinator,,Business Coordinator,Coordinateur commercial
+CHAT COMMANDS,,Chat Commands,Commandes chat
+CLASSIC,,Classic,Classique
+CLEAR,,Clear,Nettoyer
+CLOUD,,Cloud,Cloud
+CM,,CM,CM
+COMPONENTS,,Components,Composants
+CONTEXTUAL MENU,,Contextual Menu,Menu contextuel
+CONTROLLERS,,Controllers,Manettes
+CONTROLS,,Controls,Contrôles
+CREATE,,Create,Créer
+CREATE ASSET,,Create Asset,Créer des actifs
+CREATE DECAL,,Create Decal,Créer Decal
+CUSTOM ASSETBUNDLE,,Custom Assetbundle,Assetbundle sur mesure
+CUSTOM BACKGROUND,,Custom Background,Arrière-plan personnalisé
+CUSTOM BOARD,,Custom Board,Conseil personnalisé
+CUSTOM CARD,,Custom Card,Carte personnalisée
+CUSTOM DECK,,Custom Deck,Plate-forme personnalisée
+CUSTOM DICE,,Custom Dice,dés sur mesure
+CUSTOM FIGURINE,,Custom Figurine,Figurine personnalisée
+CUSTOM IMAGE,,Custom Image,Image personnalisée
+CUSTOM JIGSAW,,Custom Jigsaw,Jigsaw personnalisé
+CUSTOM MODEL,,Custom Model,Modèle sur mesure
+CUSTOM OBJECT,,Custom Object,Objet personnalisé
+CUSTOM PDF,,Custom PDF,PDF personnalisé
+CUSTOM TABLE,,Custom Table,Tableau personnalisé
+CUSTOM TABLE SQUARE,,Custom Table Square,Table carrée sur mesure
+CUSTOM TILE,,Custom Tile,Carrelage personnalisé
+CUSTOM TOKEN,,Custom Token,jeton personnalisé
+Calculator,,Calculator,Calculatrice
+Camera,,Camera,Caméra
+Camera Down,,Camera Down,Caméra vers le bas
+Camera Hold Rotate,,Camera Hold Rotate,(Maintenir) Faire pivoter la caméra
+Camera Left,,Camera Left,Caméra gauche
+Camera Load Spin Rate,,Camera Load Spin Rate,Vitesse des caméras pré-sauvegardées
+Camera Mode,,Camera Mode,Mode caméra
+Camera Right,,Camera Right,Caméra Droite
+Camera Up,,Camera Up,Caméra Haut
+Camera mode that functions like a FPS.,,Camera mode that functions like a FPS.,mode caméra qui fonctionne comme un FPS.
+Camera mode that functions like a top down 2d game.,,Camera mode that functions like a top down 2d game.,mode caméra qui fonctionne comme un haut vers le bas jeu 2d.
+Camera mode that is like a spectator camera in a FPS.,,Camera mode that is like a spectator camera in a FPS.,mode caméra qui est comme une caméra spectateur dans un FPS.
+Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,mode caméra qui tourne autour d'une remarque similaire à un MMO.
+Camera mode that orbits a point.,,Camera mode that orbits a point.,mode caméra qui tourne autour d'un point.
+Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,,Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,état de la caméra 0 remplace la position de la barre d'espace pour tout le monde à la table au lieu d'utiliser l'emplacement de la main. Déplacez votre appareil photo où vous voulez que votre position de la caméra par défaut pour être et appuyez sur Ctrl + 0. Ceci est la nouvelle position de la barre d'espace pour tous les utilisateurs
+Cancel,,Cancel,Annuler
+Cannot overwrite default themes.,,Cannot overwrite default themes.,Impossible de remplacer des thèmes par défaut.
+Cap Framerate,,Cap Framerate,Limiter les IPS
+Card,,Card,Carte
+Card Games,,Card Games,Jeux de cartes
+Card Hands,,Card Hands,carte mains
+Card Is A Deck For Hotkeys,,Card Is A Deck For Hotkeys,Card Is A Deck For Hotkeys
+Card Scale,,Card Scale,Echelle carte
+CardBot,,CardBot,carte Bot
+CardBots Head Deck,,CardBots Head Deck,CardBots tête plate-forme
+CardBots Main Deck,,CardBots Main Deck,CardBots Pont principal
+Cardboard,,Cardboard,Papier carton
+Cards,,Cards,Cartes
+Cards-Per-Deck,,Cards Per Deck,Cartes par jeu
+Cast Shadows,,Cast Shadows,Projette des ombres
+Category,,Category,Catégorie
+Cathedral,,Cathedral,Cathédrale
+Centaur,,Centaur,Centaure
+Center,,Center,Centre
+Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.,,Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.,Centre: Gizmos placé au point de pivot de l'objet sélectionné. Pivot: Gizmos placé au point de pivotement de l'objet sélectionné.
+Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.,,Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.,Centre: Gizmos placé au centre de la sélection. Pivot: Gizmos placé au point de pivotement de l'objet sélectionné.
+Centre On Mouse Wheel,,Centre On Mouse Wheel,Centre sur la souris
+Cerberus,,Cerberus,Cerberus
+Certain object types have special properties to make them behave more naturally.,,Certain object types have special properties to make them behave more naturally.,Certains types d'objets ont des propriétés spéciales pour les faire se comporter plus naturellement.
+Chair,,Chair,chaise
+Change Color,,Change Color,Changer de couleur
+Change Team,,Change Team,Changer d'équipe
+"Change any settings like Graphics, Controls, UI, etc.",,"Change any settings like Graphics, Controls, UI, etc.","Modifiez les paramètres tels que graphiques, contrôles, interface utilisateur, etc."
+Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),,Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),"Choix du mode de communication: Appuyez pour parler (Maintenez la touche), Bascule (Activer ou désactiver votre micro) Désactiver (Désactive le tchat vocal)"
+Change the chat window color.,,Change the chat window color.,Changer la couleur de la fenêtre de chat.
+Change the color of the light shining from above.,,Change the color of the light shining from above.,Changer la couleur de la lumière qui brille en haut.
+Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.,,Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.,Modifier les méta-données pour votre jeu actuellement chargé. Cette information est consultable dans le jeu et sur le Workshop.
+Change the tooltip on object based on its rotation. Great for custom dice or tiles.,,Change the tooltip on object based on its rotation. Great for custom dice or tiles.,Modifier l'info-bulle sur l'objet en fonction de sa rotation. Idéal pour les dés personnalisés ou des tuiles.
+Change to the next page.,,Change to the next page.,Changer à la page suivante.
+Change to the next state.,,Change to the next state.,Changer à l'étape suivante.
+Changes chat Opacity.,,Changes chat Opacity.,Les changements de chat Opacité.
+Changes how strong the light shines from above. This also effects the strength of the shadows.,,Changes how strong the light shines from above. This also effects the strength of the shadows.,Les changements la force de la lumière luit d'en haut. Cela influe aussi la force de l'ombre.
+Changes the Camera look speed.,,Changes the Camera look speed.,Modifie la vitesse de rotation de la caméra.
+Changes the amount the camera can see.,,Changes the amount the camera can see.,Modifie le champ de vision de la caméra.
+Changes the color of the grid.,,Changes the color of the grid.,Modifie la couleur de la grille.
+Changes the font size.,,Changes the font size.,Modifie la taille de la police.
+Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.,,Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.,Modifie le volume global de tous les lecteurs mp3 en jeu. Vous pouvez toujours régler le volume sur l'objet lui-même.
+Changes the global volume of everything.,,Changes the global volume of everything.,Modifie le volume global de tout.
+Changes the in-game volume of objects.,,Changes the in-game volume of objects.,Modifie le volume des objets dans le jeu.
+Changes the intensity of the LUT.,,Changes the intensity of the LUT.,Modifie l'intensité de la LUT.
+Changes the speed in which your camera moves.,,Changes the speed in which your camera moves.,Change la vitesse à laquelle votre caméra se déplace.
+Changes the transparency the grid.,,Changes the transparency the grid.,Modifie la transparence de la grille.
+Changes the volume of other player's voice.,,Changes the volume of other player's voice.,Modifie le volume de la voix d'un autre joueur.
+Changes the volume of the main menu music.,,Changes the volume of the main menu music.,Modifie le volume de la musique du menu principal.
+Changes the volume of your voice.,,Changes the volume of your voice.,Modifie le volume de votre voix.
+Chat,,Chat,Tchat
+Chat Settings,,Chat Settings,Paramètres De Discussion
+Chat will auto hide after a set amount of time.,,Chat will auto hide after a set amount of time.,Le chat cachera automatique après un certain laps de temps.
+Chat will filter rude words and misbehaviour.,,Chat will filter rude words and misbehaviour.,Le chat filtrera les mots et les mauvais comportements grossiers.
+Check,,Check,Vérifier
+Check out the patch!,,Check out the patch!,Consultez le patch!
+Check this to enable controller input.,,Check this to enable controller input.,Cochez cette case pour activer l'entrée contrôleur.
+Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.,,Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.,Cochez cette case pour activer le support tactile. Note: Ceci arrête actuellement l'entrée de la souris de fonctionner correctement tout permis.
+Checkers,,Checkers,Dames
+Chess,,Chess,Échecs
+Chest,,Chest,Poitrine
+Chest Tools,,Chest Tools,Outils poitrine
+Chimera,,Chimera,Chimère
+Chinese Checkers,,Chinese Checkers,Dames chinoises
+Chip,,Chip,Puce
+Choose Color,,Choose [DA1918]C[E18438]o[E7E52C]l[31B32B]o[1F87FF]r,Choisissez [DA1918] C [E18438] o [E7E52C] l [31B32B] o [1F87FF] r
+"Choose between a box, hex horizontal, or hex vertical grid.",,"Choose between a box, hex horizontal, or hex vertical grid.","Choisir entre une boîte, horizontal hexagonale, ou une grille verticale hexagonale."
+Choose between automatic or custom turns.,,Choose between automatic or custom turns.,Choisissez entre les tours automatiques ou personnalisés.
+Choose between the old (Static) grid and the new one (Projection).,,Choose between the old (Static) grid and the new one (Projection).,Choisissez entre l'ancienne grille (statique) et la nouvelle (projection).
+Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.,,Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.,Choisissez parmi une variété de LUT (Look-up Texture) pour changer la couleur classement de la scène.
+Choose the location for your mods folder.,,Choose the location for your mods folder.,Choisissez l'emplacement de votre dossier de Mods.
+Circle,,Circle,Cercle
+Classic Games that are included as part of Tabletop Simulator by default.,,Classic Games that are included as part of Tabletop Simulator by default.,Jeux classiques qui sont inclus dans le cadre d'un simulateur par défaut. Tabletop
+Clear the table.,,Clear the table.,Débarrasse la table.
+Click Tooltip on Menu,,Click Tooltip on Menu,Cliquez sur le menu infobulle
+Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Right click to change the color of the hand.,,Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Left-click to change the color of the hand.,Cliquez sur une main de joueur pour le supprimer. Cliquez et faites glisser pour créer une nouvelle main. Vous pouvez avoir plusieurs mains de la même couleur. Faites un clic droit pour changer la couleur de la main.
+Click and drag a zone for a Fog of War area.,,Click and drag a zone for a Fog of War area.,Cliquez et faites glisser pour une zone de brouillard de guerre.
+Click and drag a zone for your personal hidden area. Right click to change the color or click the settings gear for more options. Click again to delete the zone.,,Click and drag a zone for your personal hidden area. Left-click to change the color or click the settings gear for more options.,Cliquez et faites glisser une zone pour votre zone cachée personnelle. Faites un clic droit pour changer la couleur ou cliquez sur l'engrenage des paramètres pour plus d'options. Cliquez à nouveau pour supprimer la zone.
+"Click and drag to create a randomized zone. Everything in this zone will be randomized when you right click on it. This is good for randomizing cards, tiles, etc for games that need it.",,"Click and drag to create a randomized zone. Let-click it to show the Randomize button. This is good for randomizing cards, tiles, etc for games that need it.","Cliquez et faites glisser pour créer une zone aléatoire. Tout dans cette zone sera aléatoire lorsque vous faites un clic droit dessus. Ce qui est bon pour les cartes, les tuiles, randomiser etc pour les jeux qui en ont besoin."
+Click edit to start typing here,,Click edit to start typing here,Cliquez sur Modifier pour commencer à taper ici
+Click in the (Right Stick) to reset the camera.,,Click in the <Right Stick> to reset the camera.,Utilisez <Stick droit> pour repositionner la caméra.
+Click to End Turn,,Click to End Turn,Cliquez pour mettre fin à tour
+Click to open page to knowledge base.,,Click to open page to knowledge base.,Cliquez pour ouverir la Documentation
+Clone,,Clone,Cloner
+Clone copied objects to this location. This can also be done in the Global Contextual Menu.,,Clone copied objects to this location. This can also be done in the Global Contextual Menu.,Colle un clone copié à cet endroit. Cela peut aussi se faire dans le menu contextuel global.
+Cloud Manager,,Cloud Manager,Gestionnaire du Cloud
+Clubs,,Clubs,clubs
+Code,,Code,Code
+Coin,,Coin,Pièce de monnaie
+Collapse-Show Modding Actions,,Collapse/Show Modding Actions,Réduire / Afficher les actions Modding
+Collapse-Show Movement Actions,,Collapse/Show Movement Actions,Réduire / Afficher les actions Mouvement
+Collapse-Show Object Properties,,Collapse/Show Object Properties,Réduire / Afficher les propriétés d'un objet
+Collider,,Collider,Collider
+Collision,,Collision,Collision
+Color,,Color,Couleur
+Color Tint,,Color Tint,Couleur
+Color which Fog of War is revealed for. (Black = All),,Color which Fog of War is revealed for. (Black = All),Couleur pour qui est révélé le brouillard de guerre. (Noir = Tous)
+Combine,,Combine,Combiner
+Combine Into Decks,,Combine Into Decks,Combiner en ponts
+Combine all selected objects into a single object.,,Combine all selected objects into a single object.,Mélanger tous les objets sélectionnés en un seul objet.
+Combining,,Combining,Combinaisons
+"Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc.",,"Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc.","Simulation complète de la physique. Les objets peuvent être jetés, les pièces peuvent abattre d'autres pièces, etc."
+Complexity,,Complexity,Complexité
+Component Spread Distance,,Component Spread Distance,Distance de propagation des composants
+Component States Wrap,,Component States Wrap,Component States Wrap
+Component Tags,,Component Tags,Composant Mots clés
+Component Tooltip Delay,,Component Tooltip Delay,Temps infobulle composant
+Configuration,,Configuration,Configuration
+"Congratulations! You finished the tutorial! You can leave by clicking the 'Menu' button on the top bar, then click 'Main Menu'",,"Congratulations! You finished the tutorial!
+You can leave by clicking the 'Menu' button on the top bar,
+then click 'Main Menu'","Toutes nos félicitations ! Vous avez terminé le tutoriel !
+Vous pouvez laisser en cliquant sur le bouton « Menu » sur la barre supérieure,
+puis cliquez sur « Menu principal »"
+Connect,,Connect,Se connecter
+Connect to IRC,,Connect to IRC,Se connecter à l'IRC
+Connected Anchor,,Connected Anchor,Anchor Connected
+Connected through Steam relay servers. Experience might not be optimal.,,"Connected through Steam relay servers. Experience might not be optimal.
+
+Port Forward:
+UDP 3478 (Outbound)
+UDP 4379 (Outbound)
+UDP 4380 (Outbound)","Connecté par l'intermédiaire des serveurs de relais de vapeur. L'expérience pourrait ne pas être optimale.
+
+Port Forward:
+UDP 3478 (sortante)
+UDP 4379 (sortante)
+UDP 4380 (sortante)"
+Connecting to this player.,,Connecting to this player.,Connexion à ce joueur.
+Connecting...,,Connecting...,De liaison...
+Console Hotkey Lock,,Console Hotkey Lock,Verrouillage de la console
+Context Menus Can Collapse,,Context Menus Can Collapse,Réduire les menus contextuels
+Context Menus Show GM Notes,,Context Menus Show GM Notes,Afficher les notes du MJ dans les menus contex.
+Contextual,,Contextual,Contextuel
+Contextual - Lower,,Contextual / Lower,Contextual / Lower
+Control Scheme,,Control Scheme,Programme de contrôle
+Controller,,Controller,Manette
+Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.,,Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.,Contrôles la qualité des textures des objets. Recommandé de laisser activé à moins que vous ayiez une faible capacité RAM ou beaucoup de chargement de Mods avec beaucoup de textures. Désactiver cette option réduira la taille des textures de moitié.
+"Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles.",,"Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles.","réflectivité des contrôles à des angles de pâturage. Supérieur = pâturage angles, bas = tous les angles."
+Cooperative Games,,Cooperative Games,Jeux coopératifs
+Copies an object and then deletes it.,,Copies an object and then deletes it.,Copie un objet et puis le supprime.
+Copy,,Copy,Copier
+Copy all text to clipboard,,Copy all text to clipboard,Copier tout le texte dans le presse papier
+Copy objects to clone somewhere else. This can also be done in the Contextual Menu.,,Copy objects to clone somewhere else. This can also be done in the Contextual Menu.,Copier des objets à cloner un autre endroit. Cela peut aussi se faire dans le menu contextuel.
+Copy player view.,,Copy player view.,Copier la vue du lecteur.
+Copy to clipboard. Useful for scripting.,,Copy to clipboard. Useful for scripting.,Copier dans le presse-papier. Utile pour les scripts.
+Core,,Core,de base
+Corner,,Corner,Coin
+Cosmic Encounter,,Cosmic Encounter,Rencontre cosmique
+Counter,,Counter,Compteur
+Country,,Country,Pays
+Crasc,,Crasc,CRASC
+Create Folder,,Create Folder,Créer un dossier
+Create Server,,Create Server,Créer
+Create States,,Create States,Créer États
+Create a new UI asset.,,Create a new UI asset.,Créer un nouvel actif de l'interface utilisateur.
+Create a new decal.,,Create a new decal.,Créer une nouvelle décalcomanie.
+Create a new rotation value.,,Create a new rotation value.,Créez une nouvelle valeur de rotation.
+Create a new save file.,,Create a new save file.,Créer un nouveau fichier de sauvegarde.
+Create custom scripts to do a multitude of advanced features.,,Create custom scripts to do a multitude of advanced features.,Créer des scripts personnalisés pour faire une multitude de fonctionnalités avancées.
+Create folder in Cloud,,Create folder in Cloud,Créer un dossier en nuage
+Create folder in Saved Objects,,Create folder in Saved Objects,Créer un dossier dans les objets enregistrés
+Create folder in {0},,Create folder in {0},Créer un dossier dans {0}
+Create your own custom tags. These will still be searchable but not available as filters.,,Create your own custom tags. These will still be searchable but not available as filters.,Créez vos propres étiquettes personnalisées. Ceux-ci seront toujours consultables mais non disponible en tant que filtres.
+Created,,Created,Établi
+Credits,,Credits,Crédits
+Crowns,,Crowns,couronnes
+Crowns Coin 2,,Crowns Coin 2,Couronnes Coin 2
+Crowns Coin 3,,Crowns Coin 3,Couronnes Coin 3
+Crowns Coin 4,,Crowns Coin 4,Couronnes Coin 4
+Crowns Coin 5,,Crowns Coin 5,Couronnes Coin 5
+Crowns Coin Ace,,Crowns Coin Ace,Couronnes Coin Ace
+Crowns Coin Blank,,Crowns Coin Blank,Couronnes Coin Blank
+Crowns Dice,,Crowns Dice,couronnes Dice
+Crowns Square 2,,Crowns Square 2,Couronnes Square 2
+Crowns Square 3,,Crowns Square 3,Couronnes Square 3
+Crowns Square 4,,Crowns Square 4,Couronnes Square 4
+Crowns Square 5,,Crowns Square 5,Couronnes Square 5
+Crowns Square Ace,,Crowns Square Ace,Couronnes Place Ace
+Crowns Square Blank,,Crowns Square Blank,Couronnes Place Blank
+Ctrl,,Ctrl,Ctrl
+Current Time,,Current Time,Heure actuelle
+Current name of the game you are playing (Shows on server browser and friends list).,,Current name of the game you are playing (Shows on server browser and friends list).,Nom actuel du jeu auquel vous jouez (sur la liste des serveurs et des amis).
+Current name of the game you are playing (Shows on server browser).,,Current name of the game you are playing (Shows on server browser).,Nom actuel du jeu auquel vous jouez (sur la liste des serveurs).
+Custom,,Custom,Personnaliser
+Custom Game,,Custom Game,Jeu personnalisé
+Custom LUT,,Custom LUT,LUT sur mesure
+Custom Models,,Custom Models,Modèles personnalisés
+Custom Rectangle,,Custom Rectangle,Rectangle sur mesure
+Custom Square,,Custom Square,Place personnalisée
+Custom Token will use the transparency from your .png image to generate a mesh.,,Custom Token will use the transparency from your .png image to generate a mesh.,Jeton personnalisé utilisera la transparence de votre image .png pour générer un maillage.
+Custom UI Assets,,Custom UI Assets,Actifs d'interface utilisateur personnalisée
+Custom dice type.,,Custom dice type.,Sur mesure Type de dés.
+Custom objects in queue.,,Custom objects in queue.,objets personnalisés dans la file d'attente.
+Custom tile type. Changes the model of the object.,,Custom tile type. Changes the model of the object.,type de carrelage personnalisé. Modifie le modèle de l'objet.
+Cut,,Cut,Couper
+Cut the deck into two stacks with varying size.,,Cut the deck into two stacks with varying size.,Couper le pont en deux piles avec différentes tailles.
+Cyclops,,Cyclops,cyclope
+D10 Chrome,,D10 Chrome,D10 Chrome
+D12 Chrome,,D12 Chrome,D12 Chrome
+D20 Chrome,,D20 Chrome,Chrome J20
+D4 Chrome,,D4 Chrome,D4 Chrome
+D6 Black,,D6 Black,D6 Noir
+D6 Blue,,D6 Blue,D6 Bleu
+D6 Chrome,,D6 Chrome,D6 Chrome
+D6 Green,,D6 Green,D6 vert
+D6 Red,,D6 Red,D6 Rouge
+D8 Chrome,,D8 Chrome,J8 Chrome
+DEVELOPERS,,Developers,Développeurs
+DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,,DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,DLC (Contenu téléchargeable) sont des jeux officiels que nous avons permis à des différents éditeurs et développeurs.
+DOWN_THEN_LEFT,,Down / Left,En bas à gauche
+DOWN_THEN_RIGHT,,Down / Right,Bas / Droite
+DROP DOWN,,Drop Down,Menu déroulant
+Damper,,Damper,Amortisseur
+Darkness Warlord,,Darkness Warlord,L'obscurité Warlord
+Deal,,Deal,Distribuer
+Deal to all seated players.,,Deal to all seated players.,Donner à tous les joueurs assis.
+Deal to all.,,Deal to all.,Donner à tous.
+Deal to blue.,,Deal to blue.,Donner au bleu.
+Deal to brown.,,Deal to brown.,Donner au brun.
+Deal to green.,,Deal to green.,Donner au vert.
+Deal to orange.,,Deal to orange.,Donner à l'orange.
+Deal to pink.,,Deal to pink.,Donner au rose.
+Deal to purple.,,Deal to purple.,Donner au violet.
+Deal to red.,,Deal to red.,Donner au rouge.
+Deal to teal.,,Deal to teal.,Donner à sarcelle.
+Deal to white.,,Deal to white.,Donner au blanc.
+Deal to yellow.,,Deal to yellow.,Donner au jaune.
+Decal,,Decal,Autocollant
+Decal name,,Decal name,Nom décalcomanie
+Decals,,Decals,Autocollants
+Decals are great for adding small details or for card stickers.,,Decals are great for adding small details or for card stickers.,Les Autocollants sont parfaits pour ajouter de petits détails ou des autocollants de cartes.
+Deck,,Deck,Deck
+Deck Builder,,Deck Builder,Constructeur de Deck
+Deck Editor,,Deck Editor,Éditeur de Deck
+Default,,Default,Défaut
+Delete,,Delete,Supprimer
+Delete Audioclip from Playlist?,,Delete Audioclip from Playlist?,Supprimer AudioClip de Playlist?
+Delete all 3D text objects?,,Delete all 3D text objects?,Supprimer tous les objets texte 3D?
+Delete all 3d texts.,,Delete all 3d texts.,Supprimer tous les textes 3d.
+Delete all decals.,,Delete all decals.,Supprimer tous les autocollants.
+Delete all decals?,,Delete all decals?,Supprimer tous les autocollants?
+Delete all snap points.,,Delete all snap points.,Supprimer tous les points d'accrochage.
+Delete all snap points?,,Delete all snap points?,Supprimer tous les points d'accrochage?
+Delete and Unsubscribe from {0}?,,Delete and Unsubscribe from {0}?,Supprimer et Se désabonner de {0}?
+Delete tag '{0}'? (It will be removed from all components and objects.),,"Delete tag '{0}'?
+(It will be removed from all components and objects.)","tag Supprimer « {0} »?
+(Il sera retiré de tous les composants et objets.)"
+Delete theme {0}?,,Delete theme {0}?,Supprimer {0} thème?
+Delete {0}?,,Delete {0}?,Supprimer {0}?
+Delete {0}? (This will delete anything contained within this folder),,Delete {0}? (This will delete anything contained within this folder),Supprimer {0}? (Ceci supprimera contenu dans ce tout dossier)
+Delete {0}? All files contained will stop working in any mods.,,Delete {0}? All files contained will stop working in any mods.,Supprimer {0}? Tous les fichiers contenus cesseront de fonctionner dans tous les mods.
+Delete {0}? This file will stop working in any mods.,,Delete {0}? This file will stop working in any mods.,Supprimer {0}? Ce fichier cessera de fonctionner dans tous les mods.
+"Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu.",,"Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu.","Supprime les objets de la table. Sinon, vous pouvez appuyer sur. Cela peut aussi se faire dans le menu contextuel."
+Demonic,,Demonic,Démoniaque
+Demote,,Demote,Rétrograder
+Description,,Description,Description
+Dexterity Games,,Dexterity Games,Jeux de dextérités
+Diamonds,,Diamonds,diamants
+Dice,,Dice,Dés
+Dice Games,,Dice Games,Jeux de dés
+Die,,Die,Mourir
+Diffuse-Image,,Diffuse/Image,Diffuse / Image
+Digital,,Digital,Numérique
+Digital Clock,,Digital Clock,Horloge digitale
+Direct Connect,,Direct Connect,Connection directe
+Direction,,Direction,Direction
+Disable,,Disable,Désactiver
+Disable Interactions,,Disable Interactions,Désactiver les intéractions
+Disable Unused,,Disable Unused,Désactiver pour les sièges vides
+Disable if you wish to control the dimensions of the grid independently.,,Disable if you wish to control the dimensions of the grid independently.,Désactiver si vous souhaitez contrôler les dimensions de la grille de façon indépendante.
+Disabled,,Disabled,Désactivé
+Disables interactions when it's not a color's turn.,,Disables interactions when it's not a color's turn.,Désactive les intéractions aux joueurs dont ce n'est pas le tour.
+Disconnected,,Disconnected,Déconnecté
+Display Object Drop Position,,Display Object Drop Position,Affichage l'aperçu de chute
+Display VR Players,,Display VR Players,Afficher joueurs VR
+Display the chat UI.,,Display the chat UI.,Afficher le Tchat.
+Display the on screen notes on the right side of the screen.,,Display the on screen notes on the right side of the screen.,Afficher les notes à droite de l'écran.
+Display the on-screen keyboard if you are playing in VR.,,Display the on-screen keyboard if you are playing in VR.,Afficher le clavier à l'écran uniquement en VR.
+Display the on-screen keyboard.,,Display the on-screen keyboard.,Afficher le clavier à l'écran.
+Display the player names on the top right.,,Display the player names on the top right.,Afficher les noms des joueurs en haut à droite.
+Display the top menu bar UI.,,Display the top menu bar UI.,Afficher la barre du menu principal en haut.
+Display tools menu on the top left.,,Display tools menu on the top left.,Afficher le menu des outils en haut à gauche.
+Distance,,Distance,Distance
+Do not show the on-screen keyboard.,,Do not show the on-screen keyboard.,Ne pas afficher le clavier à l'écran.
+Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.,,Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.,Voulez-vous l'image de puzzle d'être sur la carte que vous construisez le casse-tête? Cela rend le puzzle plus facile.
+Do you want the tiles to stack like poker chips?,,Do you want the tiles to stack like poker chips?,Est-ce que vous voulez que les tuiles à empiler comme des jetons de poker?
+Do you want the tokens to stack like poker chips?,,Do you want the tokens to stack like poker chips?,Est-ce que vous voulez que les jetons à empiler comme des jetons de poker?
+Do you want this token to stand up like a meeple instead of being flat like a tile?,,Do you want this token to stand up like a meeple instead of being flat like a tile?,Est-ce que vous voulez que ce jeton à se lever comme un meeple au lieu d'être plat comme une tuile?
+Documents,,Documents,Documents
+Does each card have a different card back? If so use the same template for the face cards as you do for the backs.,,Does each card have a different card back? If so use the same template for the face cards as you do for the backs.,Est-ce que chaque carte a un dos de carte différent? Dans ce cas utiliser le même modèle pour les cartes de visage comme vous le faites pour le dos.
+Dominoes,,Dominoes,Dominos
+Don't show servers that are full.,,Don't show servers that are full.,Ne pas afficher les serveurs sont pleins.
+Don't show servers that have passwords.,,Don't show servers that have passwords.,Ne pas afficher les serveurs qui ont des mots de passe.
+Double-Click Container Pickup,,Double-Click Container Pickup,Prendre les conteneurs en double-clique
+Down,,Down,Bas
+Downtown,,Downtown,Centre ville
+Drag,,Drag,Frottements avec l'air (Déplacement)
+Drag Selectable,,Drag Selectable,Sélectionnable
+Drag left or right to increase or decrease the value.,,Drag left or right to increase or decrease the value.,Faites glisser à gauche ou à droite pour augmenter ou diminuer la valeur.
+Drag the colors around to determine the turn order. Custom turns must be active.,,Drag the colors around to determine the turn order. Custom turns must be active.,Faites glisser les couleurs pour déterminer l'ordre du tour. Les Tours personnalisés doivent être actifs.
+Drag your finger on the table or background.,,Drag your finger on the table or background.,Faites glisser votre doigt sur la table ou arrière-plan.
+Dragonide,,Dragonide,Dragonide
+Draw,,Draw,Piocher
+Drawing,,Drawing,Dessin
+Drop,,Drop,Laissez tomber
+Drop Last Grabbed,,Drop Last Grabbed,Drop Last Grabbed
+Dungeons,,Dungeons,Donjons
+Dynamic Friction,,Dynamic Friction,frottement dynamique
+DynamicAmaranth,,DynamicAmaranth,DynamicAmaranth
+DynamicAmaranthFixedNumerals,,DynamicAmaranthFixedNumerals,DynamicAmaranthFixedNumerals
+DynamicInconsolata,,DynamicInconsolata,DynamicInconsolata
+EASTWARD,,Eastward,à l'est
+END TURN,,End Turn,fin du tour
+Edge,,Edge,Bord
+Edit,,Edit,Éditer
+Edit Note,,Edit Note,Note éditée
+Edit Tags,,Edit Tags,Étiquettes d'édition
+Edit Tags...,,Edit Tags...,Étiquettes d'édition...
+Edit tags on fog of war zone.,,Edit tags on fog of war zone.,Modifier les mots clés sur le brouillard de la zone de guerre.
+Edit tags on hand zone.,,Edit tags on hand zone.,Modifier les mots clés sur la zone de la main.
+Edit tags on hidden zone.,,Edit tags on hidden zone.,Modifier les mots clés sur zone cachée.
+Edit tags on layout zone.,,Edit tags on layout zone.,Modifier les mots clés sur la zone de mise en page.
+Edit tags on randomize zone.,,Edit tags on randomize zone.,Modifier les mots clés sur la zone randomize.
+Edit tags on scripting zone.,,Edit tags on scripting zone.,Modifier les mots clés sur la zone de script.
+Edit tags on selected components.,,Edit tags on selected components.,Modifier les mots clés sur les composants sélectionnés.
+Edit tags on this snap point.,,Edit tags on this snap point.,Modifier les mots clés sur ce point-pression.
+Edit tags snap points are created with.,,Edit tags snap points are created with.,Modifier les balises enclenchent points sont créés avec.
+Empty Game,,Empty Game,jeu vide
+Enable,,Enable,Activer
+Enable collision between bodies connected with the joint.,,Enable collision between bodies connected with the joint.,Activer la collision entre les organismes liés à l'articulation.
+Enable or disable card hands.,,Enable or disable card hands.,Activer ou désactiver les mains de carte.
+Enhanced Base Precision,,Enhanced Base Precision,Enhanced Base Precision
+Enter,,Enter,Entrer
+Enter Server Password,,Enter Server Password,Entrez le serveur Mot de passe
+Enter name of player {0},,Enter name of player {0},Entrez le nom du joueur {0}
+Enter value:,,Enter value:,Entrer la valeur:
+Equator,,Equator,Equateur
+Erase,,Erase,Effacer
+Erase all drawn lines.,,Erase all drawn lines.,Effacer toutes les lignes tracées.
+Erase all drawn lines?,,Erase all drawn lines?,Effacer toutes les lignes tracées?
+Erase entire pixel drawing.,,Erase entire pixel drawing.,Effacer dessin entier de pixels.
+Error storing theme (this should never happen!).,,Error storing theme (this should never happen!).,Erreur de stockage thème (ce qui ne devrait jamais arriver!).
+Europe Proxy,,Europe Proxy,europe Proxy
+Everyone except the hand owner can see in hand.,,Everyone except the hand owner can see in hand.,Tout le monde sauf le propriétaire de la main peut voir dans la main.
+Evil Watcher,,Evil Watcher,mal Watcher
+Exact,,Exact,Exact
+Exit Game,,Exit Game,Quitter le jeu
+Expand,,Expand,Développer
+Export,,Export,Exporter
+FACING_DOWN,,Become Face Down,Devenez face vers le bas
+FACING_KEEP,,Do Not Change,Ne changez pas
+FACING_TIPPED,,Group Is Tipped,Groupe est basculée
+FACING_UP,,Become Face Up,Devenez face vers le haut
+FIFO,,FIFO,FIFO
+FIXED,,Fixed,Fixé
+Face,,Face,Visage
+"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.","image du visage doit être dans le modèle de plate-forme appropriée. Modèle se trouve dans le dossier du jeu. Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici. recommandé 4096x4096."
+Face-Down,,Face-Down,Face cachée
+Face-Up,,Face-Up,Face vers le haut
+Facing,,Facing,Orienté vers
+Family Games,,Family Games,Jeux de famille
+Fast-forward Time,,Fast-forward Time,Temps Avance rapide
+Field,,Field,Champ
+Field of View,,Field of View,Champ de vision
+Field of View of Fog of War revealed.,,Field of View of Fog of War revealed.,Champ de vision de brouillard de guerre révélé.
+Figurine,,Figurine,figurine
+Figurines,,Figurines,Figurines
+Filename,,Filename,Nom de fichier
+Filter by Tags:,,Filter by Tags:,Filtrer par tags:
+Filtered Public Servers - All Public Servers,,Filtered Public Servers / All Public Servers,Serveurs publics / Filtré Tous les serveurs publics
+Filters,,Filters,filtres
+Find and join a server hosted by another player.,,Find and join a server hosted by another player.,Trouvez et se joindre à un serveur hébergé par un autre joueur.
+First in first out or a queue.,,First in first out or a queue.,"Premier entré, premier sorti ou une file d'attente."
+Fixed Joint,,Fixed Joint,Joint fixe
+Flick,,Flick,Feuilleter
+Flicking,,Flicking,Flicking
+Flicks in air when thrown.,,Flicks in air when thrown.,Flicks dans l'air lors de la levée.
+Flip,,Flip,Retourner
+Flip Other Axis,,Flip Other Axis,Retour. autre axe
+Floor,,Floor,Sol
+Floor Of Mist,,Floor Of Mist,Floor Of Mist
+Fly Down,,Fly Down,Descendre (Camera 1ère Personne)
+Fly Up,,Fly Up,Monter (Camera 1ère Personne)
+Fly Up & Down,,Fly Up & Down,Monter & Descendre
+Fog Height,,Fog Height,Hauteur du brouillard
+Fog of War,,Fog of War,Brouillard de guerre
+Fog of War Tags,,Fog of War Tags,Brouillard de guerre Balises
+Folder Name,,Folder Name,Nom du dossier
+Font Size,,Font Size,Taille de police
+Force,,Force,Forcer
+Forest,,Forest,Forêt
+"Found {0} matching Custom Object(s), do you also want to update them to match?",,"Found {0} matching Custom Object(s), do you also want to update them to match?","Trouvé {0} correspondant objet personnalisé (s), voulez-vous aussi les mettre à jour pour correspondre?"
+Free,,Free,Libre
+Free Camera,,Free Camera,Caméra libre
+Freeze the object in place stopping all physics interactions.,,Freeze the object in place stopping all physics interactions.,Geler l'objet en place l'arrêt de toutes les interactions de la physique.
+Fresnel Strength,,Fresnel Strength,Fresnel Force
+Friends,,Friends,Amis
+Friends Only,,Friends Only,Amis uniquement
+Front Image,,Front Image,front image
+Full,,Full,Plein(e)
+Full Size Textures,,Full Size Textures,Textures grandes tailles
+Fullscreen,,Fullscreen,Plein écran
+GENERAL,,General,Général
+GM (Black) players' pointer will be hidden in area.,,GM (Black) players' pointer will be hidden in area.,Le pointeur de joueurs GM (noir) sera caché dans la zone.
+GM Notes (only visible to Black),,GM Notes (only visible to Black),Notes de GM (uniquement visible Black)
+GRAPHICS,,Graphics,Graphismes
+Game,,Game,Jeu
+Game Data,,Game Data,Jeu de données
+Game Keys,,Game Keys,Clés de jeu
+Game Name,,Game Name,Nom du jeu
+Game Tags,,Game Tags,Mots-clés jeu
+Game Types:,,Game Types:,Types de jeu:
+Game Volume,,Game Volume,Volume de jeu
+Games,,Games,Jeux
+Games Add To Context Menus,,Games Add To Context Menus,Games Add To Context Menus
+Games Can Show Controls UI,,Games Can Show Controls UI,Games Can Show Controls UI
+Generic,,Generic,Générique
+Get current rotation.,,Get current rotation.,Obtenez la rotation actuelle.
+Ghoul,,Ghoul,Goule
+Giant Rat,,Giant Rat,Rat géant
+Giant Viper,,Giant Viper,Viper géant
+Gizmo,,Gizmo,Gizmo
+Gizmo Tool Size,,Gizmo Tool Size,Taille de l'outil Gizmo
+Glass,,Glass,Verre
+Global,,Global,Global
+Globally controls all object snapping.,,Globally controls all object snapping.,À l'échelle mondiale contrôle tous les accrochages d'objet.
+Glue,,Glue,La colle
+Go,The game,Go,Go
+Go back 10 seconds in time.,,Go back 10 seconds in time.,Retour 10 secondes dans le temps.
+Go back and forward in time to fix any mistakes.,,Go back and forward in time to fix any mistakes.,Revenez en arrière et en avant dans le temps pour corriger les erreurs.
+Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.,,Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.,Revenez en arrière et en avant dans le temps pour corriger les erreurs. Vous pouvez également utiliser les flèches dans le menu en haut pour revenir en arrière et en avant le temps.
+Go forward 10 seconds in time.,,Go forward 10 seconds in time.,Avancez 10 secondes dans le temps.
+Goblin,,Goblin,Lutin
+Gold,,Gold,Or
+Gold 1000,,Gold 1000,1000 Or
+Golem,,Golem,Golem
+Good! Now time to add that card to the deck.,,Good! Now time to add that card to the deck.,"Bien ! Maintenant, il est temps de l'ajouter au tas de carte."
+Grab,,Grab,Saisir
+Grab - Selection,,Grab / Selection,Attraper / Sélectionner
+"Grab one of the objects, and then use (Pad Left) or (Pad Right) to rotate it.",,"Grab one of the objects,
+and then use <Pad Left> or <Pad Right> to rotate it.","Saisissez un des objets,
+puis utilisez <Pad gauche> ou <jambière droite> pour la faire tourner."
+"Grab or mouse over one of the objects, and then use (Q) or (E) to rotate it.",,"Grab or mouse over one of the objects,
+and then use <Q> or <E> to rotate it.","Prennez ou survolez l'un des objets,
+puis utilisez <Q> ou <E> pour le faire pivoter."
+Grabbing Hides Gem,,Grabbing Hides Gem,Gem Hides accaparement
+Gradient,,Gradient,Graduelle
+Gradient Colors,,Gradient Colors,Couleurs Graduelles
+Gravity,,Gravity,Gravité
+Great camera work! Time to rotate an object.,,Great camera work! Time to rotate an object.,Excellent travail de cadreur / cadreuse ! Il est temps de faire pivoter un objet.
+Great for checking a dice roll or reading a card.,,Great for checking a dice roll or reading a card.,Idéal pour la vérification d'un jet de dés ou de lire une carte.
+Great shuffling! Now let's put a card in our hand. Drop a single card above the white name on the table. When a card is in your hand other players cannot see what it is.,,"Great shuffling! Now let's put a card in our hand.
+Drop a single card above the white name on the table.
+When a card is in your hand other players cannot see what it is.","Beau brassage ! Maintenant, nous allons mettre une carte dans notre main.
+Déposez une seule carte au-dessus du nom blanc sur la table.
+Quand une carte est dans votre main, les autres joueurs ne peuvent pas la voir."
+Great stacking! Now pull one card from the deck.,,Great stacking! Now pull one card from the deck.,"Bel empilement ! Maintenant, tirez une carte du tas."
+Green,,Green,vert
+Green 50,,Green 50,vert 50
+Green Triangle,,Green Triangle,Triangle vert
+Grey,,Grey,Gris
+Grey (All),,Grey (All),Gray (Toutes)
+Grey (Spectator),,Grey (Spectator),Gray (spectateurs)
+Greyout Visited,,Greyout Visited,Visité en voile gris
+Grid,,Grid,Grille
+Grid Projection,,Grid Projection,Projection grille
+Grid Size,,Grid Size,Taille de la grille
+Grid lines are drawn on the surface of the table.,,Grid lines are drawn on the surface of the table.,les lignes de quadrillage sont tracées sur la surface de la table.
+Grid will be projected onto the table and any object that has grid projection turned on.,,Grid will be projected onto the table and any object that has grid projection turned on.,Grille sera projetée sur la table et tout objet qui possède la projection de la grille sous tension.
+Griffon,,Griffon,Griffon
+Ground,,Ground,Sol
+Group,,Group,Grouper
+Grouping,,Grouping,Grouper
+Groups,,Groups,Groupes
+HINGE,,Hinge,Charnière
+HOST COMMANDS,,Host Commands,Commandes de l'hôte
+Hand Component Hotkey Draw,,Hand Component Hotkey Draw,Hand Component Hotkey Draw
+Hand Minimized Size,,Hand Minimized Size,Taille de la main minimisée
+Hand View,,Hand View,Voir la main
+Hand View Angle,,Hand View Angle,Vue la main Angle
+Hand View Scale,,Hand View Scale,Voir la main Échelle
+Hand Zone Tags,,Hand Zone Tags,Zone main Mots clés
+Hands,,Hands,Mains
+Hands are areas near names on the table that can hold cards and dominoes.,,Hands are areas near names on the table that can hold cards and dominoes.,Les mains sont les zones proches du noms sur la table qui peut contenir des cartes et dominos.
+Hands not used by a player will not be enabled.,,Hands not used by a player will not be enabled.,Les mains ne sont pas utilisés par un joueur ne seront pas activées.
+Hearts,,Hearts,Cœurs
+Height,,Height,la taille
+Help,,Help,Aidez-moi
+Help Menu,,Help Menu,Menu Aide
+Heroes,,Heroes,Héros
+Hex,,Hex,hex
+Hex (Rounded),,Hex (Rounded),Hex (Arrondi)
+Hex Horizontal,,Hex Horizontal,hex horizontal
+Hex Rotated,,Hex Rotated,hex pivotée
+Hex Vertical,,Hex Vertical,hex vertical
+Hexagon,,Hexagon,Hexagone
+Hidden,,Hidden,Caché
+Hidden Zone Hide Opacity,,Hidden Zone Hide Opacity,Opacité des zones secrètes affichées
+Hidden Zone Show Opacity,,Hidden Zone Show Opacity,Opacité des zones secrètes cachées
+Hidden Zone Tags,,Hidden Zone Tags,Zone cachée Mots clés
+Hide Face Down,,Hide Face Down,Masquer Face Bas
+Hide Full,,Hide Full,Cacher pleines
+Hide GM Pointer,,Hide GM Pointer,Masquer GM pointeur
+Hide GUI,,Hide GUI,Masquer l'interface
+Hide Hand,,Hide Hand,Cacher la main
+Hide Locked,,Hide Locked,Cacher Privées
+Hide Objects,,Hide Objects,Objets Masquer
+Hide Pointers,,Hide Pointers,Pointeurs Masquer
+Hiding,,Hiding,Cache
+Hiding objects will be reversed so everyone but the color of the area can see inside.,,Hiding objects will be reversed so everyone but the color of the area can see inside.,cacher des objets seront inversés pour que chacun mais la couleur de la zone peut voir à l'intérieur.
+High,,High,Haute
+High Complexity,,High Complexity,Haute complexité
+Hinge Joint,,Hinge Joint,diarthrose
+Hold (Alt) while mousing over an object.,,Hold <Alt> while mousing over an object.,Maintenez <Alt> tout en positionnant la souris sur un objet.
+Hold (Left Bumper) while hovering over an object.,,Hold <Left Bumper> while hovering over an object.,Maintenez <Bumper Gauche> tout en planant au-dessus d'un objet.
+Hold ({0}) down for a few seconds.,,Hold <{0}> down for a few seconds.,Maintenez la touche <{0}> pendant quelques secondes.
+Hold ({0}) on both controllers. Then move your hands closer or further apart. This will scale you up and down!,,"Hold <{0}> on both controllers.
+Then move your hands closer or further apart.
+This will scale you up and down!","Maintenez la touche <{0}> sur les deux contrôleurs.
+Ensuite, déplacez vos mains plus ou plus éloignés.
+Cela vous échelle de haut en bas!"
+Hold ({0}) then drag yourself around.,,Hold <{0}> then drag yourself around.,Tenir <{0}> puis vous traîner.
+Hold an object then press (A) on another object.,,Hold an object then press <A> on another object.,Tenez un objet puis appuyez sur <A> sur un autre objet.
+Hold an object then press (Right Mouse) or (T) on another object.,,Hold an object then press <Right Mouse> or <T> on another object.,Tenez un objet puis appuyez sur <Clique Droit> ou <T> sur un autre objet.
+Hold down (Right Mouse Button) and move your mouse.,,Hold down <Right Mouse Button> and move your mouse.,Maintenez la touche <Clique Droit> et déplacez votre souris.
+Hold right mouse button to rotate your camera.,,Hold right mouse button to rotate your camera.,Maintenez le bouton droit de la souris pour faire pivoter votre appareil photo.
+Hold the key and nudge push objects with your pointer.,,Hold the <N> key and nudge/push objects with your pointer.,Maintenez la touche <N> et pousser les objets avec votre pointeur.
+Hold the key and nudge-push objects with your pointer.,,Hold the key and nudge/push objects with your pointer.,Maintenez la touche et pousser / objets pousser avec votre pointeur.
+Holding the right mouse button will freely move your camera around.,,Holding the right mouse button will freely move your camera around.,En maintenant <Clique Droit> la caméra se déplacera librement autour.
+Horizontal,,Horizontal,Horizontal
+Host,,Host,Hôte
+Host Server,,Host Server,Serveur-hôte
+Host a game and have other players join you.,,Host a game and have other players join you.,Héberger une partie et qui ont d'autres joueurs vous rejoindre.
+Hotseat,,Hotseat,Chacun son tour
+Hotseat: Ask For Names,,Hotseat: Ask For Names,Local: Demander les noms
+Hotseat: Confirm Turn Start,,Hotseat: Confirm Turn Start,Local: Confirmer le démarrage du tour
+Hotseat: Delay Between Turns,,Hotseat: Delay Between Turns,Local: Délai entre les tours
+Hotseat: Reset Camera On Turn,,Hotseat: Reset Camera On Turn,Local: Réinitialiser la caméra à chaque tour
+Hotseat: Show Turn Button,,Hotseat: Show Turn Button,Local: Afficher le bouton de tour
+Hover Highlight,,Hover Highlight,Sélectionnez Hover
+Hover Tooltips,,Hover Tooltips,Hover infobulles
+"Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu.",,"Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu.","Survolez ou tenez une figurine RPG et appuyez sur 1, 2 ou 3 pour voir les différentes actions. Vous pouvez également activer ces derniers dans le menu contextuel."
+Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.,,Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.,Suvolez ou tenez un objet et appuyez sur L pour le verrouiller sur place. Vous pouvez aussi le faire dans le menu contextuel.
+Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.,,Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.,Survolez ou tenez un objet et appuyez sur la touche R pour l'élever en permanence. Cela peut également être utilisé pour lancer des désou mélanger des cartes rapidement.
+Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.,,Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.,Passez la souris sur un objet que vous souhaitez placer sous une autre et appuyez sur la touche. Idéal pour les objets en couches sous les tapis.
+Hover over dice-decks & type a number to show-draw that amount.,,Hover over dice/decks & type a number to show/draw that amount.,Survolez dés/deck & pressez un chiffre pour afficher ce montant.
+Hover over each item in this help menu to bring up more info.,,Hover over each item in this help menu to bring up more info.,Passez sur chaque élément pour plus d'informations.
+Hover over the die and press (Pad Right).,,Hover over the die and press <Pad Right>.,Passez la souris sur la matrice et appuyez sur <jambière droite>.
+Hovered Object,,Hovered Object,objet survolés
+"How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate.",,"How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate.","Quelle est la précision, il essayera de tracer votre image. Lower = plus précis et coûteux, supérieur = moins précis."
+How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.,,How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.,Comment est rebondissante la surface ? Une valeur de 0 ne fera pas rebondir. Une valeur de 1 va rebondir sans perte d'énergie.
+How fast all objects fall (Default = 0.5).,,How fast all objects fall (Default = 0.5).,"À quelle vitesse tous les objets tombent (par défaut = 0,5)."
+How high off the surface objects will be held.,,How high off the surface objects will be held.,Quelle hauteur les objets de surface auront lieu.
+How many cards tall is your deck? Default template is 7.,,How many cards tall is your deck? Default template is 7.,Combien de cartes grande est votre deck? modèle par défaut est 7.
+How many cards wide is your deck? Default template is 10.,,How many cards wide is your deck? Default template is 10.,Combien de cartes grande est votre deck? modèle par défaut est 10.
+"How mirror-like the object is. Higher = Mirror, Lower = Dull.",,"How mirror-like the object is. Higher = Mirror, Lower = Dull.","Comment miroir est l'objet. Supérieur = Miroir, inférieur = Dull."
+"How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately.",,"How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately.","How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately."
+How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.,,How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.,How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.
+How much physics you want in your games.,,How much physics you want in your games.,Quel niveau de physique voulez-vous dans le jeu.
+How strong reflections are on shiny objects.,,How strong reflections are on shiny objects.,Quelle est la force des réflexions sont sur des objets brillants.
+How strong the ambient or mood lighting is.,,How strong the ambient or mood lighting is.,Quelle est la force de l'éclairage ambiant ou de l'humeur est.
+Hue,,Hue,Teinte
+Hydra,,Hydra,Hydre
+IMPORT,,Import,Importer
+INFO,,Info,Info
+INTERFACE,,Interface,Interface
+"If enabled, the object is affected by gravity.",,"If enabled, the object is affected by gravity.","Si elle est activée, l'objet est affecté par la gravité."
+If freeSpin is enabled the motor will only accelerate but never slow down.,,If freeSpin is enabled the motor will only accelerate but never slow down.,"Si Freespin est activée, le moteur ne fera qu'accélérer mais jamais ralentir."
+"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.",,"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.","Si vous avez besoin d'un peu plus de structure, vous pouvez activer les Tours afin que chacun sache qui est le tour et quand c'est leur tour."
+Ignore Fog Of War,,Ignore Fog Of War,Ignorer Brouillard
+Image,,Image,Image
+Image On Board,,Image On Board,Image à bord
+Image URL,,Image URL,URL de l'image
+"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.",,"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.","L'image doit être dans le modèle de dés approprié. Modèle se trouve dans le dossier du jeu. Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici."
+Import-Export,,Import/Export,Importer / Exporter
+Improves texture quality at angles. Recommended on unless starved for performance.,,Improves texture quality at angles. Recommended on unless starved for performance.,Améliore la qualité des texturesen angles. Recommandé à moins d'avoir des problèmes de performances.
+In-Game,,In-Game,En jeu
+Inch,,Inch,Pouce
+Inch Size,,Inch Size,pouces Taille
+Infinite,,Infinite,Infini
+Infinite Bag,,Infinite Bag,Sac Infini
+Inserts a timestamp before each message.,,Inserts a timestamp before each message.,Insère un horodatage avant chaque message.
+Instant Refill,,Instant Refill,Recharge instantanée
+InstantRefillTooltip,,"When enabled, if ever a group is picked up or removed the rest of the layout will trigger to fill in the gap.","Lorsqu'elle est activée, si jamais un groupe est ramassé ou enlevé le reste de la mise en page déclenchera pour combler l'écart."
+Instead of using the last slot on face image for the hidden card the back image will be used.,,Instead of using the last slot on face image for the hidden card the back image will be used.,Au lieu d'utiliser la dernière fente sur l'image du visage de la carte cachée de l'image arrière sera utilisée.
+Interface Click Threshold,,Interface Click Threshold,Interface Cliquez sur Seuil
+Interface Repeat Duration,,Interface Repeat Duration,Interface Répéter Durée
+Invert,,Invert,Inverser
+Inverts the camera look directions.,,Inverts the camera look directions.,Inverse les axes de rotation de la caméra.
+Invite,,Invite,Invitation
+Invite Friends,,Invite Friends,Inviter des amis
+Is your card sideways? This rotates ALT Zoom.,,Is your card sideways? This rotates ALT Zoom.,Est-ce votre côté de la carte? Cela tourne ALT Zoom.
+Is your deck sideways? This rotates ALT Zoom.,,Is your deck sideways? This rotates ALT Zoom.,Est-ce votre côté de plate-forme? Cela tourne ALT Zoom.
+JIGSAW PUZZLES,,Jigsaw Puzzles,Puzzles
+JOIN,,Join,Rejoindre
+Jigsaw,,Jigsaw,Puzzle
+Join new Server Host?,,Join new Server Host?,Joignez-vous à nouveau Host Server?
+Joint,,Joint,Mixte
+Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.,,Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.,Joint qui verrouille deux objets en place sans créer une relation parent-enfant comme l'outil Attacher. cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu.
+Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.,,Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.,Joint qui fonctionne exactement comme il sonne un ressort. cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu.
+Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.,,Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.,Joint à charnière de porte comme la connexion. Peut même avoir des moteurs. cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu.
+Joints,,Joints,Les articulations
+Joker,,Joker,Joker
+Jokers,,Jokers,Jokers
+Joypad Emulation,,Joypad Emulation,Émulation de la manette
+Keyboard,,Keyboard,Clavier
+Keyboard Single Digit Draw,,Keyboard Single Digit Draw,Keyboard Single Digit Draw
+Kickstarter,,Kickstarter,Kickstarter
+King,,King,Roi
+King Cast Iron,,King Cast Iron,Roi Fonte
+King Chrome,,King Chrome,roi Chrome
+King Dark,,King Dark,roi noir
+King Light,,King Light,roi Lumière
+King Supporters,,King Supporters,Supporters roi
+Knight,,Knight,Chevalier
+Knight Cast Iron,,Knight Cast Iron,Chevalier en fonte
+Knight Chrome,,Knight Chrome,chevalier Chrome
+Knight Dark,,Knight Dark,Dark knight
+Knight Light,,Knight Light,chevalier Lumière
+Knight Supporters,,Knight Supporters,Les partisans chevalier
+Kobold,,Kobold,Kobold
+LAN,,LAN,LAN
+LANGUAGE_BROWSE_TOOLTIP,,Find community translation mods on the Workshop.,Trouvez des mods de traduction communautaire sur l'atelier.
+LANGUAGE_EXPORT_TOOLTIP,,Export current translation as a .csv file so that you can mod and upload it to the Workshop.,Exporter la traduction actuelle en tant que fichier .csv afin que vous puissiez mod et le télécharger à l'atelier.
+LANGUAGE_HELP,,Change your language to the provided translations or create and use community created translations.,Changer votre langue pour les traductions fournies ou créer et communauté des utilisateurs a créé les traductions.
+LANGUAGE_UPLOAD_TOOLTIP,,Upload the currently loaded translation to the Workshop.,Téléchargez la traduction actuellement chargé de l'atelier.
+LATEST DLC NOW AVAILABLE!,,Latest DLC Now Available!,Dernières DLC maintenant disponible!
+LEFT_THEN_DOWN,,Left / Down,En bas à gauche
+LEFT_THEN_UP,,Left / Up,Laissée
+LIFO,,LIFO,LIFO
+LIGHTING,,Lighting,Éclairage
+LUT,,LUT,LUT
+LUT Contribution,,LUT Contribution,Contribution LUT
+Label,,Label,Étiquette
+Language,,Language,Langue
+Language Code,,EN,FR
+Laser Activation Threshold,,Laser Activation Threshold,Seuil d'activation laser
+Laser Always On,,Laser Always On,Laser Toujours
+Laser Angled,,Laser Angled,laser Angled
+Laser Beam Opacity,,Laser Beam Opacity,Laser Beam Opacité
+Laser Beam Thickness,,Laser Beam Thickness,Faisceau laser Épaisseur
+Laser Beam Visible,,Laser Beam Visible,Faisceau laser visible
+Laser Dot Size,,Laser Dot Size,Taille Laser Dot
+Last in last out or a reverse queue.,,Last in last out or a reverse queue.,Dernier dans la dernière ou sur une file d'attente inverse.
+Layout,,Layout,Disposition
+Layout Zone,,Layout Zone,Zone mise en page
+Layout Zone Tags,,Layout Zone Tags,Mise en page Zone Mots clés
+LayoutZoneAllowSwapping,,"When moving an object from one full group to another, the object you drop on will be moved to the original group.","Lorsque vous déplacez un objet d'un groupe complet à l'autre, l'objet que vous déposez sur sera déplacé vers le groupe d'origine."
+LayoutZoneAlternateDirection,,"Objects added to a group will be aligned up or right, different from the preceding object in the group.  Used, for example, in trick-taking games to make counting easier.","Les objets ajoutés à un groupe sont alignées vers le haut ou à droite, différent de l'objet précédent dans le groupe. Utilisé, par exemple, dans les jeux de prise de truc pour faire compter plus facile."
+LayoutZoneCardsPerDeck,,Sets the size of decks made by the layout zone when it combines newly added cards.,Définit la taille des plate-formes prises par la zone de mise en page quand il combine les cartes nouvellement ajoutées.
+LayoutZoneCombineIntoDecks,,Whether cards added to the zone should be combined into decks.  You may specify the number of cards per deck.,Que ce soit les cartes ajoutées à la zone doivent être combinés en ponts. Vous pouvez spécifier le nombre de cartes par pont.
+LayoutZoneComponents,,"Which components will be added to the zone, and how.","Quels composants seront ajoutés à la zone, et comment."
+LayoutZoneDirection,,The directions the groups in the zone expand into.  This will determine the origin corner.,Les directions des groupes dans la zone en expansion. Cela permettra de déterminer l'angle d'origine.
+LayoutZoneFaceDown,,Face-Down components dropped on zone will be layed out.,composants face vers le bas larguées sur zone sera conçues.
+LayoutZoneFaceUp,,Face-Up components dropped on zone will be layed out.,composants face vers le haut larguées sur zone sera conçues.
+LayoutZoneFacing,,Determines whether newly added objects are turned face-up or face-down.,Détermine si les objets nouvellement ajoutés sont tournés face vers le haut ou face vers le bas.
+LayoutZoneGroupDirection,,The direction the objects within a group will expand into.,La direction des objets au sein d'un groupe se développer dans.
+LayoutZoneGroupObjects,,"When new objects are added to a zone, they will be gathered into groups of this many objects.","Lorsque de nouveaux objets sont ajoutés à une zone, ils seront rassemblés en groupes de ce grand nombre d'objets."
+LayoutZoneHorizontalPadding,,How much horizontal space is inserted between groups.,Quelle quantité d'espace horizontal est inséré entre les groupes.
+LayoutZoneHorizontalSpread,,How far each object in a group is moved horizontally from the previous object.,Dans quelle mesure chaque objet dans un groupe est déplacé horizontalement à partir de l'objet précédent.
+LayoutZoneManualTooltip,,The zone will not automatically lay out objects: it must be triggered manually.,La zone ne sera pas automatiquement les objets poser: il doit être déclenché manuellement.
+LayoutZoneMaxGroupObjects,,Each group in the zone may not contain more than this number of objects.,Chaque groupe dans la zone ne peut pas contenir plus de ce nombre d'objets.
+LayoutZoneNonCards,,Non-card components dropped on zone will be layed out.,Les composants non carte larguées sur zone seront conçues.
+LayoutZonePadding,,How much space is inserted between groups layed out in the zone.,Combien d'espace est inséré entre les groupes dans la pondus zone.
+LayoutZoneRandomizeTooltip,,Objects will be randomized whenever they are layed out.,Les objets seront répartis de façon aléatoire chaque fois qu'ils sont conçues.
+LayoutZoneSort,,How groups are sorted internally.,Comment les groupes sont classés en interne.
+LayoutZoneSortExisting,,"When enabled all groups will be sorted when layed out, rather than only newly added groups.","Lorsqu'elle est activée tous les groupes seront triés en layed dehors, plutôt que seuls les groupes nouvellement ajoutés."
+LayoutZoneSplitTooltip,,Decks added to the zone will be split into their individual cards.,Les ponts ajoutés à la zone seront divisés en leurs cartes individuelles.
+LayoutZoneSpread,,How far apart objects within a group are spread.,Dans quelle mesure les objets à part au sein d'un groupe sont répartis.
+LayoutZoneVerticalPadding,,How much vertical space is inserted between groups.,Quelle quantité d'espace vertical est inséré entre les groupes.
+LayoutZoneVerticalSpread,,How far each object in a group is moved vertically from the previous object.,Dans quelle mesure chaque objet dans un groupe est déplacé verticalement de l'objet précédent.
+"Lead, Code, Design",,"Lead, Code, Design","Direction, Code, Design"
+Learn the basics in this short tutorial.,,Learn the basics in this short tutorial.,Apprenez les bases dans ce court tutoriel.
+Left,,Left,Gauche
+Left Pad Down,,Left Pad Down,Gauche Pad Bas
+Left Tool Hotkeys,,Left Tool Hotkeys,Outil gauche Hotkeys
+Let Game Set Theme,,Let Game Set Theme,Laisser le jeu faire le thème
+Let's get a better look!,,Let's get a better look!,Voyons voir de plus près !
+Lets players choose which color to pass their turn to.,,Lets players choose which color to pass their turn to.,Permet aux joueurs de choisir de passer leur tour.
+Lift Height,,Lift Height,Hauteur de levage
+Light,,Light,Lumière
+Light Color,,Light Color,Couleur de la lumière
+Light Intensity,,Light Intensity,Intensité lumineuse
+Like this!,,Like this!,Comme ça!
+Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.,,Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.,Limite les IPS à la fréquence de rafraîchissement (Hz) pour empêcher une coupure de l'écran. Cela occasionnera une baisse des IPS et une augmentation du lag.
+Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.,,Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.,Limite les IPS à la fréquence de rafraîchissement (Hz) pour réduire l'utilisation du système. Idéal pour les ordinateurs portables.
+Line,,Line,Ligne
+Line Thickness,,Line Thickness,Épaisseur de ligne
+Line Tool,,Line Tool,Outil de mesure
+Lines,,Lines,Lignes
+Liquorish,,Liquorish,Liquorish
+Living Dead,,Living Dead,Mort vivant
+Lizard Warrior,,Lizard Warrior,Lizard Guerrier
+Lizards,,Lizards,lézards
+Load,,Load,Charger
+Load Camera,,Load Camera,Charger Caméra
+Load Camera View,,Load Camera View,Charg. une caméra
+Loaded,,Loaded,Chargé
+Loading,,Loading,Chargement
+Loading...,,Loading...,Chargement...
+Local,,Local,Local
+Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.,,Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.,Local: Gizmos sont dans la rotation de l'objet sélectionné. Mondiale: Gizmos sont en rotation globale.
+Lock,,Lock,Verrouiller
+Lock the X and Y size together.,,Lock the X and Y size together.,Verrouillez la taille X et Y ensemble.
+Locked,,Locked,Verrouillé(e)
+Locking,,Locking,Verrouillage
+Log,,Log,Journal
+Logging,,Logging,Enregistrement
+Long press on an object to bring it up.,,Long press on an object to bring it up.,Appui long sur un objet pour le mettre en place.
+Look Speed,,Look Speed,Vitesse de la caméra
+Looking For Players,,Looking For Players,Recherche de joueurs
+Looping Effect,,Looping Effect,Looping effet
+Low,,Low,Basse
+Low Complexity,,Low Complexity,Faible complexité
+Lower-Multi-Grab,,Lower/Multi-Grab,Lower/Multi-Grab
+Lua scripts automatically execute on load.,,Lua scripts automatically execute on load.,Les scripts Lua s'executent automatiquement au chargement.
+Lut Name,,Lut Name,Lut Nom
+MODEL,,MODEL,MODÈLE
+MODIFIERS,,Modifiers,Modificateurs
+MORE,,More,Plus
+MSAA,,MSAA,MSAA
+Mage,,Mage,Mage
+Magnify,,Magnify,Loupe
+Mahjong,,Mahjong,Mahjong
+Main,,Main,Principale
+Main Menu,,Main Menu,Menu principal
+Main Menu Volume,,Main Menu Volume,Volume du menu principal
+Manticora,,Manticora,manticora
+Manual Only,,Manual Only,Manuel Uniquement
+Map,,Map,Carte
+Marbles,,Marbles,Billes
+Mass,,Mass,Masse
+Master Volume,,Master Volume,Master Volume
+Matching Custom Object Query,,Matching Custom Object Query,Matching Custom Object Query
+Material,,Material,Matériel
+Mature Games,,Mature Games,Jeux d'âge mûr
+Max,,Max,Max
+Max Distance,,Max Distance,Max Distance
+Max Objects Per Group,,Max. Objects Per Group,Max. Objets Par groupe
+Max Players,,Max Players,Maximum de joueurs
+Max Players (2-8),,Max Players (2-8),Joueurs Max (2-8)
+Measure Arrows Angle,,Measure Arrows Angle,Angle de mesure
+Measure Font Size,,Measure Font Size,Taille de la police en mesurant
+Measure Movement,,Measure Movement,Mesurer Mouvement
+Measure tool will automatically be used when moving this object.,,Measure tool will automatically be used when moving this object.,Outil de mesure sera automatiquement utilisé lors du déplacement de cet objet.
+Medium,,Medium,Moyenne
+Medium Complexity,,Medium Complexity,Complexité Moyenne
+Memory Games,,Memory Games,Jeux de mémoire
+Menu,,Menu,Menu
+Merge Distance,,Merge Distance,Distance de fusion
+Message,,Message,Message
+Metal,,Metal,Métal
+Microphone,,Microphone,Microphone
+Min,,Min,min
+Min Distance,,Min Distance,min Distance
+Miniature Games,,Miniature Games,Jeux de miniatures
+Misc,,Misc,Divers
+Misc. Settings,,Misc. Settings,Divers. Paramètres
+Misc. Settings...,,Misc. Settings...,Divers. Réglages...
+Miscellaneous,,Miscellaneous,Divers
+Missing Binding Warning,,Missing Binding Warning,Avertissement de contrôles manquantes
+Mistfall,,Mistfall,Mistfall
+Mod Caching,,Mod Caching,Mise en cache des Mods
+Mod Save Location,,Mod Save Location,Emplacement de sauvegarde des Mods
+Mod Threading,,Mod Threading,Rendu Multi-coeurs
+Modding,,Modding,Modding
+Mode,,Mode,Mode
+Model-Mesh,,Model/Mesh,Modèle / Mesh
+Moons,,Moons,Moons
+Moons Coin 2,,Moons Coin 2,Lunes Coin 2
+Moons Coin 3,,Moons Coin 3,Lunes Coin 3
+Moons Coin 4,,Moons Coin 4,Lunes Coin 4
+Moons Coin 5,,Moons Coin 5,Lunes Coin 5
+Moons Coin Ace,,Moons Coin Ace,Lunes Coin Ace
+Moons Coin Blank,,Moons Coin Blank,Lunes Coin Blank
+Moons Dice,,Moons Dice,lunes Dice
+Moons Square 2,,Moons Square 2,Lunes Square 2
+Moons Square 3,,Moons Square 3,Lunes Square 3
+Moons Square 4,,Moons Square 4,Lunes Square 4
+Moons Square 5,,Moons Square 5,Lunes Square 5
+Moons Square Ace,,Moons Square Ace,Lunes Place Ace
+Moons Square Blank,,Moons Square Blank,Lunes Place Blank
+Motor Force,,Motor Force,force de moteur
+Motor Free Spin,,Motor Free Spin,Free Spin moteur
+Motor Velocity,,Motor Velocity,vitesse moteur
+Mouse Shake Threshold,,Mouse Shake Threshold,Force de secouement
+Move,,Move,Déplacer
+Move Camera,,Move Camera,Se déplacer
+Move FrictioN,,Move FrictioN,Déplacer friction
+Move With Inertia,,Move With Inertia,Déplacez-vous avec Inertie
+Move the position of the grid to fit your layout.,,Move the position of the grid to fit your layout.,Déplacer la position de la grille pour l'adapter à votre disposition.
+"Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu.",,"Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu.","Déplacez votre caméra où vous voulez, appuyez sur Ctrl & un chiffre pour enregistrer sa position. Vous pouvez aussi le faire dans le menu contextuel global."
+Move {0}?,,Move {0}?,Déplacer {0}?
+Movement Speed,,Movement Speed,Vitesse de mouvement
+"Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around.",,"Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around.","Déplace la caméra vers l'avant, vers l'arrière et de chaque côté. En appuyant et en maintenant le bouton de la souris va pivoter la caméra autour."
+Moves the position of the camera. You can also press and hold the middle mouse button to pan around.,,Moves the position of the camera. You can also press and hold the middle mouse button to pan around.,Déplace la position de la caméra. Vous pouvez également appuyer sur le bouton central de la souris pour vous déplacer.
+Mp3 Player,,MP3 Player,Lecteur mp3
+Mp3 Volume,,MP3 Volume,Volume MP3
+Multi-Select,,Multi-Select,Sélect. multi.
+Multiplayer,,Multiplayer,Multijoueur
+Mummy,,Mummy,Momie
+Museum,,Museum,Musée
+Music,,Music,Musique
+Music Player,,Music Player,Lecteur musique
+Muted,,Muted,En sourdine
+Mythological,,Mythological,Mythologique
+NA,,NA,N / A
+NAT,,NAT,NAT
+NAT Punchthrough is a way the game tries to get around manual port forwarding.,,NAT Punchthrough is a way the game tries to get around manual port forwarding.,NAT intercomposants est une façon dont le jeu essaie de contourner la redirection de port manuel.
+NORTHWARD,,Northward,vers le nord
+Name,,Name,Nom
+Name MSG,,Name MSG,nom MSG
+Negative Typed Numbers,,Negative Typed Numbers,Negative Typed Numbers
+New Label,,New Label,Nouvelle étiquette
+New snap points will have these tags.,,New snap points will have these tags.,De nouveaux points d'accrochage auront ces balises.
+Next State,,Next State,État Suivant
+Nice shaking! Now let's rotate the camera.,,Nice shaking! Now let's rotate the camera.,"Belle secousse ! Maintenant, nous allons tourner la caméra."
+Nice! Now let's shuffle the deck of cards.,,Nice! Now let's shuffle the deck of cards.,"Cool ! Maintenant, nous allons mélanger le paquet."
+"Nice! Now let's spin our view. Hold ({0}) on both controllers, then move your hands as if you were turning a wheel.",,"Nice! Now let's spin our view.
+Hold <{0}> on both controllers,
+then move your hands as if you were turning a wheel.","Incroyable! Maintenant, nous allons tourner notre point de vue.
+Maintenez la touche <{0}> sur les deux contrôleurs,
+puis déplacez vos mains comme si vous tourniez une roue."
+No,,No,Non
+No Log,,No Log,Aucun journal
+No special properties.,,No special properties.,Pas de propriétés spéciales.
+Non-Cards,,Non-Cards,Non Cartes
+Non-Convex,,Non-Convex,Non-Convex
+None,,None,Aucun(e)
+Normal-Bump,,Normal/Bump,Normal / Bump
+North America Proxy,,North America Proxy,Amérique du Nord Proxy
+Not connected to this player.,,Not connected to this player.,Non connecté à ce joueur.
+Notebook,,Notebook,Carnet
+Notecard,,Notecard,Fiche; fiche cartonnée
+Notepad,,Notepad,Bloc-notes
+Notes,,Notes,Notes
+Nudge,,Nudge,Pousser
+Nudging,,Nudging,Pousser
+Number,,Number,Nombre
+Number of Players,,Number of Players,Nombre de joueurs
+Number of Players:,,Number of Players:,Nombre de joueurs:
+Number of cards in the deck (2-69). Last card slot is used for the hidden card.,,Number of cards in the deck (2-69). Last card slot is used for the hidden card.,Nombre de cartes dans le jeu (2-69). Dernière fente de carte est utilisée pour la carte cachée.
+Number of pages to compensate for pdf page numbering being offset from actual page numbering.,,Number of pages to compensate for pdf page numbering being offset from actual page numbering.,Nombre de pages pour compenser la numérotation des pages pdf étant décalée par rapport à la numérotation des pages réelles.
+Number of people currently playing Tabletop Simulator,,Number of people currently playing Tabletop Simulator,Nombre de personnes en cours de lecture Simulator Tabletop
+Number of puzzle pieces.,,Number of puzzle pieces.,Nombre de pièces de puzzle.
+OC,,OC,OC
+Objects,,Objects,Objets
+Objects Per Group,,Objects Per Group,Objets Par groupe
+Objects are not hidden in hands.,,Objects are not hidden in hands.,Les objets ne sont pas cachés dans les mains.
+Objects in queue.,,Objects in queue.,Les objets dans la file d'attente.
+Objects snap to both the lines and the center of the grid.,,Objects snap to both the lines and the center of the grid.,Aligner les objets à la fois les lignes et le centre de la grille.
+Objects snap to center of each grid location.,,Objects snap to center of each grid location.,Aligner les objets au centre de chaque emplacement de la grille.
+Objects snap to line intersections.,,Objects snap to line intersections.,Aligner les objets aux intersections des lignes.
+Objects will be hidden in area.,,Objects will be hidden in area.,Les objets seront cachés dans la zone.
+"Objects will only be included in a drag selection if this is enabled, or if the player holds the key.",,"Objects will only be included in a drag selection if this is enabled, or if the player holds the key.","Les objets ne seront inclus dans une sélection de glisser si cette option est activée, ou si le joueur détient la clé."
+Oceanic Proxy,,Oceanic Proxy,Proxy Oceanic
+Octagon,,Octagon,Octogone
+Off,,Off,Off
+Offset,,Offset,Décalage
+Offset for the Field of View of Fog of War revealed.,,Offset for the Field of View of Fog of War revealed.,Décalage pour le champ de vision du brouillard de guerre révélé.
+Ogre,,Ogre,Ogre
+Ok,,Ok,Ok
+Old school way to connect with IP and Port.,,Old school way to connect with IP and Port.,Ancienne école de se connecter avec IP et le port.
+On-Screen Keyboard,,On-Screen Keyboard,Sur le clavier de l'écran
+On-screen Keyboard Echo,,On-screen Keyboard Echo,Echo du clavier
+On-screen Keyboard Scale,,On-screen Keyboard Scale,Taille du clavier affiché à l'écran
+One Last Thing! Time for some mayhem! Press the 'Flip' button on the top bar!,,"One Last Thing! Time for some mayhem!
+Press the 'Flip' button on the top bar!","Une dernière chose ! Il est temps de tout détruire !
+Appuyez sur le bouton « Retourner » sur la barre de haut !"
+Only invited people can join.,,Only invited people can join.,Seules les personnes invitées peuvent se joindre.
+Only the hand owner can see in their hand.,,Only the hand owner can see in their hand.,Seul le propriétaire de la main peut voir dans leur main.
+Only your friends can join.,,Only your friends can join.,Seuls vos amis peuvent se joindre.
+Opacity,,Opacity,Opacité
+Opacity Of Drop Indicator,,Opacity Of Drop Indicator,Opacité de l'indicateur de chute
+Opacity Of Spawn Indicator,,Opacity Of Spawn Indicator,Opacité de l'indicateur de création
+Open,,Open,Ouvrir
+Open folder in OS,,Open folder in OS,Ouvrir le dossier dans OS
+Opposing players' pointers will be hidden in area.,,Opposing players' pointers will be hidden in area.,Les pointeurs de joueurs adverses seront cachés dans la zone.
+Options,,Options,Options
+Options -) Info,,Options -> Info,Options -> Info
+Orange,,Orange,Orange
+Orc,,Orc,Orc
+Order,,Order,Ordre
+Orient Object Delay,,Orient Object Delay,Orient objet de retard
+Original Controls,,Original Controls,Contrôles d'origine
+Original Games,,Original Games,Jeux originaux
+Overwrite,,Overwrite,Écraser
+Overwrite theme {0}?,,Overwrite theme {0}?,Ecraser {0} thème?
+Overwrite {0}?,,Overwrite {0}?,Ecraser {0}?
+PDF File,,PDF File,Fichier PDF
+PDF Viewer,,PDF Viewer,PDF Viewer
+PERMISSIONS,,Permissions,Permissions
+PM (Global),,PM (Global),MP (Global)
+PM (In Game),,PM (In Game),MP (Jeu)
+Pachisi,,Pachisi,Pachisi
+Pad Icons Always On,,Pad Icons Always On,Pad Icônes Toujours
+Pad Up = Teleport,,Pad Up = Teleport,Pad Up = Teleport
+Padding,,Padding,Rembourrage
+Page,,Page,Page
+Page Offset,,Page Offset,Décalage de la page
+Painting,,Painting,La peinture
+Pan,,Pan,Pan
+Pan Camera,,Pan Camera,Se déplacer
+Particle Effects,,Particle Effects,Effets de particules
+Party Games,,Party Games,Jeux de société
+Pass Turns,,Pass Turns,Passe Tours
+Password,,Password,Mot de passe
+Paste,,Paste,Coller
+"Paste clipboard, replacing text.",,"Paste clipboard, replacing text.","Coller le presse-papiers, remplacer le texte."
+Pawn,,Pawn,Pion
+Pawn Cast Iron,,Pawn Cast Iron,Moulage Pawn Fer
+Pawn Chrome,,Pawn Chrome,pion Chrome
+Pawn Dark,,Pawn Dark,pion noir
+Pawn Light,,Pawn Light,pion Lumière
+Pawn Supporters,,Pawn Supporters,Les partisans Pawn
+Peek Cards & Objects,,Peek Cards & Objects,Peek Cards & Objects
+Peeking,,Peeking,Peeking
+Pen,,Pen,Stylo
+Perfect! Now let's move the entire deck of cards.,,Perfect! Now let's move the entire deck of cards.,"Parfait ! Maintenant, nous allons déplacer le tas entier."
+Persistent,,Persistent,Persistant
+Physical UI Screen,,Physical UI Screen,Interface physique
+Physics,,Physics,Physique
+Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.,,Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.,Physique sont légèrement adoucies. Les objets qui sont au repos ne interagissent plus avec d'autres objets.
+Pick Up,,Pick Up,Ramasser
+Picture-in-Picture,,Picture-in-Picture,Image dans l'image
+Piecepack,,Piecepack,Piecepack
+Pieces,,Pieces,Pièces
+Ping to player,,Ping to player,Ping au joueur
+Pink,,Pink,Rose
+Pivot,,Pivot,Pivot
+Pivot Point,,Pivot Point,Point de pivot
+Pixel,,Pixel,pixel
+Pixel Paint,,Pixel Paint,Peinture Pixel
+Placeholder,,Placeholder,placeholder
+Plastic,,Plastic,Plastique
+Play Area,,Play Area,Aire de jeu
+Play Scripts,,Play Scripts,Scripts de lecture
+"Play a solo game, or create your own custom games. Great for prototyping and testing.",,"Play a solo game, or create your own custom games. Great for prototyping and testing.","Faites une petite partie solo, ou créer vos propres jeux personnalisés. Idéal pour le prototypage et les tests."
+"Play by yourself, great for creating games or playing solo games.",,"Play by yourself, great for creating games or playing solo games.","Jouez par vous-même, grand pour créer des jeux ou jouer à des jeux en solo."
+Play games with people online.,,Play games with people online.,Jouer avec des gens en ligne.
+Play on the same computer with multiple people.,,Play on the same computer with multiple people.,Jouez sur le même ordinateur avec plusieurs personnes.
+Play with multiple people on the same computer taking turns.,,Play with multiple people on the same computer taking turns.,Jouez avec plusieurs personnes sur les mêmes tours de prise d'ordinateur.
+Play with other people.,,Play with other people.,Jouer avec d'autres personnes.
+Player 1,,Player 1,joueur 1
+Player 1's Turn,,Player 1's Turn,tour du joueur 1
+Player Name,,Player Name,Nom de joueur
+Player Names,,Player Names,Noms des joueur
+Player Pawns,,Player Pawns,Pions joueur
+Players,,Players,Joueurs
+Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .,,Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .,Les joueurs sur la même équipe peuvent se voir d'autres informations cachées et communiquer avec le texte de l'équipe dans le chat et le chat vocal d'équipe.
+Playing Time,,Playing Time,Temps de jeu
+Playlist,,Playlist,Playlist
+Please enter password,,Please enter password,Veuillez entrer le mot de passe
+Please pickup the card using ({0}) on either controller.,,Please pickup the card using <{0}> on either controller.,Vous pouvez prendre la carte en utilisant <{0}> de chaque contrôleur.
+Please pickup the card using your finger.,,Please pickup the card using your finger.,Vous pouvez prendre la carte à l'aide de votre doigt.
+Please pickup the card with (Left Mouse Button).,,Please pickup the card with <Left Mouse Button>.,Vous pouvez prendre la carte avec <Bouton gauche de la souris>.
+Please pickup the card with (Right Bumper).,,Please pickup the card with <Right Bumper>.,Vous pouvez prendre la carte avec <Bumper Droit>.
+Point,,Point,Point
+Pointer,,Pointer,Curseur
+Pointer - Zoom (Click) - Pan Camera (Hold),,Pointer / Zoom (Click) / Pan Camera (Hold),Pointeur / Zoom (Cliquez) / Caméra Pan (Hold)
+Poker,,Poker,Poker
+Poker Chips,,Poker Chips,Jetons de poker
+Pop-out,,Pop-out,Pop-out
+Port (11155 is default),,Port (11155 is default),Port (11155 est par défaut)
+Port (Default is 11155),,Port (Default is 11155),Port (valeur par défaut est 11155)
+Portraits,,Portraits,Portraits
+Position,,Position,Position
+Position of the anchor relative to the connected Rigidbody.,,Position of the anchor relative to the connected Rigidbody.,Position de la cheville par rapport au modèle du solide indéformable connecté.
+Post AA,,Post AA,Poster AA
+Post processing sharpen effect to enhance the clarity of textures.,,Post processing sharpen effect to enhance the clarity of textures.,Post-traitement d'accentuation pour améliorer la clarté des textures.
+"Precise drawing, draw on locked objects, and change the color. +-- to scale the thickness.",,"Precise drawing, draw on locked objects, and change the color. +/- to scale the thickness.","dessin précis, tirer sur des objets verrouillés, et changer la couleur. +/- à l'échelle de l'épaisseur."
+Preset Quality,,Preset Quality,Qualité Prédéfinie
+Presets,,Presets,Préconfigurations
+Press (Space) to reset the camera.,,Press <Space> to reset the camera.,Appuyez sur <Espace> pour repositionner la caméra.
+Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots,,Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots,F11 pour cacher l'interface. SHIFT + F11 pour une capture.
+"Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly.",,"Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly.","Appuyez et maintenez enfoncé le bouton gauche de la souris pour ramasser des objets. Saisissez et maintenez pour ramasser des piles et des paquets. Pour prendre un seul élément de piles et paquets, saisir et déplacez votre souris sur le paquet rapidement."
+Press and hold your finder on the deck for a second then drag.,,Press and hold your finder on the deck for a second then drag.,Appuyez et maintenez votre viseur sur le pont pour une seconde puis faites glisser.
+Press or the middle mouse button to quickly zoom to where your mouse is pointing.,,Press or the middle mouse button to quickly zoom to where your mouse is pointing.,Appuyez sur ou sur le bouton central de la souris pour zoomer rapidement à l'endroit où votre souris pointe.
+Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.,,Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.,Appuyez sur Shift et un chiffre pour charger une caméra enregistrée. Vous pouvez aussi le faire dans le menu contextuel global.
+Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.,,Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.,Appuyez sur la touche pour faire tomber un rideau simulant les yeux bandés. Vous pouvez également apporter cela dans le menu contextuel global.
+Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.,,Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.,Appuyez sur la touche pour tout inspecter à la loupe sur la table. Vous pouvez également zoomer avec la molette de votre souris.
+Press the key to quickly bring up the main menu.,,Press the key to quickly bring up the main menu.,Appuyez sur la touche pour mettre rapidement le menu principal.
+"Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button.",,"Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button.","Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button."
+Press to talk to only those people on the same team as you.,,Press to talk to only those people on the same team as you.,Tchat vocal concernant uniquement les membres de votre équipe.
+Preview,,Preview,Aperçu
+Previous State,,Previous State,État Précédent
+Primary,,Primary,Primaire
+Private,,Private,Privé
+Profanity Filter,,Profanity Filter,filtre d'obscénités
+Progress,,Progress,Le progrès
+Projection,,Projection,Projection
+Promote,,Promote,Promouvoir
+Promoted,,Promoted,promu
+Props,,Props,Props
+Proxy,,Proxy,Procuration
+"Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort.",,"Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort.","Les serveurs proxy augmente la latence pour les clients, mais devraient assurer une connexion. Les clients ne se connectent via le serveur proxy en dernier recours."
+Public,,Public,Publique
+Pure,,Pure,Pur
+Pure Mode: Floor Mist,,Pure Mode: Floor Mist,Mode Pur: Sol brouillard
+Pure Mode: Hide Custom Image,,Pure Mode: Hide Custom Image,Mode Pur: Cacher les images personnalisées
+Purple,,Purple,Violet
+Push To Talk,,Push To Talk,Appuyez pour parler
+Puzzle Games,,Puzzle Games,Jeux Puzzle
+Quarter,,Quarter,Trimestre
+Queen,,Queen,Reine
+Queen Cast Iron,,Queen Cast Iron,Reine en fonte
+Queen Chrome,,Queen Chrome,Reine Chrome
+Queen Dark,,Queen Dark,Reine sombre
+Queen Light,,Queen Light,Reine Lumière
+Queen Supporters,,Queen Supporters,Les partisans de la Reine
+Quick Zoom,,Quick Zoom,Zoom rapide
+Quick tap on an object.,,Quick tap on an object.,pression rapide sur un objet.
+Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,,Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,Moyen rapide de modifier les paramètres graphiques sans avoir à modifier les options individuelles. Utilisez uniquement faible ou très faible si vous avez des problèmes d'IPS.
+Quickly drag away from the deck.,,Quickly drag away from the deck.,faites-le glisser rapidement de la plate-forme.
+Quit playing.,,Quit playing.,Arrête de jouer.
+REMOVE BLINDFOLD,,Remove Blindfold,Retirer Blindfold
+RIGHT_THEN_DOWN,,Right / Down,Droite / Bas
+RIGHT_THEN_UP,,Right / Up,Droite / Haut
+RIGIDBODY,,Rigidbody,Corps rigide
+ROTATIONS,,Rotations,rotations
+RPG,,RPG,RPG
+RPG Attack,,RPG Attack,Attaque RPG
+RPG Die,,RPG Die,Mort RPG
+RPG Figurines - Protofactor,,RPG Figurines - Protofactor,RPG Figurines - Protofactor
+"RPG Figurines are fully animated. Use 1, 2, 3 to activate.",,"RPG Figurines are fully animated. Use 1, 2, 3 to activate.","Les Figurines RPG sont animées. Utilisez 1, 2, 3 pour les activer."
+RPG Kit,,RPG Kit,Kit RPG
+RPG Mode,,RPG Mode,Mode RPG
+Raise,,Raise,Élever
+Raise-Randomize,,Raise/Randomize,Lever / Randomiser
+Random,,Random,Aléatoire
+Random Card,,Random Card,Carte aléatoire
+Random Domino,,Random Domino,Au hasard Domino
+Random Mahjong,,Random Mahjong,aléatoire Mahjong
+Randomize,,Randomize,Randomiser
+Randomize - Raise,,Randomize / Raise,Randomize / Raise
+Randomize Zone Tags,,Randomize Zone Tags,Zone randomize Mots clés
+Randomize all objects in this zone?,,Randomize all objects in this zone?,Randomisez tous les objets dans cette zone?
+Randomizes rotation when shaken and spins when thrown.,,Randomizes rotation when shaken and spins when thrown.,Rotation des randomizes quand on les secoue et tourne une fois jeté.
+Randomly play an audioclip from a the playlist?,,Randomly play an audioclip from a the playlist?,jouer au hasard un AudioClip d'une la liste de lecture?
+Range of Fog of War revealed.,,Range of Fog of War revealed.,Distance de brouillard de guerre révélé.
+Ranger,,Ranger,Ranger
+ReHide Objects,,Re-Hide Objects,Objets Remasquez
+Read more on our Knowledge Base.,,Read more on our Knowledge Base.,En savoir plus sur notre Documentation.
+Real,,Real,Réel
+Rectangle,,Rectangle,Rectangle
+Rectangle (Rounded),,Rectangle (Rounded),Rectangle (Arrondi)
+Red,,Red,rouge
+Red 100,,Red 100,rouge 100
+Red Square,,Red Square,carré rouge
+Reflection Intensity,,Reflection Intensity,Intensité de réflexion
+Refresh server list,,Refresh server list,liste des serveurs Actualiser
+Regal,,Regal,Royal
+Region,,Region,Région
+Remove all {0} controls?,,Remove all {0} controls?,Retirez tous les contrôles {0}?
+Remove block on {0}?,,Remove block on {0}?,Retirer le bloc sur {0}?
+Rename,,Rename,Renommer
+Rename theme?,,Rename theme?,Renommer le thème?
+Render Drawing over UI,,Render Drawing Over UI,Afficher les dessisn par dessus l'interface
+Repeat current audioclip?,,Repeat current audioclip?,Répétez AudioClip courant?
+Reset,,Reset,Réinitialiser
+Reset All,,Reset All,Effacer tout
+Reset Camera,,Reset Camera,Réini. caméra
+Reset Data,,Reset Data,R. données
+Reset Fog,,Reset Fog,Réinitialiser Brouillard
+Reset View,,Reset View,Réinitialiser la caméra
+Reset the camera!,,Reset the camera!,Réinitialisez la camera !
+Reset to Default,,Reset to Default,Réinitialiser par défaut
+Reset to default Light scheme (CTRL-F12),,Reset to default Light scheme (CTRL-F12),Réinitialiser par défaut le thème (CRTL-F12)
+"Resets all saved data (General, Controls, UI, etc).",,"Resets all saved data (General, Controls, UI, etc).","Réinitialise toutes les données enregistrées (général, les contrôles, l'interface utilisateur, etc.)."
+Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .,,Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .,Remet la caméra à sa position par défaut en fonction de votre position de siège. Cela peut être contournée en enregistrant une vue de la caméra en appuyant sur +.
+Resolution,,Resolution,Résolution
+Resume Game,,Resume Game,Reprendre
+Reveal Color,,Reveal Color,Couleur Reveal
+Reveal FoV,,Reveal FoV,révéler FoV
+Reveal FoV Offset,,Reveal FoV Offset,Reveal FoV Offset
+Reveal Fog of War,,Reveal Fog of War,Révéler brouillard
+Reveal Height,,Reveal Height,Révéler Hauteur
+Reveal Range,,Reveal Range,Gamme Reveal
+Reveal to all.,,Reveal to all.,Révéler à tous.
+Reveal to blue.,,Reveal to blue.,Révéler au bleu.
+Reveal to brown.,,Reveal to brown.,Révéler au brun.
+Reveal to green.,,Reveal to green.,Révéler au vert.
+Reveal to orange.,,Reveal to orange.,Révéler à l'orange.
+Reveal to pink.,,Reveal to pink.,Révéler au rose.
+Reveal to purple.,,Reveal to purple.,Révéler au violet.
+Reveal to red.,,Reveal to red.,Révéler au rouge.
+Reveal to teal.,,Reveal to teal.,Révéler à sarcelle.
+Reveal to white.,,Reveal to white.,Révéler au blanc.
+Reveal to yellow.,,Reveal to yellow.,Révéler au jaune.
+Revealer,,Revealer,Révélateur
+Reverse,,Reverse,Inverser
+Reverse Hiding,,Reverse Hiding,Hiding inverse
+Reverse Order,,Reverse Order,Ordre inverse
+Reversed,,Reversed,Renversé
+ReversedSort,,When enabled the sort order inside a group is reversed.,Lorsqu'elle est activée l'ordre de tri dans un groupe est inversé.
+Reverses the turn order from the default.,,Reverses the turn order from the default.,Renverse l'ordre du tour de la valeur par défaut.
+Reversi,,Reversi,Reversi
+Reversi Chip,,Reversi Chip,Reversi Chip
+Rewind Time,,Rewind Time,Retour arrière
+Right,,Right,Droite
+Right Pad Down,,Right Pad Down,Pad droit vers le bas
+Right Tool Hotkeys,,Right Tool Hotkeys,Bon outil Hotkeys
+Right click on an object for more options.,,"Right click on an object
+for more options.","Faites Clique Droit sur un objet
+pour plus d'options."
+Right click on non-objects for global menu options.,,"Right click on non-objects for
+global menu options.","Faites Clique Droit pour
+options de menu global."
+Rock,,Rock,Roche
+Role-playing Games,,Role-playing Games,Jeux de rôle
+Roll,,Roll,Rouleau
+Rook,,Rook,Tour
+Rook Cast Iron,,Rook Cast Iron,Rook Fonte
+Rook Chrome,,Rook Chrome,Rook Chrome
+Rook Dark,,Rook Dark,Rook noir
+Rook Light,,Rook Light,Rook Lumière
+Rook Supporters,,Rook Supporters,Les partisans Rook
+Rooms,,Rooms,Pièces
+Rotate,,Rotate,Tourner
+Rotate Camera,,Rotate Camera,Pivoter caméra
+Rotate Camera - Reset (Click),,Rotate Camera / Reset (Click),Faire pivoter la caméra / Reset (Cliquez)
+Rotate Left,,Rotate Left,Tourner à gauche
+Rotate Other Axis,,Rotate Other Axis,Rotation autre axe
+Rotate Right,,Rotate Right,Tourner à droite
+Rotate Snap,,Rotate Snap,Rotation Aligner
+"Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees.",,"Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees.","Rotation des points sont encliquetage les mêmes que les points d'accrochage, sauf que vous pouvez changer la position de rotation. Donc, si vous avez activé un point 30 pression degrés vers la droite, lorsque vous placez un objet sur le dessus si elle, elle se mettra en place et tourner aussi 30 degrés."
+Rotation,,Rotation,Rotation
+Rotation Degrees,,Rotation Degrees,Degrés de rotation
+Rotation Value,,Rotation Value,Valeur de rotation
+Round,,Round,Rond
+Round Glass,,Round Glass,Verre Rond
+Rounded,,Rounded,Arrondi
+Ruler mode,,Ruler mode,Mode règle
+Rules,,Rules,Règles
+SAVE & EXIT,,Save & Exit,Sauv. & Quitter
+SAVE & LOAD,,Save & Load,Sauv. & Charger
+SAVE GAME,,Save Game,Sauvegarder la partie
+SAVED OBJECTS,,Saved Objects,Objets enregistrés
+SERVER,,Server,Serveur
+SORT_BY_ADDED,,Added Time,Ajouté Le temps
+SORT_BY_DESC,,Description,Description
+SORT_BY_GM,,GM Notes,Notes du MJ
+SORT_BY_MEMO,,Memo,Note
+SORT_BY_NAME,,Name,Nom
+SORT_BY_VALUE,,Value,Valeur
+SORT_NONE,,None,Aucun
+SOUND,,Sound,Audio
+SOUTHWARD,,Southward,Vers le sud
+SPOTLIGHT,,Spotlight,Mise en avant
+SSAO,,SSAO,SSAO
+SUBMIT,,Submit,Soumettre
+Sandbox,,Sandbox,Bac à sable
+Saturation,,Saturation,Saturation
+Save,,Save,Sauver
+Save & Play,,Save & Play,Sauv. & Jouer
+Save Camera,,Save Camera,Sauv. Caméra
+Save Camera View,,Save Camera View,Sauv. la caméra
+Save Object,,Save Object,Enregistrer l'objet
+Save Object(s),,Save Object(s),Enregistrer objet (s)
+Save a game you have playing for a long time and load it up again when you're ready to play it again.,,Save a game you have playing for a long time and load it up again when you're ready to play it again.,Enregistrer un jeu que vous avez jouer pendant une longue période et le charger à nouveau lorsque vous êtes prêt à jouer à nouveau.
+Save current theme as...,,Save current theme as...,Enregistrer le thème en tant que ...
+Save to Chest,,Save to Chest,Enregistrer sur la poitrine
+Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.,,Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.,Enregistre les modifications de script à la dernière ouverture et rechargements Enregistrer le jeu avec tout changement de script. Toute modification qui ne sont pas de script liées seront perdues.
+Saving,,Saving,Sauvegarde
+Scale,,Scale,Taille
+Scale Down,,Scale Down,Rapetisser
+Scale Up,,Scale Up,Aggrandir
+Scaling,,Scaling,Taille
+"Scaling applied to card only, not to base.",,"Scaling applied to card only, not to base.","Mise à l'échelle appliquée à la carte, et non à la base."
+Scripting,,Scripting,Scripting
+Scripting 1,,Scripting 1,Scripting 1
+Scripting 10,,Scripting 10,Scripting 10
+Scripting 2,,Scripting 2,Scripting 2
+Scripting 3,,Scripting 3,Scripting 3
+Scripting 4,,Scripting 4,Scripting 4
+Scripting 5,,Scripting 5,Scripting 5
+Scripting 6,,Scripting 6,Scripting 6
+Scripting 7,,Scripting 7,Scripting 7
+Scripting 8,,Scripting 8,Scripting 8
+Scripting 9,,Scripting 9,Scripting 9
+Scripting Editor,,Scripting Editor,Éditeur de script
+Scripting Zone Tags,,Scripting Zone Tags,Scripting Zone Tags
+Scripting: Automated,,Scripting: Automated,Scripting: automatique
+Search,,Search,Rechercher
+Search privately without others being able to see what's inside.,,Search privately without others being able to see what's inside.,"Recherche en privé, sans autres être en mesure de voir ce qui est à l'intérieur."
+Search publicly with others being able to see what's inside.,,Search publicly with others being able to see what's inside.,Rechercher publiquement avec d'autres être en mesure de voir ce qui est à l'intérieur.
+Secondary,,Secondary,Secondaire
+Seconds,,Seconds,secondes
+See everyone who has contributed to Tabletop Simulator's development.,,See everyone who has contributed to Tabletop Simulator's development.,Voir tous ceux qui ont contribué au développement de simulateur Tabletop.
+See-through,,See-through,Voir à travers
+Select,,Select,Sélectionner
+Selection Height,,Selection Height,sélection Hauteur
+Selection Style,,Selection Style,sélection du style
+Selects the microphone to use for Voice Chat.,,Selects the microphone to use for Voice Chat.,Sélectionne le microphone à utiliser pour le Tchat Vocal.
+Semi-Lock,,Semi-Lock,Semi-Lock
+Server Browser,,Server Browser,Serveurs
+Server IP,,Server IP,IP du serveur
+Server Name,,Server Name,Nom du serveur
+Server Password,,Server Password,Mot de passe du serveur
+Server Type,,Server Type,Type de serveur
+Set Camera 0,,Set Camera 0,Set Caméra 0
+Set UI Visibility,,Set UI Visibility,Afficher ou non l'interface
+Sets the Radius,,Sets the Radius,Définit le rayon
+Shadow Quality,,Shadow Quality,Qualité des ombres
+Shadows,,Shadows,Ombres
+Sharpen,,Sharpen,Accentuation
+Shift,,Shift,Shift
+Should player hands hold objects?,,Should player hands hold objects?,Est-ce que les joueurs doivent tenir des objets ?
+Should the hidden area be semi-transparent when hiding?,,Should the hidden area be semi-transparent when hiding?,la zone cachée doit être semi-transparent lorsqu'il se cacher?
+Should the object cast shadows? It's a good idea to disable this for ceiling objects.,,Should the object cast shadows? It's a good idea to disable this for ceiling objects.,l'objet doit jeter des ombres? Il est une bonne idée de désactiver ce pour les objets de plafond.
+Should the object snap to any grid points?,,Should the object snap to any grid points?,L'objet doit s'aligner sur les points de la grille?
+Should the object snap to any snap points?,,Should the object snap to any snap points?,L'objet doit s'attacher à tout les points d'accrochage?
+Should the object survive loading between saves and mods?,,Should the object survive loading between saves and mods?,l'objet doit survivre chargement entre deux sauvegardes et mods?
+Should this object go into player hands?,,Should this object go into player hands?,Au cas où cet objet aller dans les mains du joueur?
+Should this object receive grid lines projected onto it?,,Should this object receive grid lines projected onto it?,Au cas où cet objet recevoir des lignes de grille projetée sur celui-ci?
+Show For Grid,,Show For Grid,Afficher la grille
+Show For Snap Points,,Show For Snap Points,Afficher les points d'accrochages
+Show Lines,,Show Lines,Afficher les lignes
+Show When Not Snapping,,Show When Not Snapping,Afficher l'indicateur de chute sans point d'accrochage
+Show floating Steam Avatars where the player is seated.,,Show floating Steam Avatars where the player is seated.,Afficher l'avatar des joueurs à leur place assise.
+Show only servers that your friends are in.,,Show only servers that your friends are in.,Afficher uniquement les serveurs que vos amis sont.
+Show-Hide Note,,Show/Hide Note,Afficher / Masquer les notes
+Shuffle,,Shuffle,Mélanger
+Sideways,,Sideways,De côté
+Silver 500,,Silver 500,argent 500
+Singleplayer,,Singleplayer,Solo
+Size,,Size,Taille
+Size Of Collapsed Section,,Size Of Collapsed Section,Taille de la section de réduction
+Size of the UI.,,Size of the UI.,Taille de l'interface utilisateur.
+"Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5).",,"Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5).","Taille de la zone de lecture, comprend la taille des murs invisibles et zoom de la caméra (par défaut = 0,5)."
+Skeleton Knight,,Skeleton Knight,Chevalier squelette
+Skip Empty Hands,,Skip Empty Hands,Passer les mains vides
+Skip to the next audioclip?,,Skip to the next audioclip?,Passer à l'autre AudioClip?
+Skip to the start or previous audioclip?,,Skip to the start or previous audioclip?,Passer au début ou à AudioClip précédent?
+Skips players who have nothing in their hands.,,Skips players who have nothing in their hands.,Saute les joueurs qui n'ont rien dans leurs mains.
+Sky,,Sky,Ciel
+Smooths the edges of objects to reduce jaggies. Costly performance.,,Smooths the edges of objects to reduce jaggies. Costly performance.,Adoucit les bords des objets pour réduire le crénelage en dépit des performances.
+"Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)",,"Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)","Adoucit les bords des objets pour réduire le crénelage. Moins cher que le MSAA, mais rend légèrement flou les textures. (Calcul après le SMAA)"
+Snap,,Snap,Casser
+Snap Point Creation Tags,,Snap Point Creation Tags,Création point de synchronisation Mots clés
+Snap Point Tags,,Snap Point Tags,Mots-clés point pression
+Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.,,Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.,Les points d'accrochage sont des points juste pression de base si l'objet se mette en place comme un aimant. Supprimer un point pression en cliquant dessus.
+Snapping,,Snapping,Accrochage
+Solitaire,,Solitaire,Solitaire
+Solve,,Solve,Résoudre
+Sort,,Sort,Trier
+Sort Existing,,Sort Existing,Trier existants
+Sort Games:,,Sort Games:,Trier Jeux:
+Sounds,,Sounds,Son
+Space,,Space,Espace
+Spades,,Spades,Piques
+Spawn,,Spawn,Placer
+Spawn In Air,,Spawn In Air,Placer en l'air
+Spawn Snap-To-Object,,Spawn Snap-To-Object,Placement magnétique
+Spawning Hides Components,,Spawning Hides Components,Cacher la fenêtre des objets
+Special Thanks,,Special Thanks,Remerciement spécial
+Specular Color,,Specular Color,Couleur spéculaires
+Specular Intensity,,Specular Intensity,Intensité spéculaires
+Specular Sharpness,,Specular Sharpness,spéculaires Netteté
+Split,,Split,Diviser
+Split the deck into multiple stacks.,,Split the deck into multiple stacks.,Diviser le paquet en plusieurs piles.
+Spread,,Spread,Étaler
+Spread cards out on table.,,Spread cards out on table.,Étaler les cartes sur la table.
+Spring,,Spring,Printemps
+Spring Joint,,Spring Joint,Joint printemps
+Square,,Square,Carré
+Stackable,,Stackable,empilables
+Stacks like poker chips.,,Stacks like poker chips.,Stacks comme des jetons de poker.
+Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),,Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),Stacks comme des jetons de poker. (Note: collisionneur personnalisé ne déterminer l'épaisseur de la pile)
+Stand Up,,Stand Up,Se lever
+Standard Deck,,Standard Deck,Plate-forme standard
+Start,,Start,Démarrer
+State,,State,État
+Static,,Static,Statique
+Static Friction,,Static Friction,Frottement statique
+Stationary grid drawn in world space.,,Stationary grid drawn in world space.,grille stationnaire dessiné dans l'espace mondial.
+Stats Monitor,,Stats Monitor,Statistiques à l'écran
+Steam ID,,Steam ID,Steam ID
+Sticky,,Sticky,Gluant
+Sticky Cards,,Sticky Cards,Cartes Post-it
+Sticky Grab,,Sticky Grab,Post-it Grab
+StickyCardsTooltip,,"When picked up, cards above the grabbed card will also be lifted.","Quand ramassé, cartes au-dessus de la carte saisi seront également levées."
+Stop Search,,Stop Search,Arrêter la recherche
+Stopwatch,,Stopwatch,Chronomètre
+Store,,Store,Boutique
+Store mod data on disk to speed up mod loading.,,Store mod data on disk to speed up mod loading.,Stocker les données des Mods sur le disque pour accélérer le chargement.
+Straighten self upright when picked up.,,Straighten self upright when picked up.,Redresser auto debout quand ramassé.
+Strategy Games,,Strategy Games,Jeux de stratégie
+"Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte.",,"Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte.","La force du réflexivité de l'objet. Supérieur = brillant, inférieur = mat."
+Stretch to Aspect Ratio,,Stretch to Aspect Ratio,Étirement Aspect Ratio
+Style,,Style,Style
+Suns,,Suns,Suns
+Suns Coin 2,,Suns Coin 2,Suns Coin 2
+Suns Coin 3,,Suns Coin 3,Suns Coin 3
+Suns Coin 4,,Suns Coin 4,Suns Coin 4
+Suns Coin 5,,Suns Coin 5,Suns Coin 5
+Suns Coin Ace,,Suns Coin Ace,Suns Coin Ace
+Suns Coin Blank,,Suns Coin Blank,Suns Coin Blank
+Suns Dice,,Suns Dice,Suns Dice
+Suns Square 2,,Suns Square 2,Suns Square 2
+Suns Square 3,,Suns Square 3,Suns Square 3
+Suns Square 4,,Suns Square 4,Suns Square 4
+Suns Square 5,,Suns Square 5,Suns Square 5
+Suns Square Ace,,Suns Square Ace,Ace Suns Place
+Suns Square Blank,,Suns Square Blank,Suns carré blanc
+Sunset,,Sunset,Le coucher du soleil
+Sync Axis,,Sync Axis,Sync Axis
+System,,System,Système
+System Console,,System Console,Console
+TABLES,,Tables,Tables
+TEAMS,,Teams,Les équipes
+TIPS & HINTS,,Tips & Hints,Trucs et Astuces
+TRANSFORM,,Transform,Transformer
+TTS-PaperUI-Atlas,,TTS-PaperUI-Atlas,TTS-PaperUI-Atlas
+Tab,,Tab,Languette
+Tab1,,Tab1,Tab1
+Table,,Table,Table
+Table Flip,,Table Flip,Flip Table
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".","Les tables sont où vous jouez à des jeux, comme dans la vie réelle. La plus petite table est la table carrée qui se trouve un maximum de 4 joueurs. La table hexagonale peut accueillir un maximum de 6 joueurs. Les sièges table rectangle personnalisé 10 joueurs et toutes les autres tables contiennent un maximum de 8 joueurs. Les sièges peuvent être personnalisés à l'aide de la « Hands Tool Zone »."
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the Hands Zone Tool .",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players.
+ Seats can be customized using the ""Hands Zone Tool"". 
+  <Click to open page to knowledge base.>","Les tables sont où vous jouez à des jeux, comme dans la vie réelle. La plus petite table est la table carrée qui se trouve un maximum de 4 joueurs. La table hexagonale peut accueillir un maximum de 6 joueurs. Les sièges table rectangle personnalisé 10 joueurs et toutes les autres tables contiennent un maximum de 8 joueurs.
+ Les sièges peuvent être personnalisés à l'aide de la « Hands Tool Zone ».
+  <Cliquez à la page ouverte à la base de connaissances.>"
+Tablet,,Tablet,Tablette
+Tabletop Simulator VR Beta,,Tabletop Simulator VR Beta,Beta VR Simulator Tabletop
+Tags,,Tags,Mots clés
+"Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas.",,"Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas.","Les étiquettes peuvent être utilisés pour affiner la recherche si les composants interagissent avec certains systèmes de jeu (par exemple, des points d'accrochage). Une fois que vous avez défini une étiquette ici, il est disponible à utiliser dans ces domaines."
+Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.,,Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.,Mots-clés changent la façon dont les composants interagissent avec les systèmes de jeu. Si un système a des balises mis alors que des composants qui ont une étiquette de mise en correspondance d'interagir avec elle.
+Takes effect when playing,,Takes effect when playing,Prend effet une fois en jeu
+Taking Item Closes Search,,Taking Item Closes Search,Fermer l'interface de recherche
+Talk to other people via voice.,,Talk to other people via voice.,Parlez-en à d'autres personnes via la voix.
+Tap,,Tap,Menu Contextuel
+Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.,,Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.,Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.
+Teal,,Teal,Sarcelle
+Team,,Team,Équipe
+Team Voice Chat,,Team Voice Chat,Tchat Vocal Équipe
+Templates,,Templates,Modèles
+Text,,Text,Texte
+Text Chat,,Text Chat,Tchat Text
+The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.,,The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.,Le Cloud Manager est l'emplacement des fichiers que vous avez téléchargés sur le Cloud. Cliquez sur un fichier pour copier l'URL du lien. Cliquez sur l'icône triple de points pour plus d'options. Vous pouvez également importer des fichiers dans le nuage en cliquant sur l'icône du fichier en haut à gauche.
+The Complexity of the game you are playing (Used to search for games).,,The Complexity of the game you are playing (Used to search for games).,La complexité du jeu que vous jouez (Utilisé pour rechercher des jeux).
+The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.,,The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.,Le menu contextuel fait apparaître un menu avec de nombreuses options différentes et variables en fonction de l'objet que vous avez cliqué.
+The Direction of the axis around which the body is constrained.,,The Direction of the axis around which the body is constrained.,La direction de l'axe autour de laquelle le corps est contraint.
+The Global Contextual Menu is where you can use the Camera Saves & Blindfold.,,The Global Contextual Menu is where you can use the Camera Saves & Blindfold.,Le menu contextuel global est l'endroit où vous pouvez utiliser l'appareil photo enregistre et les yeux bandés.
+"The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects.",,"The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects.","Le menu Objets est l'endroit où vous pouvez frayer tous les différents types d'objets dans les jeux comme composants, Tableaux, Fond, et des objets enregistrés."
+The Position of the anchor around which the joints motion is constrained.,,The Position of the anchor around which the joints motion is constrained.,La position de l'ancrage autour duquel le mouvement des articulations est contrainte.
+"The back deck image. Upload your image to a web host, then copy paste the direct link here.",,"The back deck image. Upload your image to a web host, then copy paste the direct link here.","L'image du pont arrière. Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici."
+"The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects.",,"The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects.","Les arrière-plans offrent non seulement la toile de fond pendant que vous jouez, mais sont les principales sources de lumière. arrière-plans personnalisés vous donnera différentes scènes, mais vous ne pouvez choisir l'un des effets de lumière inclus."
+"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.","L'outil Combine est un outil où vous pouvez lier des objets ensemble. Pour les objets Délier, cliquez sur l'objet combiné d'origine et un lien vers rien. La moissonneuse-batteuse outil est idéal pour faire des cadrans, des roues, des tables de roulette et même simplement coller des objets ensemble."
+The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.,,The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.,Le menu des composants est l'endroit où vous pouvez reproduire des objets de base. Vous pouvez cliquer pour spawn ou glisser-déposer.
+The damper force used to dampen the spring force.,,The damper force used to dampen the spring force.,La force d'amortissement utilisé pour amortir la force de ressort.
+The force that needs to be applied for this joint to break.,,The force that needs to be applied for this joint to break.,La force qui doit être appliquée pour ce joint à la rupture.
+"The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object.",,"The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object.",Le frottement utilisé lorsque déjà en mouvement. Une valeur de zéro créera un effet similaire à de la glace. Une valeur de 1 va très vite stopper l'objet à moins que beaucoup de force ou que la gravité pousse l'objet.
+"The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving.",,"The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving.","Le frottement utilisée quand un objet est posé sur une surface. Habituellement, une valeur de 0 à 1. Une valeur de zéro créera un effet similaire à de la glace. Une valeur de 1 rendra très difficile de déplacer l'objet."
+The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.,,The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.,Le chat global est modéré pour le garder famille. Vous pouvez lire la liste complète des règles sur notre site Web.
+"The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid.",,"The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid.","La grille peut être utilisé lorsque vous avez besoin d'avoir un placement correct dans vos jeux. Vous pouvez choisir soit une boîte ou une grille hexagonale, activez l'accrochage aux objets, changer la taille et la forme de la grille, et aussi changer la position de la grille."
+The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.,,The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.,La grille sera projetée sur la surface de la table ou tout autre objet qui a projection de grille activée dans son menu à bascule.
+"The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only).",,"The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only).","L'outil de ligne peut être utilisé pour la mesure de base, ou cliquez dessus pour la zone ping. Vous pouvez maintenir la touche outil de ligne (par défaut: TAB) pour activer ce alors que dans d'autres modes. Ce faisant, tout en maintenant un objet mesurera à partir du point de pick-up (mode automatique uniquement)."
+The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.,,The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.,La masse de l'objet (unités arbitraires). Vous ne devriez pas faire des masses plus ou moins de 100 fois celle des autres corps rigides.
+The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.,,The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.,Le matériau de l'objet est fabriqué à partir de. Affecte les sons et shader de l'objet. Vous pouvez contrôler le shader ci-dessous.
+The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.,,The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.,Le matériau de l'objet est fabriqué à partir de. Affecte les sons cet objet fait. Ces sons peuvent être surchargée en utilisant le script TTSAssetBundleSound.
+The max number of players in the server.,,The max number of players in the server.,Le nombre maximum de joueurs dans le serveur.
+The maximum distance between the bodies relative to their initial distance.,,The maximum distance between the bodies relative to their initial distance.,La distance maximale entre les corps par rapport à leur distance initiale.
+The minimum distance between the bodies relative to their initial distance.,,The minimum distance between the bodies relative to their initial distance.,La distance minimum entre les corps par rapport à leur distance initiale.
+"The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing.",,"The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing.","Le mode de physique le plus réduit. Les objets qui sont au repos ne interagissent plus avec d'autres objets. No throwing, clumping, lowering, or pushing."
+The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.,,The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.,Le moteur applique une force à une force maximale pour atteindre la vitesse en degrés par seconde.
+The name for the server.,,The name for the server.,Le nom du serveur.
+The name of the asset.,,The name of the asset.,Le nom de l'actif.
+The name of the audio asset.,,The name of the audio asset.,Le nom de l'actif audio.
+The name of the decal.,,The name of the decal.,Le nom de l'autocollant.
+The number of pixels the game uses to render. Recommended to be the same as your monitor.,,The number of pixels the game uses to render. Recommended to be the same as your monitor.,Le nombre de pixels que le jeu utilise pour le rendu. Recommandé d'utiliser la même que votre écran.
+The object will stretch to match the aspect ratio of the supplied image.,,The object will stretch to match the aspect ratio of the supplied image.,L'objet s'étirer pour correspondre au rapport d'aspect de l'image fournie.
+The password for the server. Only usable for public servers.,,The password for the server. Only usable for public servers.,Le mot de passe pour le serveur. Utilisable uniquement pour les serveurs publics.
+The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,L'outil de points peut être utilisé pour créer des points d'accrochage et les points d'accrochage pour faire pivoter de placer des objets vers le bas beaucoup plus facile et plus lisse. En cliquant sur un objet déverrouillé placera le point déclic là où sa place. En cliquant sur un objet verrouillé ATTACHE le point clin d'oeil à cet objet.
+"The quality, filtering, and distance of shadows. Also affects the lighting quality.",,"The quality, filtering, and distance of shadows. Also affects the lighting quality.","La qualité, le filtrage et la distance des ombres. Affecte également la qualité de l'éclairage."
+"The reflective color of the object. RGB 255, 255, 255.",,"The reflective color of the object. RGB 255, 255, 255.","La couleur réfléchissante de l'objet. RVB 255, 255, 255."
+The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.,,The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.,Le menu objets enregistrés est l'endroit où vous pouvez sauver et reproduire l'un de vos objets personnalisés. Vous pouvez cliquer pour spawn ou glisser-déposer.
+The size of the decal in inches.,,The size of the decal in inches.,La taille de l'autocollant en pouces.
+The spring force used to keep the two objects together.,,The spring force used to keep the two objects together.,La force du ressort utilisé pour maintenir les deux objets ensemble.
+The text tool can be used to write text on any locked object. You can change the size of the font and the color.,,The text tool can be used to write text on any locked object. You can change the size of the font and the color.,L'outil de texte peut être utilisé pour écrire du texte sur un objet verrouillé. Vous pouvez modifier la taille de la police et la couleur.
+The thickness or depth of the mesh.,,The thickness or depth of the mesh.,L'épaisseur ou la profondeur de la maille.
+The torque that needs to be applied for this joint to break.,,The torque that needs to be applied for this joint to break.,Le couple qui doit être appliqué pour ce joint à la rupture.
+The type of the game you are playing (Used to search for games).,,The type of the game you are playing (Used to search for games).,Le type de jeu auquel vous jouez (Utilisé pour rechercher des jeux).
+The zone tool is a collection of tools that deal with rectangle areas.,,The zone tool is a collection of tools that deal with rectangle areas.,L'outil Zone est une collection d'outils qui traitent des zones rectangulaires.
+Thematic Games,,Thematic Games,Jeux thématiques
+Theme,,Theme,Thème
+Theme Editor,,Theme Editor,Éditeur de Thème
+Theme:,,Theme:,Thème:
+Theme: {0},,Theme: {0},Thème: {0}
+"There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base.",,"There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base.","Il y a beaucoup de conseils, des astuces et des tutoriels qui peuvent vraiment enrichir votre gameplay et le prototypage dans notre Documentation."
+There tags are used to filter your games.,,There tags are used to filter your games.,Là balises sont utilisées pour filtrer vos jeux.
+Theses backgrounds provide the different lighting effects on the objects.,,Theses backgrounds provide the different lighting effects on the objects.,Thèses arrière-plans fournissent les différents effets d'éclairage sur les objets.
+Thick,,Thick,Épais
+Thickness,,Thickness,Épaisseur
+Thief,,Thief,Voleur
+Thin,,Thin,Mince
+This Menu,,This Menu,Ce menu
+This determines how objects are hidden in hands.,,This determines how objects are hidden in hands.,Cela détermine comment les objets sont cachés dans les mains.
+"This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more.",,"This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more.","Ceci est une fonctionnalité avancée qui vous donne plus de contrôle sur la façon dont plusieurs objets fonctionnent ensemble. Vous pouvez créer des roues en mouvement, filateurs, et bien plus encore."
+This is an advanced feature which gives you control on the physics and materials of objects.,,This is an advanced feature which gives you control on the physics and materials of objects.,Ceci est une fonctionnalité avancée qui vous permet de contrôler sur la physique et des matériaux des objets.
+This is tags used to search in the Steam Workshop.,,This is tags used to search in the Steam Workshop.,Ceci est les balises utilisées pour la recherche dans la vapeur atelier.
+This is the amount of time the current game takes (Used to search for games).,,This is the amount of time the current game takes (Used to search for games).,Ceci est la quantité de temps le jeu en cours prend (utilisé pour rechercher des jeux).
+This is the number of players the current game allows (different from the max number of players allowed on the server).,,This is the number of players the current game allows (different from the max number of players allowed on the server).,Ceci est le nombre de joueurs du jeu en cours permet (différent du nombre maximum de joueurs autorisés sur le serveur).
+This menu is used to update an existing mod on the Workshop.,,This menu is used to update an existing mod on the Workshop.,Ce menu permet de mettre à jour un mod existant sur le Workshop.
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.","Ce menu permet de mettre en ligne l'état actuel de la table sur le Steam Workshop en tant que jeu. Si vous souhaitez mettre à jour un mod existant que vous avez déjà téléchargé, assurez-vous de choisir l'onglet « Mise à jour Workshop ». Sinon, vous allez générer plusieurs versions de votre mod."
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the Update Workshop tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.  <Click to open page to knowledge base.>","Ce menu permet de mettre en ligne l'état actuel de la table sur le Steam Workshop en tant que jeu. Si vous souhaitez mettre à jour un mod existant que vous avez déjà téléchargé, assurez-vous de choisir l'onglet « Mise à jour Workshop ». Sinon, vous allez générer plusieurs versions de votre mod. <Cliquez pour ouvrir la Documentation>"
+This object will hold one object inside with an infinite number of them.,,This object will hold one object inside with an infinite number of them.,Cet objet détiendra un objet à l'intérieur avec un nombre infini d'entre eux.
+This object will hold others inside.,,This object will hold others inside.,Cet objet organisera d'autres à l'intérieur.
+This only takes effect if you are using the gradient mode above.,,This only takes effect if you are using the gradient mode above.,Cela ne prend effet que si vous utilisez le mode de gradient ci-dessus.
+"This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown.",,"This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown.","Change de mode de caméra : 3ème personne (par défaut), 1ère personne et une vue depuis le haut en direction de la table en bas."
+Tile,,Tile,Tuile
+Tileset,,Tileset,tileset
+Tilt Angle,,Tilt Angle,Angle d'inclinaison
+Tilt Mode,,Tilt Mode,Tilt mode
+Time to move those feet!,,Time to move those feet!,Il est temps de déplacer vos pieds !
+Timer,,Timer,Minuteur
+Timer Seconds,,Timer Seconds,Secondes de la minuterie
+Timestamp Game,,Timestamp Game,Horodater le Tchat Local
+Timestamp Global,,Timestamp Global,Horodater le Tchat Global
+Timestamp System,,Timestamp System,Horodater les Messages Systèmes
+Timestamp Team,,Timestamp Team,Horodater le Tchat Équipe
+Timestamps,,Timestamps,Horodates
+Title,,Title,Titre
+"To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them.",,"To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them.","Pour sélectionner plus d'un objet, maintenez Ctrl et appuyez sur Clique Gauche sur chaque objet. Sinon, vous pouvez faire glisser une boîte autour de plusieurs objets pour les sélectionner."
+"To use double digits, just type them quickly. There is a slight delay before the dice changes.",,"To use double digits, just type them quickly. There is a slight delay before the dice changes.","Pour utiliser deux chiffres, il suffit de les taper rapidement. Il y a un léger retard avant que les dés ne changent."
+Toggle,,Toggle,Bascule
+Toggle Lua scripting on or off.,,Toggle Lua scripting on or off.,scripts Lua bascule ou désactiver.
+Toggle between a thin or thick line.,,Toggle between a thin or thick line.,Bascule entre une ligne fine ou épaisse.
+Toggle between using the ambient light of the selected background or the gradient colors below.,,Toggle between using the ambient light of the selected background or the gradient colors below.,Bascule entre l'utilisation de la lumière ambiante de l'arrière-plan sélectionnée ou les couleurs de gradient ci-dessous.
+Toggle between window or fullscreen.,,Toggle between window or fullscreen.,Bascule entre le mode fenêtré ou plein écran.
+Toggle revealing of Fog of War by this piece.,,Toggle revealing of Fog of War by this piece.,Basculer révélant de brouillard de guerre par cette pièce.
+Toggles,,Toggles,Activer
+Token,,Token,Jeton
+Tool,,Tool,Outil
+Tool Icon Colored,,Tool Icon Colored,Outil icône de couleur
+Tools,,Tools,Outils
+Tooltip,,Tooltip,Infobulle
+Tooltips Action Enabled,,Tooltips Action Enabled,Action infobulles activé
+Tooltips Always On,,Tooltips Always On,Toujours infobulles
+Tooltips Initial Duration,,Tooltips Initial Duration,TOOLTIPS Durée initiale
+Top Down,,Top Down,Haut
+Top Image,,Top Image,image Haut
+Top Menu,,Top Menu,Menu principal
+Touch,,Touch,Toucher
+Touch (Pad Down) on a controller while hovering over an object (with either controller).,,Touch <Pad Down> on a controller while hovering over an object (with either controller).,Appuyez sur <Pad Down> sur un contrôleur tout en planant au-dessus d'un objet (soit avec le contrôleur).
+Trading Card Games,,Trading Card Games,Jeux de cartes à collectionner
+Transform Space,,Transform Space,Transformer l'espace
+Tree,,Tree,Arbre
+Tree Ent,,Tree Ent,arbre Ent
+Trigger Effect,,Trigger Effect,effet déclencheur
+Troll,,Troll,Troll
+Tunnel,,Tunnel,Tunnel
+Turn (Click to skip),,Turn (Click to skip),Tourner (Cliquez pour sauter)
+Turns,,Turns,Tours
+Turns allow an easy way to keep track of who should be playing.,,Turns allow an easy way to keep track of who should be playing.,Les Tours permettent de garder une trace de qui devrait jouer.
+Tutorial,,Tutorial,Didacticiel
+Tutorial Test Font,,Tutorial Test Font,Tutoriel de Test de polices [Note : Merci d'utiliser ma traduction FR cela fait très plaisir <3 ^_^ - Tenebrosful]
+Type,,Type,Type
+Type determines the shape of the cards.,,Type determines the shape of the cards.,Type détermine la forme des cartes.
+Type help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.,,Type /help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.,Écrivez '/help' dans GLOBAL ou JEU pour afficher toutes les commandes de chat pour chaque onglet.
+Type of server you want to have. This limits who can join.,,Type of server you want to have. This limits who can join.,Type de serveur que vous voulez avoir. Cela limite qui peut se joindre.
+UI Mode,,UI Mode,mode de l'interface utilisateur
+UI Scale,,UI Scale,Échelle de l'interface
+UI Tooltip Delay,,UI Tooltip Delay,Temps infobulle interface
+UPDATE,,Update,Mise à jour
+UP_THEN_LEFT,,Up / Left,En haut à gauche
+UP_THEN_RIGHT,,Up / Right,Up / droite
+URL,,URL,URL
+Ultra,,Ultra,Ultra
+Under,,Under,Sous
+Unique Backs,,Unique Backs,Backs uniques
+Units,,Units,Unités
+Unknown Title,,Unknown Title,Titre inconnu
+Up,,Up,Haut
+Update Existing Mod,,Update Existing Mod,Mise à jour des Mods existants
+Update Workshop,,Update Workshop,Mise à jour Workshop
+Updated,,Updated,Actualisé
+Upload,,Upload,Uploader
+Upload All Loaded Files,,Upload All Loaded Files,Uploader Tous les fichiers Chargés
+Upload File,,Upload File,Uploader un fichier
+Upload Local File,,Upload Local File,Uploader le fichier local
+Upload Workshop,,Upload Workshop,Uploader Workshop
+"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",,"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.","Téléchargez tous les fichiers personnalisés chargés sur le Steam Cloud. Idéal pour la conversion de votre contenu local au travail en mode multijoueur ou la sauvegarde de mods avec des liens morts du Steam Cloud. Les fichiers personnalisés doivent être mises en cache sur le disque au travail, de sorte que la première recherche des sacs force un cache."
+Upload all loaded custom files to the Steam Cloud?,,Upload all loaded custom files to the Steam Cloud?,Téléchargez tous les fichiers personnalisés chargés à la Steam Cloud?
+Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),,Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),Télécharger un fichier à la vapeur Cloud ou charge à partir de votre disque local. (Note: Les fichiers locaux ne fonctionnent pas en multijoueur)
+"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader material support, animations, sounds, lights, particles, and much more.",,"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more.","Téléchargez votre AssetBundle à un hébergeur, puis copiez collez le lien direct ici. Ceci est une fonctionnalité avancée pour les gens qui savent comment utiliser le moteur Unity. Vous pouvez trouver un lien vers le projet sur notre base de connaissances. AssetBundles donnent Shader complet / support matériel, animations, sons, lumières, particules, et bien plus encore."
+"Upload your PDF File to a web host, then copy paste the direct link here.",,"Upload your PDF File to a web host, then copy paste the direct link here.","Téléchargez votre fichier PDF à un hébergeur, puis copiez collez le lien direct ici."
+"Upload your audio to a web host, then copy paste the direct link here.",,"Upload your audio to a web host, then copy paste the direct link here.","Téléchargez votre audio à un hébergeur, puis copiez collez le lien direct ici."
+"Upload your image to a web host, then copy paste the direct link here.",,"Upload your image to a web host, then copy paste the direct link here.","Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici."
+"Upload your image to a web host, then copy paste the direct link here. JPG or PNG.",,"Upload your image to a web host, then copy paste the direct link here. JPG or PNG.","Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici. JPG ou PNG."
+"Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)",,"Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)","Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici. JPG ou PNG. (256x16)"
+"Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended.",,"Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended.","Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici. PNG avec transparence recommandé."
+"Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated.",,"Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated.","Téléchargez votre modèle à un hébergeur, puis copiez collez le lien direct ici. Assurez-vous qu'il est triangulé."
+Use (Dpad) to pan the camera around.,,Use <Dpad> to pan the camera around.,Utilisez <Dpad> pour déplacer la caméra autour de.
+Use (Right Trigger) or (Left Trigger) while holding an object.,,Use <Right Trigger> or <Left Trigger> while holding an object.,Utilisez <Gâchette droite> ou <gâchette gauche> tout en maintenant un objet.
+Use (WASD) to pan the camera around.,,Use <WASD> to pan the camera around.,Utilisez <WASD> pour déplacer la caméra. [Note : ZQSD peut être configuré dans les contrôles ^_^]
+Use ({0}) on an object to bring it up.,,Use <{0}> on an object to bring it up.,Utilisez <{0}> sur un objet pour le mettre en place.
+Use Gravity,,Use Gravity,Utilisez la gravité
+Use a two finger rotate gesture on an object.,,Use a two finger rotate gesture on an object.,Utilisez un geste de rotation de deux doigts sur un objet.
+Use for main object movement like grabbing and flipping when playing a game.,,Use for main object movement like grabbing and flipping when playing a game.,Utilisation pour principal mouvement d'objet comme saisissant et retournement lors de la lecture d'un jeu.
+Use high resolution HDRI Panorama. ((4000x2000),,Use high resolution HDRI Panorama. (<4000x2000),Utilisez HDRI Panorama haute résolution. (<4000x2000)
+Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.,,Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.,Utilisez plusieurs cœurs de votre processeur pour charger plus rapidement les Mods. Si vous ne parvenez pas à charger les mods essayer de désactiver cette option.
+Use pinch to zoom in and out.,,Use pinch to zoom in and out.,Utilisez pincer pour zoomer et dézoomer.
+"Use the Gizmo to manipulate an object's position, rotation, and scale.",,"Use the Gizmo to manipulate an object's position, rotation, and scale.","Utilisez le Gizmo pour manipuler la position d'un objet, la rotation et l'échelle."
+Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.,,Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.,Utilisez l'outil de peinture de pixels pour un look plus cartoonesque et pixellisée. décalage de maintien pour tracer des lignes droites.
+Use the scroll wheel to zoom in and out.,,Use the scroll wheel to zoom in and out.,Utilisez la molette de défilement pour zoomer et dézoomer.
+Use this to supply custom value to dice or tile sides.,,Use this to supply custom value to dice or tile sides.,Utilisez cette option pour fournir valeur personnalisée à dés ou sur les côtés de tuiles.
+Use to move an object in space. Snap move. Screen space translation.,,Use to move an object in space. Snap move. Screen space translation.,Utilisez pour déplacer un objet dans l'espace. déplacer tournemain. Traduction de l'espace écran.
+Use to rotate an object. Snap rotate.,,Use to rotate an object. Snap rotate.,Utiliser pour faire pivoter un objet. Snap tourner.
+Use to scale an object by stretching its sides. Snap scaling. Scale from center.,,Use to scale an object by stretching its sides. Snap scaling. Scale from center.,Utiliser à l'échelle d'un objet en étirant ses côtés. mise à l'échelle tournemain. Échelle du centre.
+Use to scale an object. Snap scaling. Uniform scale.,,Use to scale an object. Snap scaling. Uniform scale.,Utilisez à l'échelle d'un objet. mise à l'échelle tournemain. échelle uniforme.
+Use two fingers in a dragging motion.,,Use two fingers in a dragging motion.,Utiliser deux doigts dans un mouvement de glissement.
+Use your (Right Stick).,,Use your <Right Stick>.,Utilisez votre <Stick droit>.
+User Interfaces,,User Interfaces,Les interfaces des utilisateurs
+Utility,,Utility,Utilitaire
+VR Settings,,VR Settings,VR Réglages
+VR Settings...,,VR Settings...,Réglages VR ...
+VSync,,VSync,VSync
+Value,,Value,Valeur
+Vampire,,Vampire,Vampire
+Velocity,,Velocity,Rapidité
+Vertical,,Vertical,Verticale
+Very High,,Very High,Très haute
+Very Low,,Very Low,Très basse
+Villains,,Villains,super-vilains
+Virtual Hand View,,Virtual Hand View,Vision des mains virtuelles
+Visibility,,Visibility,Interface
+Visible,,Visible,Visible
+Visual Mode,,Visual Mode,Mode visuel
+Visualize Field of View.,,Visualize Field of View.,Visualize Champ de vision.
+Visualize FoV,,Visualize FoV,Visualize FoV
+Voice Chat,,Voice Chat,Tchat vocal
+Voice Chat Toggle,,Voice Chat Toggle,Voice Chat Toggle
+Voice From Player Position,,Voice From Player Position,Voix De Joueur Position
+Voice Input,,Voice Input,Volume d'entrée (Voix)
+Voice Output,,Voice Output,Volume de sortie (Voix)
+Voice Team Chat,,Voice Team Chat,Tchat Vocal d'Équipe
+Volume Scale,,Volume Scale,Échelle de volume
+WESTWARD,,Westward,vers l'ouest
+WORKSHOP,,Workshop,Workshop
+Waiting for players,,Waiting for players,En attente de joueurs
+Wall,,Wall,Mur
+"Want more actions? The contextual menu has all sorts of options. You can deal cards, name objects, color tint, and much more!",,"Want more actions? The contextual menu has all sorts of options.
+You can deal cards, name objects, color tint, and much more!","Vous voulez plus d'actions ? Le menu contextuel a toutes sortes d'options.
+Vous pouvez distribuer des cartes, nommer des objets, changer de couleur, et bien plus encore !"
+Wargames,,Wargames,Jeux de guerre
+Warrior,,Warrior,Guerrier
+We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?,,We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?,Nous ne pouvions pas trouver cet article du Workshop. Il a probablement été supprimé. Voulez-vous vous désabonner de cet objet ?
+Website URL,,Website URL,URL web
+Welcome to the tutorial!,,Welcome to the tutorial!,Bienvenue dans le tutoriel !
+Werewolf,,Werewolf,Loup-garou
+When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.,,When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.,Quand montrera Unrestricted la vue que vous voyez. Lorsque restreint montrera le point de vue d'un spectateur gris verrait.
+When held object will automatically raise above other potential collisions and ignore collisions when held.,,When held object will automatically raise above other potential collisions and ignore collisions when held.,Lorsque l'objet portatif augmente automatiquement au-dessus d'autres collisions potentielles et ne pas tenir compte des collisions lorsqu'il est maintenu.
+When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.,,When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.,"Lorsque vous tenez un objet, utilisez Alt + pivoter pour tourner le long de l'autre axe. Vous pouvez également utiliser votre molette de défilement de la souris."
+When hovering over an object do you want to hightlight it?,,When hovering over an object do you want to hightlight it?,Lorsque vous survolez un objet voulez-vous hightlight il?
+"When hovering over tooltips will appear for this object (Name, Description, Icon).",,"When hovering over tooltips will appear for this object (Name, Description, Icon).","Lorsque planant au-dessus infobulles apparaîtra pour cet objet (Nom, Description, Icône)."
+When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.,,When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.,Lorsque des mesures 2D sera aplatie sur le plan horizontal. Lorsque la hauteur 3D seront intégrés dans la mesure.
+When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center,,When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center,Lors de la mesure d'un objet: Bord: Mesure de son bord le plus proche centre: Mesure de son centre
+When object is face down it will be hidden as a question mark.,,When object is face down it will be hidden as a question mark.,"Lorsque l'objet est face vers le bas, il sera caché comme un point d'interrogation."
+When object is inside fog of war it will remain visible.,,When object is inside fog of war it will remain visible.,"Lorsque l'objet est à l'intérieur du brouillard de la guerre, il reste visible."
+"When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap.",,"When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap.","Lorsque des objets sont déposés, ils se calent sur la position la plus proche sur la grille. Les objets doivent avoir la grille activée sur leur menu bascule pour casser."
+When picked up objects above this one will be attached to it.,,When picked up objects above this one will be attached to it.,Lorsque ramassé des objets au-dessus de celui-ci sera attaché.
+When rotating objects this is the degrees by which they will spin.,,When rotating objects this is the degrees by which they will spin.,Lors de la rotation des objets ce sont les degrés par lesquels ils tourneront.
+Whether to log all players' measurements to the chat window.,,Whether to log all players' measurements to the chat window.,Que ce soit pour connecter les mesures de tous les joueurs à la fenêtre de chat.
+Whether to measure in Imperial (inches) or Metric (cm),,Whether to measure in Imperial (inches) or Metric (cm),Que ce soit pour mesurer Imperial (pouces) ou métrique (cm)
+"While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack.",,"While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack.","While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack."
+"While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button.",,"While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button.","Tout en maintenant un objet, appuyez sur Alt + F pour retourner sur un autre axe. Vous pouvez également utiliser Alt + Bouton millieu de la souris."
+"While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object.",,"While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object.","While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object."
+While holding the deck shake it with your finger.,,While holding the deck shake it with your finger.,"Tout en maintenant tenant le paquet, secouer votre doigt."
+While holding the deck shake your hand.,,While holding the deck shake your hand.,"Tout en maintenant tenant le paquet, secouer votre main."
+While holding the deck shake your mouse.,,While holding the deck shake your mouse.,"Tout en maintenant tenant le paquet, secouer votre souris."
+While holding the deck shake your pointer.,,While holding the deck shake your pointer.,"Tout en maintenant tenant le paquet, secouer votre curseur."
+While holding the die shake it with your finger.,,While holding the die shake it with your finger.,"Tout en maintenant le dé, secouez votre doigt."
+While holding the die shake your mouse.,,While holding the die shake your mouse.,"Tout en maintenant le dé, secouez votre souris."
+While holding the die shake your pointer.,,While holding the die shake your pointer.,"Tout en maintenant le dé, secouez votre curseur."
+While in VR,,While in VR,En VR
+White,,White,Blanc
+White Backgammon,,White Backgammon,Backgammon Blanc
+White Bowl,,White Bowl,Bol blanc
+White Piece,,White Piece,Piece blanche
+Width,,Width,Largeur
+"With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others.",,"With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others.","Avec l'outil de film sélectionné, saisir et objet et tirer. Votre pointeur se transforme en pointeur de film. Laisser aller à effleurer l'objet. Ceci est utile pour des jeux comme la piscine, le golf, shuffle board et bien d'autres."
+Wolf,,Wolf,Loup
+Wonderful spinning! Let's pick up more than one object.,,Wonderful spinning! Let's pick up more than one object.,Merveilleuse rotation ! Prennons plus d'un objet en main.
+Wood,,Wood,Bois
+Workshop Description:,,Workshop Description:,Description de l'atelier :
+Workshop ID:,,Workshop ID:,Workshop ID :
+Workshop Tags,,Workshop Tags,Mots clés Workshop
+Workshop Tags:,,Workshop Tags:,Workshop Tags :
+Workshop Thumbnail URL:,,Workshop Thumbnail URL:,Workshop URL Miniature :
+Workshop Title:,,Workshop Title:,Titre du Workshop :
+Workshop Upload,,Workshop Upload,Uploader sur le Workshop
+Workshop is where all the mods you subscribed to from the Steam Workshop is located.,,Workshop is where all the mods you subscribed to from the Steam Workshop is located.,Le Workshop est là où tous les mods auxquels vous vous êtes abonné à partir de Steam sont situés.
+WorkshopTitle,,Workshop Title,Titre du Workshop
+Would you like to play the quick Tutorial?,,Would you like to play the quick Tutorial?,Voulez-vous faire un rapide Tutoriel ?
+Wyvern,,Wyvern,Wyvern
+Yellow,,Yellow,Jaune
+Yes,,Yes,Oui
+You are a natural! Now let's roll some dice.,,You are a natural! Now let's roll some dice.,"Vous êtes un naturel ! Maintenant, nous allons rouler des dés."
+You can adjust the lighting to give directional sun light and ambient light.,,You can adjust the lighting to give directional sun light and ambient light.,Vous pouvez régler l'éclairage pour donner la lumière du soleil directionnel et la lumière ambiante.
+You can also grab more than one object by (Left Click) dragging a box selection.,,"You can also grab more than one object by
+<Left Click> dragging a box selection.","Vous pouvez également saisir plus d'un objet avec
+<Clic gauche> en faisant glisser la zone de sélection."
+You can also grab more than one object by (Right Bumper) dragging a box selection.,,"You can also grab more than one object by
+<Right Bumper> dragging a box selection.","Vous pouvez également saisir plus d'un objet avec
+<Bumper Droit> en faisant glisser la zone de sélection."
+You can also hide individual parts of the UI in the Configuration UI menu.,,You can also hide individual parts of the UI in the Configuration/UI menu.,Vous pouvez également masquer différentes parties de l'interface utilisateur dans le menu Configuration / interface utilisateur.
+You can change the permissions for other players. These are global settings that persist between saves.,,You can change the permissions for other players. These are global settings that persist between saves.,Vous pouvez modifier les autorisations pour d'autres joueurs. Ce sont des paramètres globaux qui persistent entre sauve.
+You can change the physic mode of the game and update the gravity and room size per game.,,You can change the physic mode of the game and update the gravity and room size per game.,Vous pouvez modifier la physique du jeu et mettre à jour la gravité et la taille de l'aire de jeu.
+You can change the tags of the game used to search in-game and in the Steam Workshop.,,You can change the tags of the game used to search in-game and in the Steam Workshop.,Vous pouvez modifier les balises du jeu utilisé pour la recherche dans le jeu et dans la vapeur atelier.
+You can grab more than one object by ({0}) dragging a box selection.,,"You can grab more than one object by
+<{0}> dragging a box selection.","Vous pouvez saisir plus d'un objet par
+<{0}> glisser une sélection de la boîte."
+You can grab more than one object by Long pressing on multiple objects in a row.,,"You can grab more than one object by
+Long pressing on multiple objects in a row.","Vous pouvez saisir plus d'un objet par
+Une longue pression sur plusieurs objets dans une rangée."
+"You can update the server name, password and max players in real time.",,"You can update the server name, password and max players in real time.","Vous pouvez mettre à jour le nom du serveur, mot de passe et les joueurs max en temps réel."
+You can use the (Right Trigger) and (Left Trigger) to zoom in and out.,,You can use the <Right Trigger> and <Left Trigger> to zoom in and out.,Vous pouvez utiliser <Gâchette droite> et <Trigger gauche> pour zoomer et dézoomer.
+You can use the (Scroll Wheel) or (Z) to toggle zoom.,,You can use the <Scroll Wheel> or <Z> to toggle zoom.,Vous pouvez utiliser <molette de défilement> ou <Z>.
+"You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + .",,"You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + .","Vous pouvez utiliser la molette de défilement pour zoomer et dézoomer et et de faire pivoter l'objet zoomé. Ceci ne fonctionne que sur des objets. Pour afficher des cartes, des plateaux, etc., utilisez la commande Loupe dans la section avancée. Pour voir l'autre côté d'un objet, maintenez la touche +."
+"You must be in a game to use this. In the GAME tab, type color message to talk to someone privately. For example: blue What should I do?",,"You must be in a game to use this. In the GAME tab, type /color message to talk to someone privately. For example: /blue What should I do?","Vous devez être dans un jeu pour l'utiliser. Dans l'onglet JEU, écrivez un message de type '/color<message>' pour parler à quelqu'un en privé. Par exemple: '/pink Alliance ?'"
+"You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type msg name message. For example: msg Kimikat Hello!",,"You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type /msg name message. For example: /msg Kimikat Hello!","Vous devez avoir IRC activé dans vos paramètres chat. Dans l'onglet GLOBAL, vous pouvez message privé toute personne qui est connecté à chat global. '/msg <nom> <message>'. Par exemple: '/msg Tenebrosful ^_^/ '"
+"You still need to go to your workshop page, upload some screenshots, and make the mod public.",,"You still need to go to your workshop page, upload some screenshots, and make the mod public.","Vous avez encore besoin d'aller à votre page d'atelier, télécharger quelques captures d'écran, et rendre public mod."
+You will need to flip it with (F) so it stacks. Then drop the card on the deck.,,"You will need to flip it with <F> so it stacks.
+Then drop the card on the deck.",Retournez la avec <F> puis placez là au dessus.
+You will need to flip it with (Pad Up) so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with <Pad Up> so it stacks.
+Then drop the card on top of the deck.",Retournez la avec <Pad Haut> puis placez là au dessus.
+You will need to flip it with (X) so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with <X> so it stacks.
+Then drop the card on top of the deck.",Retournez la avec <X> puis placez là au dessus.
+You will need to flip it with double tap so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with double tap so it stacks.
+Then drop the card on top of the deck.",Retournez la avec <Double Tap> puis placez là au dessus.
+Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),,Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),Votre téléchargement à l'atelier a été un succès! Conservez ce numéro de mettre à jour le mod dans le futur. (Peut également être trouvée dans l'URL de votre mod)
+Zone,,Zone,Zone
+Zones,,Zones,Zones
+Zoom,,Zoom,Zoom
+Zoom In,,Zoom In,Zoomer
+Zoom In - Rotate Right,,Zoom In / Rotate Right,Zoom avant / Rotation à droite
+Zoom Object,,Zoom Object,Zoom Objet
+Zoom Object (Hold) - Contextual (Click),,Zoom Object (Hold) / Contextual (Click),Zoom Object (Hold) / contextuel (clic)
+Zoom Out,,Zoom Out,Dézoomer
+Zoom Out - Rotate Left,,Zoom Out / Rotate Left,Zoom arrière / Rotation à gauche
+Zoom Toggle,,Zoom Toggle,Zoomer/Dézoomer
+Zoom in-out,,Zoom in/out,Zoom
+Zoom time!,,Zoom time!,Il est temps de zoomer !
+_Author,Tenebrosful,,
+combinelong,,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.","L'outil Combine est un outil où vous pouvez lier des objets ensemble. Pour les objets Délier, cliquez sur l'objet combiné d'origine et un lien vers rien. La moissonneuse-batteuse outil est idéal pour faire des cadrans, des roues, des tables de roulette et même simplement coller des objets ensemble."
+decallong,,"The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate.","L'outil autocollant peut être utilisé pour faire des autocollants de cartes, de balles ou d'autres effets que la transparence nécessaire. +/- à l'échelle de taille. Q / E à tourner."
+edgecenterlong,,"When measuring from an object:
+
+Edge: Measure from its nearest edge
+
+Center: Measure from its center","Lors de la mesure d'un objet:
+
+Bord: Mesurer la distance entre son bord le plus proche
+
+Centre: Mesure de son centre"
+fixedjointlong,,"Joint that locks two objects in place without creating a parent child relationship like the Attach tool.
+Right click the jointed object and click Joint to bring up the new menu. ","Joint qui verrouille deux objets en place sans créer une relation parent-enfant comme l'outil Attacher.
+cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu."
+gizmoslong,,"Local: Gizmos are in selected object's rotation.
+Global: Gizmos are in global rotation.","Local: Gizmos sont dans la rotation de l'objet sélectionné.
+Mondiale: Gizmos sont en rotation globale."
+hingejointlong,,"Joint with door hinge like connection. Can even have motors.
+Right click the jointed object and click Joint to bring up the new menu. ","Joint à charnière de porte comme la connexion. Peut même avoir des moteurs.
+cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu."
+linelong,,"The line tool can be used for basic measuring, or click it to ping the area.  
+
+You may hold the line tool key (default: TAB)  to activate this while in other modes.  Doing so while holding an object will measure from the pickup point (Auto mode only).  ","L'outil de ligne peut être utilisé pour la mesure de base, ou cliquez dessus pour la zone ping.
+
+Vous pouvez maintenir la touche outil de ligne (par défaut: TAB) pour activer ce alors que dans d'autres modes. Ce faisant, tout en maintenant un objet mesurera à partir du point de pick-up (mode automatique uniquement)."
+localized_language,Name of current language in that language,English,français
+movelong,,"Use to move an object in space.
+<Ctrl> Snap move.
+<Shift> Screen space translation.","Utilisez pour déplacer un objet dans l'espace.
+<Ctrl> move snap.
+<Maj> traduction de l'espace de l'écran."
+or,,or,ou
+restrictunrestrictlong,,"When Unrestricted will show the view you see. 
+
+When Restricted will show the view a Grey spectator would see.","Quand montrera Unrestricted la vue que vous voyez.
+
+Lorsque restreint montrera le point de vue d'un spectateur gris verrait."
+rotatelong,,"Use to rotate an object.
+<Ctrl> Snap rotate.","Utiliser pour faire pivoter un objet.
+<Ctrl> Faire pivoter un composant logiciel enfichable."
+rulerautofree,,"Auto: Measure from objects where appropriate.  When hovering, hold CTRL to use the pointer position instead.
+
+Free: Measure using only your pointer position.","Auto: Mesure des objets, le cas échéant. Lorsque vous survolez, maintenez la touche CTRL pour utiliser la position du pointeur à la place.
+
+Gratuit: Mesurer en utilisant seulement votre position de pointeur."
+scalelong,,"Use to scale an object.
+<Ctrl> Snap scaling.
+<Shift> Scale from center.","Utilisez à l'échelle d'un objet.
+<Ctrl> mise à l'échelle snap.
+<Maj> Echelle du centre."
+springjointlong,,"Joint that works just like it sounds a spring.
+Right click the jointed object and click Joint to bring up the new menu. ","Joint qui fonctionne exactement comme il sonne un ressort.
+cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu."
+tagslong,,Tags change how components interact with game systems.  If a system has any tags set then only components which have a matching tag will interact with it.,Mots-clés changent la façon dont les composants interagissent avec les systèmes de jeu. Si un système a des balises mis alors que des composants qui ont une étiquette de mise en correspondance d'interagir avec elle.
+volumescalelong,,"Use to scale an object by stretching its sides.
+<Ctrl> Snap scaling.
+<Shift> Scale from center.","Utiliser à l'échelle d'un objet en étirant ses côtés.
+<Ctrl> mise à l'échelle snap.
+<Maj> Echelle du centre."
+will move your camera up and will move your camera down.,,<Space> will move your camera up and <Ctrl> will move your camera down.,<Espace> se déplacera votre appareil photo et <Ctrl> va déplacer votre caméra vers le bas.
+{0} already exists at this location. Move and overwrite?,,{0} already exists at this location. Move and overwrite?,{0} existe déjà à cet endroit. Déplacer et écraser?
+{0} already exists. Do you want to overwrite this file?,,{0} already exists. Do you want to overwrite this file?,{0} existe déjà. Voulez-vous remplacer ce fichier?
+{0} copied to clipboard,,{0} copied to clipboard,{0} le presse-papiers Copié
+{0} free,"For example, ""93GB free""",{0} free,{0} gratuit
