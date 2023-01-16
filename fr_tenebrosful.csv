@@ -56,7 +56,7 @@ APPLY,,Apply,Appliquer
 Abstract Games,,Abstract Games,Jeux abstraits
 Action,,Action,Action
 Active Tags Displayed Here!,,Active Tags Displayed Here!,Les mots clés actifs sont affichés ici !
-Add Custom Tag:,,Add Custom Tag:,Ajouter une marque personnalisée:
+Add Custom Tag:,,Add Custom Tag:,Ajouter un mot clé personnalisé:
 Add New,,Add New,Nouveau
 Add Tag:,,Add Tag:,Ajouter une étiquette:
 Add a tag to the selected components.,,Add a tag to the selected components.,Ajouter un tag aux composants sélectionnés.
@@ -112,7 +112,7 @@ Anchored,,Anchored,ancré
 And all our Kickstarter Supporters! Thank you very much!,,And all our Kickstarter Supporters! Thank you very much!,Et tous nos partisans Kickstarter! Merci beaucoup!
 Angular Drag,,Angular Drag,Frottements avec l'air (Rotation)
 Animals,,Animals,Animaux
-Animations,,Animations,animations
+Animations,,Animations,Animations
 Anisotropic Filtering,,Anisotropic Filtering,Filtrage Anisotrope
 Anyone can join with an optional password.,,Anyone can join with an optional password.,Tout le monde peut se joindre à un mot de passe en option.
 Are you looking for players to join you?,,Are you looking for players to join you?,Vous cherchez joueurs à vous rejoindre?
@@ -138,9 +138,9 @@ Arms Square Ace,Weapons Square Ace,Arms Square Ace,Armes Place Ace
 Arms Square Blank,Weapons Square Blank,Arms Square Blank,Armes Place Blank
 Arrow-Line Tool,,Arrow/Line Tool,Flèche / Règle
 Arrows next to the top menu rewind-forward time (host only).,,Arrows next to the top menu rewind/forward time (host only).,Les flèches en haut à gauche permettent de remonter le temps.
-Asset name,,Asset name,nom de l'actif
-AssetBundle,,AssetBundle,AssetBundle
-Assets,,Assets,Les atouts
+Asset name,,Asset name,Nom de composant
+AssetBundle,,AssetBundle,Collection d'assets
+Assets,,Assets,Assets
 Attach,,Attach,Attacher
 Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,,Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,Attachez l'objet à l'autre dans une relation parent-enfant. L'objet étant attaché n'est plus propre entité de et existe seulement visuellement.
 Attached UI Screen,,Attached UI Screen,Ancrage de l'interface
@@ -201,7 +201,7 @@ Blue,,Blue,Bleu
 Blue 10,,Blue 10,bleu 10
 Blue Rectangle,,Blue Rectangle,bleu Rectangle
 Board,,Board,Planche
-Board Games,,Board Games,Jeux de société
+Board Games,,Board Games,Jeux de plateau
 Boardgame,,Boardgame,Jeu de plateau
 Boards,,Boards,Planches
 Book Buttons On Hover,,Book Buttons On Hover,Boutons des livres au survol
@@ -241,7 +241,7 @@ CUSTOM BACKGROUND,,Custom Background,Arrière-plan personnalisé
 CUSTOM BOARD,,Custom Board,Conseil personnalisé
 CUSTOM CARD,,Custom Card,Carte personnalisée
 CUSTOM DECK,,Custom Deck,Plate-forme personnalisée
-CUSTOM DICE,,Custom Dice,dés sur mesure
+CUSTOM DICE,,Custom Dice,Dés sur mesure
 CUSTOM FIGURINE,,Custom Figurine,Figurine personnalisée
 CUSTOM IMAGE,,Custom Image,Image personnalisée
 CUSTOM JIGSAW,,Custom Jigsaw,Jigsaw personnalisé
@@ -450,7 +450,7 @@ Ctrl,,Ctrl,Ctrl
 Current Time,,Current Time,Heure actuelle
 Current name of the game you are playing (Shows on server browser and friends list).,,Current name of the game you are playing (Shows on server browser and friends list).,Nom actuel du jeu auquel vous jouez (sur la liste des serveurs et des amis).
 Current name of the game you are playing (Shows on server browser).,,Current name of the game you are playing (Shows on server browser).,Nom actuel du jeu auquel vous jouez (sur la liste des serveurs).
-Custom,,Custom,Personnaliser
+Custom,,Custom,Custom
 Custom Game,,Custom Game,Jeu personnalisé
 Custom LUT,,Custom LUT,LUT sur mesure
 Custom Models,,Custom Models,Modèles personnalisés
@@ -1022,7 +1022,7 @@ Metal,,Metal,Métal
 Microphone,,Microphone,Microphone
 Min,,Min,min
 Min Distance,,Min Distance,min Distance
-Miniature Games,,Miniature Games,Jeux de miniatures
+Miniature Games,,Miniature Games,Jeux miniatures
 Misc,,Misc,Divers
 Misc. Settings,,Misc. Settings,Divers. Paramètres
 Misc. Settings...,,Misc. Settings...,Divers. Réglages...
@@ -1269,7 +1269,7 @@ Pure Mode: Floor Mist,,Pure Mode: Floor Mist,Mode Pur: Sol brouillard
 Pure Mode: Hide Custom Image,,Pure Mode: Hide Custom Image,Mode Pur: Cacher les images personnalisées
 Purple,,Purple,Violet
 Push To Talk,,Push To Talk,Appuyez pour parler
-Puzzle Games,,Puzzle Games,Jeux Puzzle
+Puzzle Games,,Puzzle Games,Jeux de puzzle
 Quarter,,Quarter,Trimestre
 Queen,,Queen,Reine
 Queen Cast Iron,,Queen Cast Iron,Reine en fonte
@@ -1781,7 +1781,7 @@ Use to scale an object by stretching its sides. Snap scaling. Scale from center.
 Use to scale an object. Snap scaling. Uniform scale.,,Use to scale an object. Snap scaling. Uniform scale.,Utilisez à l'échelle d'un objet. mise à l'échelle tournemain. échelle uniforme.
 Use two fingers in a dragging motion.,,Use two fingers in a dragging motion.,Utiliser deux doigts dans un mouvement de glissement.
 Use your (Right Stick).,,Use your <Right Stick>.,Utilisez votre <Stick droit>.
-User Interfaces,,User Interfaces,Les interfaces des utilisateurs
+User Interfaces,,User Interfaces,Interfaces Utilisateur
 Utility,,Utility,Utilitaire
 VR Settings,,VR Settings,VR Réglages
 VR Settings...,,VR Settings...,Réglages VR ...
