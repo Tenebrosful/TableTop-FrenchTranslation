@@ -395,7 +395,7 @@ UDP 3478 (sortante)
 UDP 4379 (sortante)
 UDP 4380 (sortante)"
 Connecting to this player.,,Connecting to this player.,Connexion à ce joueur.
-Connecting...,,Connecting...,De liaison...
+Connecting...,,Connecting...,Connexion...
 Console Hotkey Lock,,Console Hotkey Lock,Verrouillage de la console
 Context Menus Can Collapse,,Context Menus Can Collapse,Réduire les menus contextuels
 Context Menus Show GM Notes,,Context Menus Show GM Notes,Afficher les notes du MJ dans les menus contex.
@@ -1317,15 +1317,15 @@ Red,,Red,rouge
 Red 100,,Red 100,rouge 100
 Red Square,,Red Square,carré rouge
 Reflection Intensity,,Reflection Intensity,Intensité de réflexion
-Refresh server list,,Refresh server list,liste des serveurs Actualiser
+Refresh server list,,Refresh server list,Actualiser la liste des serveurs
 Regal,,Regal,Royal
 Region,,Region,Région
 Remove all {0} controls?,,Remove all {0} controls?,Retirez tous les contrôles {0}?
 Remove block on {0}?,,Remove block on {0}?,Retirer le bloc sur {0}?
 Rename,,Rename,Renommer
-Rename theme?,,Rename theme?,Renommer le thème?
+Rename theme?,,Rename theme?,Renommer le thème ?
 Render Drawing over UI,,Render Drawing Over UI,Afficher les dessisn par dessus l'interface
-Repeat current audioclip?,,Repeat current audioclip?,Répétez AudioClip courant?
+Repeat current audioclip?,,Repeat current audioclip?,Répétez l'AudioClip actuel ?
 Reset,,Reset,Réinitialiser
 Reset All,,Reset All,Effacer tout
 Reset Camera,,Reset Camera,Réini. caméra
