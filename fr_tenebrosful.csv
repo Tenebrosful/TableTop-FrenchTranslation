@@ -60,7 +60,7 @@ Add Custom Tag:,,Add Custom Tag:,Ajouter un mot clé personnalisé:
 Add New,,Add New,Nouveau
 Add Tag:,,Add Tag:,Ajouter une étiquette:
 Add a tag to the selected components.,,Add a tag to the selected components.,Ajouter un tag aux composants sélectionnés.
-Additive Load,,Additive Load,charge additif
+Additive Load,,Additive Load,Charger en supplément
 Adds soft shadows to the scene for a greater sense of depth. Costly performance.,,Adds soft shadows to the scene for a greater sense of depth. Costly performance.,Ajoute des ombres douces sur la scène pour un plus grand sens de la profondeur. performances coûteuses.
 Admin,,Admin,Admin
 Advanced Mode,,Advanced Mode,Mode avancé
@@ -388,7 +388,7 @@ Connected through Steam relay servers. Experience might not be optimal.,,"Connec
 Port Forward:
 UDP 3478 (Outbound)
 UDP 4379 (Outbound)
-UDP 4380 (Outbound)","Connecté par l'intermédiaire des serveurs de relais de vapeur. L'expérience pourrait ne pas être optimale.
+UDP 4380 (Outbound)","Connecté par l'intermédiaire des serveurs de relais de Steam. L'expérience pourrait ne pas être optimale.
 
 Port Forward:
 UDP 3478 (sortante)
