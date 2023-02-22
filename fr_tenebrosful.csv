@@ -838,7 +838,7 @@ If freeSpin is enabled the motor will only accelerate but never slow down.,,If f
 "If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.",,"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.","Si vous avez besoin d'un peu plus de structure, vous pouvez activer les Tours afin que chacun sache qui est le tour et quand c'est leur tour."
 Ignore Fog Of War,,Ignore Fog Of War,Ignorer Brouillard
 Image,,Image,Image
-Image On Board,,Image On Board,Image à bord
+Image On Board,,Image On Board,Image sur le plateau
 Image URL,,Image URL,URL de l'image
 "Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.",,"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.","L'image doit être dans le modèle de dés approprié. Modèle se trouve dans le dossier du jeu. Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici."
 Import-Export,,Import/Export,Importer / Exporter
