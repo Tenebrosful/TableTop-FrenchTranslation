@@ -240,18 +240,18 @@ CUSTOM ASSETBUNDLE,,Custom Assetbundle,Assetbundle sur mesure
 CUSTOM BACKGROUND,,Custom Background,Arrière-plan personnalisé
 CUSTOM BOARD,,Custom Board,Conseil personnalisé
 CUSTOM CARD,,Custom Card,Carte personnalisée
-CUSTOM DECK,,Custom Deck,Plate-forme personnalisée
-CUSTOM DICE,,Custom Dice,Dés sur mesure
+CUSTOM DECK,,Custom Deck,Deck personnalisé
+CUSTOM DICE,,Custom Dice,Dés personnalisé
 CUSTOM FIGURINE,,Custom Figurine,Figurine personnalisée
 CUSTOM IMAGE,,Custom Image,Image personnalisée
 CUSTOM JIGSAW,,Custom Jigsaw,Jigsaw personnalisé
-CUSTOM MODEL,,Custom Model,Modèle sur mesure
+CUSTOM MODEL,,Custom Model,Modèle personnalisé
 CUSTOM OBJECT,,Custom Object,Objet personnalisé
 CUSTOM PDF,,Custom PDF,PDF personnalisé
 CUSTOM TABLE,,Custom Table,Tableau personnalisé
-CUSTOM TABLE SQUARE,,Custom Table Square,Table carrée sur mesure
+CUSTOM TABLE SQUARE,,Custom Table Square,Table carrée personnalisée
 CUSTOM TILE,,Custom Tile,Carrelage personnalisé
-CUSTOM TOKEN,,Custom Token,jeton personnalisé
+CUSTOM TOKEN,,Custom Token,Jeton personnalisé
 Calculator,,Calculator,Calculatrice
 Camera,,Camera,Caméra
 Camera Down,,Camera Down,Caméra vers le bas
@@ -272,12 +272,12 @@ Cannot overwrite default themes.,,Cannot overwrite default themes.,Impossible de
 Cap Framerate,,Cap Framerate,Limiter les IPS
 Card,,Card,Carte
 Card Games,,Card Games,Jeux de cartes
-Card Hands,,Card Hands,carte mains
+Card Hands,,Card Hands,Carte mains
 Card Is A Deck For Hotkeys,,Card Is A Deck For Hotkeys,Card Is A Deck For Hotkeys
-Card Scale,,Card Scale,Echelle carte
-CardBot,,CardBot,carte Bot
-CardBots Head Deck,,CardBots Head Deck,CardBots tête plate-forme
-CardBots Main Deck,,CardBots Main Deck,CardBots Pont principal
+Card Scale,,Card Scale,Échelle de la carte
+CardBot,,CardBot,CardBot
+CardBots Head Deck,,CardBots Head Deck,CardBots Head Deck
+CardBots Main Deck,,CardBots Main Deck,CardBots Main Deck
 Cardboard,,Cardboard,Papier carton
 Cards,,Cards,Cartes
 Cards-Per-Deck,,Cards Per Deck,Cartes par jeu
@@ -622,8 +622,8 @@ FACING_TIPPED,,Group Is Tipped,Groupe est basculée
 FACING_UP,,Become Face Up,Devenez face vers le haut
 FIFO,,FIFO,FIFO
 FIXED,,Fixed,Fixé
-Face,,Face,Visage
-"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.","image du visage doit être dans le modèle de plate-forme appropriée. Modèle se trouve dans le dossier du jeu. Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici. recommandé 4096x4096."
+Face,,Face,Face
+"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.","L'image de face doit être dans un modèle de deck approprié. Modèle se trouve dans le dossier du jeu. Téléchargez votre image à un hébergeur, puis copiez collez le lien direct ici. recommandé 4096x4096."
 Face-Down,,Face-Down,Face cachée
 Face-Up,,Face-Up,Face vers le haut
 Facing,,Facing,Orienté vers
@@ -858,8 +858,8 @@ Invert,,Invert,Inverser
 Inverts the camera look directions.,,Inverts the camera look directions.,Inverse les axes de rotation de la caméra.
 Invite,,Invite,Invitation
 Invite Friends,,Invite Friends,Inviter des amis
-Is your card sideways? This rotates ALT Zoom.,,Is your card sideways? This rotates ALT Zoom.,Est-ce votre côté de la carte? Cela tourne ALT Zoom.
-Is your deck sideways? This rotates ALT Zoom.,,Is your deck sideways? This rotates ALT Zoom.,Est-ce votre côté de plate-forme? Cela tourne ALT Zoom.
+Is your card sideways? This rotates ALT Zoom.,,Is your card sideways? This rotates ALT Zoom.,Est-ce que votre carte est de côté ? Cela tourne le ALT Zoom.
+Is your deck sideways? This rotates ALT Zoom.,,Is your deck sideways? This rotates ALT Zoom.,Est-ce que votre paquet est de côté ? Cela tourne le ALT Zoom.
 JIGSAW PUZZLES,,Jigsaw Puzzles,Puzzles
 JOIN,,Join,Rejoindre
 Jigsaw,,Jigsaw,Puzzle
@@ -916,7 +916,7 @@ Layout Zone,,Layout Zone,Zone mise en page
 Layout Zone Tags,,Layout Zone Tags,Mise en page Zone Mots clés
 LayoutZoneAllowSwapping,,"When moving an object from one full group to another, the object you drop on will be moved to the original group.","Lorsque vous déplacez un objet d'un groupe complet à l'autre, l'objet que vous déposez sur sera déplacé vers le groupe d'origine."
 LayoutZoneAlternateDirection,,"Objects added to a group will be aligned up or right, different from the preceding object in the group.  Used, for example, in trick-taking games to make counting easier.","Les objets ajoutés à un groupe sont alignées vers le haut ou à droite, différent de l'objet précédent dans le groupe. Utilisé, par exemple, dans les jeux de prise de truc pour faire compter plus facile."
-LayoutZoneCardsPerDeck,,Sets the size of decks made by the layout zone when it combines newly added cards.,Définit la taille des plate-formes prises par la zone de mise en page quand il combine les cartes nouvellement ajoutées.
+LayoutZoneCardsPerDeck,,Sets the size of decks made by the layout zone when it combines newly added cards.,Définit la taille des paquets prise par la zone de mise en page quand il combine les cartes nouvellement ajoutées.
 LayoutZoneCombineIntoDecks,,Whether cards added to the zone should be combined into decks.  You may specify the number of cards per deck.,Que ce soit les cartes ajoutées à la zone doivent être combinés en ponts. Vous pouvez spécifier le nombre de cartes par pont.
 LayoutZoneComponents,,"Which components will be added to the zone, and how.","Quels composants seront ajoutés à la zone, et comment."
 LayoutZoneDirection,,The directions the groups in the zone expand into.  This will determine the origin corner.,Les directions des groupes dans la zone en expansion. Cela permettra de déterminer l'angle d'origine.
@@ -1280,7 +1280,7 @@ Queen Supporters,,Queen Supporters,Les partisans de la Reine
 Quick Zoom,,Quick Zoom,Zoom rapide
 Quick tap on an object.,,Quick tap on an object.,pression rapide sur un objet.
 Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,,Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,Moyen rapide de modifier les paramètres graphiques sans avoir à modifier les options individuelles. Utilisez uniquement faible ou très faible si vous avez des problèmes d'IPS.
-Quickly drag away from the deck.,,Quickly drag away from the deck.,faites-le glisser rapidement de la plate-forme.
+Quickly drag away from the deck.,,Quickly drag away from the deck.,Faites-le glisser rapidement du paquet.
 Quit playing.,,Quit playing.,Arrête de jouer.
 REMOVE BLINDFOLD,,Remove Blindfold,Retirer Blindfold
 RIGHT_THEN_DOWN,,Right / Down,Droite / Bas
@@ -1537,7 +1537,7 @@ Stackable,,Stackable,empilables
 Stacks like poker chips.,,Stacks like poker chips.,Stacks comme des jetons de poker.
 Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),,Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),Stacks comme des jetons de poker. (Note: collisionneur personnalisé ne déterminer l'épaisseur de la pile)
 Stand Up,,Stand Up,Se lever
-Standard Deck,,Standard Deck,Plate-forme standard
+Standard Deck,,Standard Deck,Deck standard
 Start,,Start,Démarrer
 State,,State,État
 Static,,Static,Statique
