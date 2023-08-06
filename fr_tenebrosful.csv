@@ -646,6 +646,7 @@ Flicking,,Flicking,Flicking
 Flicks in air when thrown.,,Flicks in air when thrown.,Flicks dans l'air lors de la levée.
 Flip,,Flip,Retourner
 Flip Other Axis,,Flip Other Axis,Retour. autre axe
+Flip the table,,Flip the table?,Renverser la table ?
 Floor,,Floor,Sol
 Floor Of Mist,,Floor Of Mist,Floor Of Mist
 Fly Down,,Fly Down,Descendre (Camera 1ère Personne)
@@ -984,6 +985,7 @@ Low Complexity,,Low Complexity,Faible complexité
 Lower-Multi-Grab,,Lower/Multi-Grab,Lower/Multi-Grab
 Lua scripts automatically execute on load.,,Lua scripts automatically execute on load.,Les scripts Lua s'executent automatiquement au chargement.
 Lut Name,,Lut Name,Lut Nom
+MANIPULATED_THE_DECK,,manipulated the deck,manipuler le paquet
 MODEL,,MODEL,MODÈLE
 MODIFIERS,,Modifiers,Modificateurs
 MORE,,More,Plus
@@ -1353,7 +1355,7 @@ Reveal to orange.,,Reveal to orange.,Révéler à l'orange.
 Reveal to pink.,,Reveal to pink.,Révéler au rose.
 Reveal to purple.,,Reveal to purple.,Révéler au violet.
 Reveal to red.,,Reveal to red.,Révéler au rouge.
-Reveal to teal.,,Reveal to teal.,Révéler à sarcelle.
+Reveal to teal.,,Reveal to teal.,Révéler au sarcelle.
 Reveal to white.,,Reveal to white.,Révéler au blanc.
 Reveal to yellow.,,Reveal to yellow.,Révéler au jaune.
 Revealer,,Revealer,Révélateur
@@ -1484,11 +1486,25 @@ Should this object go into player hands?,,Should this object go into player hand
 Should this object receive grid lines projected onto it?,,Should this object receive grid lines projected onto it?,Au cas où cet objet recevoir des lignes de grille projetée sur celui-ci?
 Show For Grid,,Show For Grid,Afficher la grille
 Show For Snap Points,,Show For Snap Points,Afficher les points d'accrochages
+Show Hand,,Show Hand,Montrer la main
 Show Lines,,Show Lines,Afficher les lignes
 Show When Not Snapping,,Show When Not Snapping,Afficher l'indicateur de chute sans point d'accrochage
-Show floating Steam Avatars where the player is seated.,,Show floating Steam Avatars where the player is seated.,Afficher l'avatar des joueurs à leur place assise.
+Show floating Steam Avatars where the player is seated.,,Show floating Steam Avatars where the player is seated.,Afficher l'avatar Steam des joueurs à leur place assise.
+Show hand to all players.,,Show hand to all players.,Montrez la main à tous les joueurs.
+Show hand to blue.,,Show hand to blue.,Montrez la main au bleu.
+Show hand to brown.,,Show hand to brown.,Montrez la main au brun.
+Show hand to chosen player.,,Show hand to chosen player.,Montrez la main au joueur choisi.
+Show hand to green.,,Show hand to green.,Montrez la main au vert.
+Show hand to orange.,,Show hand to orange.,Montrez la main au orange.
+Show hand to pink.,,Show hand to pink.,Montrez la main au rose.
+Show hand to purple.,,Show hand to purple.,Montrez la main au violet.
+Show hand to red.,,Show hand to red.,Montrez la main au rouge.
+Show hand to teal.,,Show hand to teal.,Montrez la main au sarcelle.
+Show hand to white.,,Show hand to white.,Montrez la main au blanc.
+Show hand to yellow.,,Show hand to yellow.,Montrez la main au jaune.
 Show only servers that your friends are in.,,Show only servers that your friends are in.,Afficher uniquement les serveurs que vos amis sont.
 Show-Hide Note,,Show/Hide Note,Afficher / Masquer les notes
+Showing Hand,,Showing Hand,Main visible
 Shuffle,,Shuffle,Mélanger
 Sideways,,Sideways,De côté
 Silver 500,,Silver 500,argent 500
@@ -1549,7 +1565,9 @@ Sticky,,Sticky,Gluant
 Sticky Cards,,Sticky Cards,Cartes Post-it
 Sticky Grab,,Sticky Grab,Post-it Grab
 StickyCardsTooltip,,"When picked up, cards above the grabbed card will also be lifted.","Quand ramassé, cartes au-dessus de la carte saisi seront également levées."
+Stop Looking For Players,,Stop Looking For Players,Arrêter de chercher des joueurs
 Stop Search,,Stop Search,Arrêter la recherche
+Stop showing hand.,,Stop showing hand.,Arrêter de montrer la main.
 Stopwatch,,Stopwatch,Chronomètre
 Store,,Store,Boutique
 Store mod data on disk to speed up mod loading.,,Store mod data on disk to speed up mod loading.,Stocker les données des Mods sur le disque pour accélérer le chargement.
@@ -1967,6 +1985,7 @@ springjointlong,,"Joint that works just like it sounds a spring.
 Right click the jointed object and click Joint to bring up the new menu. ","Joint qui fonctionne exactement comme il sonne un ressort.
 cliquez droit sur l'objet et cliquez sur jointé commun pour afficher le nouveau menu."
 tagslong,,Tags change how components interact with game systems.  If a system has any tags set then only components which have a matching tag will interact with it.,Mots-clés changent la façon dont les composants interagissent avec les systèmes de jeu. Si un système a des balises mis alors que des composants qui ont une étiquette de mise en correspondance d'interagir avec elle.
+typing,,typing,en train d'écrire
 volumescalelong,,"Use to scale an object by stretching its sides.
 <Ctrl> Snap scaling.
 <Shift> Scale from center.","Utiliser à l'échelle d'un objet en étirant ses côtés.
