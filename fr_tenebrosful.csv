@@ -487,7 +487,7 @@ Deal to all.,,Deal to all.,Donner à tous.
 Deal to blue.,,Deal to blue.,Donner au bleu.
 Deal to brown.,,Deal to brown.,Donner au brun.
 Deal to green.,,Deal to green.,Donner au vert.
-Deal to orange.,,Deal to orange.,Donner à l'orange.
+Deal to orange.,,Deal to orange.,Donner au orange.
 Deal to pink.,,Deal to pink.,Donner au rose.
 Deal to purple.,,Deal to purple.,Donner au violet.
 Deal to red.,,Deal to red.,Donner au rouge.
@@ -640,13 +640,13 @@ Filtered Public Servers - All Public Servers,,Filtered Public Servers / All Publ
 Filters,,Filters,filtres
 Find and join a server hosted by another player.,,Find and join a server hosted by another player.,Trouvez et se joindre à un serveur hébergé par un autre joueur.
 First in first out or a queue.,,First in first out or a queue.,"Premier entré, premier sorti ou une file d'attente."
-Fixed Joint,,Fixed Joint,Joint fixe
+Fixed Joint,,Fixed Joint,Joint fix
 Flick,,Flick,Propulser
-Flicking,,Flicking,Flicking
-Flicks in air when thrown.,,Flicks in air when thrown.,Flicks dans l'air lors de la levée.
+Flicking,,Flicking,Propulsion
+Flicks in air when thrown.,,Flicks in air when thrown.,Propulser en l'air quand lancé.
 Flip,,Flip,Retourner
-Flip Other Axis,,Flip Other Axis,Retour. autre axe
-Flip the table,,Flip the table?,Renverser la table ?
+Flip Other Axis,,Flip Other Axis,Retourner sur un autre axe
+Flip the table,,Flip the table?,Retourner la table ?
 Floor,,Floor,Sol
 Floor Of Mist,,Floor Of Mist,Floor Of Mist
 Fly Down,,Fly Down,Descendre (Camera 1ère Personne)
@@ -1490,18 +1490,18 @@ Show Hand,,Show Hand,Montrer la main
 Show Lines,,Show Lines,Afficher les lignes
 Show When Not Snapping,,Show When Not Snapping,Afficher l'indicateur de chute sans point d'accrochage
 Show floating Steam Avatars where the player is seated.,,Show floating Steam Avatars where the player is seated.,Afficher l'avatar Steam des joueurs à leur place assise.
-Show hand to all players.,,Show hand to all players.,Montrez la main à tous les joueurs.
-Show hand to blue.,,Show hand to blue.,Montrez la main au bleu.
-Show hand to brown.,,Show hand to brown.,Montrez la main au brun.
-Show hand to chosen player.,,Show hand to chosen player.,Montrez la main au joueur choisi.
-Show hand to green.,,Show hand to green.,Montrez la main au vert.
-Show hand to orange.,,Show hand to orange.,Montrez la main au orange.
-Show hand to pink.,,Show hand to pink.,Montrez la main au rose.
-Show hand to purple.,,Show hand to purple.,Montrez la main au violet.
-Show hand to red.,,Show hand to red.,Montrez la main au rouge.
-Show hand to teal.,,Show hand to teal.,Montrez la main au sarcelle.
-Show hand to white.,,Show hand to white.,Montrez la main au blanc.
-Show hand to yellow.,,Show hand to yellow.,Montrez la main au jaune.
+Show hand to all players.,,Show hand to all players.,Montrer la main à tous les joueurs.
+Show hand to blue.,,Show hand to blue.,Montrer la main au bleu.
+Show hand to brown.,,Show hand to brown.,Montrer la main au brun.
+Show hand to chosen player.,,Show hand to chosen player.,Montrer la main au joueur choisi.
+Show hand to green.,,Show hand to green.,Montrer la main au vert.
+Show hand to orange.,,Show hand to orange.,Montrer la main au orange.
+Show hand to pink.,,Show hand to pink.,Montrer la main au rose.
+Show hand to purple.,,Show hand to purple.,Montrer la main au violet.
+Show hand to red.,,Show hand to red.,Montrer la main au rouge.
+Show hand to teal.,,Show hand to teal.,Montrer la main au sarcelle.
+Show hand to white.,,Show hand to white.,Montrer la main au blanc.
+Show hand to yellow.,,Show hand to yellow.,Montrer la main au jaune.
 Show only servers that your friends are in.,,Show only servers that your friends are in.,Afficher uniquement les serveurs que vos amis sont.
 Show-Hide Note,,Show/Hide Note,Afficher / Masquer les notes
 Showing Hand,,Showing Hand,Main visible
